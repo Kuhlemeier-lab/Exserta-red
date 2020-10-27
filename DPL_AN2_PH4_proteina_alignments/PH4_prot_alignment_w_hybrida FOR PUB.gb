@@ -1,0 +1,99 @@
+LOCUS       P.hybrida_R27            281 aa            linear   UNA 27-OCT-2020
+DEFINITION  P.hybrida_R27.
+ACCESSION   geneious|urn:local:.:3v-ckttg9v:0
+VERSION     geneious|urn:local:.:3v-ckttg9v:0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     source          1..281
+                     /organism="Petunia x hybrida"
+                     /cultivar="R27"
+                     /db_xref="taxon:4102"
+                     /tissue_type="petal"
+                     /dev_stage="3-4-5"
+                     /label="source Petunia x hybrida"
+ORIGIN      
+        1 mrtpsssstt snkvtpccsk vglkrgpwtp eedeiltnyi nkegegrwrt lpkkagllrc
+       61 gkscrlrwmn ylrpsvkrgh iapdeedlil rlhrllgnrw sliagripgr tdneiknywn
+      121 thlskklish gidprthkpl knsnsssddi tnklassspp ssskandlnp ilsptyissf
+      181 qmeeplgkin thpgeitsld dqyqsnaila eygddlniav tieedvemnc ctddvfssfl
+      241 nslinedmfa cqnqqtngtf qdfdpfmass stpssdqynp s
+//
+LOCUS       P._inflata_PH4           276 aa            linear   UNA 27-OCT-2020
+DEFINITION  P. inflata PH4.
+ACCESSION   geneious|urn:local:.:3v-ckttg9v:1
+VERSION     geneious|urn:local:.:3v-ckttg9v:1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mrtpsssstt snkvtpccsk vglkrgpwtp eedeiltnyi nkegegrwrt lpkkagllrc
+       61 gkscrlrwmn ylrpsvkrgh iapdeedlil rlhrllgnrw sliagripgr tdneiknywn
+      121 thlskklisq gidprthkpl knsnsssddi tnklassska ddlnailspt yissfqmeep
+      181 lgkinthpge itslddqyqs nailadygdd lniavtieed vemncctddv fssflnslin
+      241 edmfasqnqq tngtfqdfdp fmassstpss dqynpn
+//
+LOCUS       P._axillaris_PH4         281 aa            linear   UNA 27-OCT-2020
+DEFINITION  P. axillaris PH4.
+ACCESSION   geneious|urn:local:.:3v-ckttg9v:2
+VERSION     geneious|urn:local:.:3v-ckttg9v:2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     primer_bind     1..7
+                     /Mismatches=0
+                     /Extension="GGGGACAAGTTTGTACAAAAAAGCAGGCTTA"
+                     /created_by="primer3"
+                     /annotation_group="68372470959478c05da60-17b5-4ca6-9578-8b
+                     a866147e6a"
+                     /%GC="42.9"
+                     /Tm="56.5"
+                     /Hairpin_Tm="None"
+                     /Self_Dimer_Tm="None"
+                     /Sequence="ATGAGAACCCCATCATCATCA"
+                     /label="PH4_F"
+ORIGIN      
+        1 mrtpsssstt snkvtpccsk vglkrgpwtp eedeiltnyi nkegegrwrt lpkkagllrc
+       61 gkscrlrwmn ylrpsvkrgh iapdeedlil rlhrllgnrw sliagripgr tdneiknywn
+      121 thlskklish gidprthkpl knsnsssddi tnklassspp ssskandlnp ilsptyissf
+      181 qmeeplgkin thpgeitsld dqyqsnaila eygddlniav tieedvemnc ctddvfssfl
+      241 nslinedmfa cqnqqtngtf qdfdpfmass stpssdqynp s
+//
+LOCUS       P._secreta_PH4           281 aa            linear   UNA 27-OCT-2020
+DEFINITION  P. secreta PH4.
+ACCESSION   geneious|urn:local:.:3v-ckttg9v:3
+VERSION     geneious|urn:local:.:3v-ckttg9v:3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mrtpsssstt snkvtpccsk vglkrgpwtp eedeiltnyi nkegegrwrt lpkkagllrc
+       61 gkscrlrwmn ylrpsvkrgh iapdeedlil rlhrllgnrw sliagripgr tdneiknywn
+      121 thlskklish gidprthkpl knsnsssddi tnklassspp ssskandlnp ilsptyissf
+      181 qmeeplgkin thpgeitsld dqyqsnaila eygddlniav tieedvemnc ctddvfssfl
+      241 nslinedmfa cqnqqtngtf qdfdpfmass stpssdqynp s
+//
+LOCUS       P._exserta_PH4           281 aa            linear   UNA 27-OCT-2020
+DEFINITION  P. exserta PH4.
+ACCESSION   geneious|urn:local:.:3v-ckttg9v:4
+VERSION     geneious|urn:local:.:3v-ckttg9v:4
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mrtpsssstt snkvtpccsk vglkrgpwtp eedeiltnyi nkegegrwrt lpkkagllrc
+       61 gkscrlrwmn ylrpsvkrgh iapdeedlil rlhrllgnrw sliagripgr tdneiknywn
+      121 thlskklisq gidprthkpl knsnsssddi tnklassspp ssskandlnp ilsptyissf
+      181 qmeeplgkin thpgeitsld dqyqsnaila eygddlniav tieedvemnc ctddvfssfl
+      241 nslinedmfa cqnqqtngtf qdfdpfmass stpssdqynp s
+//
