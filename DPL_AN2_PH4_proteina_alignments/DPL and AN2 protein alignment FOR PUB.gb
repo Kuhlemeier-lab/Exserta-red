@@ -1,0 +1,99 @@
+LOCUS       P._inflata_DPL           261 aa            linear   UNA 27-OCT-2020
+DEFINITION  gene=Peinf101Scf00113g02010.
+ACCESSION   geneious|urn:local:.:s-cktbmnr:0
+VERSION     geneious|urn:local:.:s-cktbmnr:0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf speevdlilr lhkllgnrws liagrlpgrt andvknywnt qllrrsnfap
+      121 pqqhqrkctk aikimaknvi irpqprnlsk laknnvsnys tihkdehskq kmfiekptaa
+      181 evvsrdnnve wwtnllldnc ngfekaapes tsavkniesl lneellstsi nggtnypmqe
+      241 tgdmgwsdfs idsdlwelll q
+//
+LOCUS       P._axillaris_DPL         262 aa            linear   UNA 27-OCT-2020
+DEFINITION  gene=Peaxi162Scf01210g00002.
+ACCESSION   geneious|urn:local:.:s-cktbmnr:1
+VERSION     geneious|urn:local:.:s-cktbmnr:1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfas
+      121 ppqqherkct keirtmakna iirpqprnls klaknnvsnh stihkdeysk qkmfiekptm
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmgwsdf cidsdpwell lq
+//
+LOCUS       P._secreta_DPL           262 aa            linear   UNA 27-OCT-2020
+DEFINITION  len=1113 path=[1091:0-1112] [-1, 1091, -2].
+ACCESSION   geneious|urn:local:.:s-cktbmnr:2
+VERSION     geneious|urn:local:.:s-cktbmnr:2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfap
+      121 ppqqherkct kairtmakna iirpqprnls klaknnvsny stihkdeysk qkmfiekptt
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmglsdf sidsdlwell lq
+//
+LOCUS       P._exserta_DPL           262 aa            linear   UNA 27-OCT-2020
+DEFINITION  P. exserta DPL.
+ACCESSION   geneious|urn:local:.:s-cktbmnr:3
+VERSION     geneious|urn:local:.:s-cktbmnr:3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc            163
+                     /created_by="User"
+                     /label
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfap
+      121 ppqqherkct keirtmakna iirpqprnls klaknnvsnh stkhkdeysk qkmfiekptt
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmgwsdf cidsdpwell lq
+//
+LOCUS       P._inflata_AN2           255 aa            linear   UNA 27-OCT-2020
+DEFINITION  P_inflata_acc_S6.
+ACCESSION   geneious|urn:local:.:s-cktbmnr:4
+VERSION     geneious|urn:local:.:s-cktbmnr:4
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mstsnastsg vrkgawteee dlllreciek ygegkwhlvp vraglnrcrk scrlrwlnyl
+       61 rphikrgdfs ldevdlilrl hkllgnrwsl iagrlpgrta ndvknywnth lrkkliaphd
+      121 qkqesknkam kitenniikp rprtfsrpam nhvscwngks cskntidkne gdteiikfsd
+      181 ekqkpeesid dglqwwanll annieieelv synsptllhe etapsvnaes sltqeggsgl
+      241 sdfsvdiddi wdlls
+//
+LOCUS       P._secreta_AN2           254 aa            linear   UNA 27-OCT-2020
+DEFINITION  P_secreta_acc_5.
+ACCESSION   geneious|urn:local:.:s-cktbmnr:5
+VERSION     geneious|urn:local:.:s-cktbmnr:5
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mstsnastsg vrkgawteee dlllreciek ygegkwhlvp vraglnrcrk scrlrwlnyl
+       61 rphikrgdfs ldevelilrl hkllgnrwsl iagrlpgrta ndvknywnth lrkklivphd
+      121 qkqesktamk itenniikpr prtfsrpamn hvscwngksc nkntidkneg dteiikftde
+      181 kqkpeesidd glqwwanlla nnieikdlan gnsptllhee iaplvniesn lmqegesgls
+      241 dfsvdidgiw dlls
+//
