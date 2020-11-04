@@ -1,0 +1,86 @@
+LOCUS       P.inflata_AAT            444 aa            linear   UNA 04-NOV-2020
+DEFINITION  gene=Peinf101Scf00125g06023 HXXXD-type acyl-transferase family
+            protein.
+ACCESSION   geneious|urn:local:.:2h-cm0f856:0
+VERSION     geneious|urn:local:.:2h-cm0f856:0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mngscfqiei lneklikpsl ptpnnlncyk lsffdqlapn favpllyfyp aeksnlqsae
+       61 tihaqlqnsl setltkfypl agrfsedgts iecydqgviy leakvngqln efldnaykns
+      121 dlvkifvppi rirtaelpyr pmmaiqatmf ecgglalavq ivhtlgdgfs gcavtdewak
+      181 vsrmekssna rtlqfrsdla dvfppkknif dmvkkgrprg yemkivtrif mfdevaiskl
+      241 kenvnkslsy ssrvevvtal iwrslmrvvr frvghnrpsm lqfamnlrgr aspklvgedq
+      301 nlfgnfyldi pikcvpshdn qdlelheivt lirdtknkil skianassee iislviestn
+      361 kiregyndde idlyptsslc rfplnecdfg wakptwvsri nvpfqmfflm dsktgievrv
+      421 clneddmlkl etdidivefs smpk
+//
+LOCUS       P.axillaris_AAT          453 aa            linear   UNA 04-NOV-2020
+DEFINITION  gene=Peaxi162Scf00160g00833.
+ACCESSION   geneious|urn:local:.:2h-cm0f856:1
+VERSION     geneious|urn:local:.:2h-cm0f856:1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 msqtnqnlng scfqieilne klikpslptp nnlncyklsf fdqlapnfav pllyfyptvp
+       61 peksnlqsae sthaqlqnsl setltkfypl agrfsedgts iechdqgviy leakvngqln
+      121 efldnaykns dlvkifvppi rirtaelpyr pmmaiqatmf ecgglalavq ivhtlgdgfs
+      181 gcavtdewak vsrmeksnar tlqfrsdlad vfppkdnifd mvkkgrprgy emkivtrifm
+      241 fdevaisklk envnkslsys srvevvtali wrclmrvvrf rvghnrpsml qfamnlrgra
+      301 spklvgedqn lfgnfyldip ikcvpshdnq dlelheivtl irdtknkils kianasseei
+      361 islviestnk iregynddei dlyptsslcr fplnecdfgw akptwvsrin vpfqmfflmd
+      421 sttgievrvc lneddmlkle tdidivefss vpk
+//
+LOCUS       P.secreta_AAT            453 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.secreta AAT.
+ACCESSION   geneious|urn:local:.:2h-cm0f856:2
+VERSION     geneious|urn:local:.:2h-cm0f856:2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    453^454
+                     /Original_Bases="*GSIKWILFCISIFTFCCFLSFNLVFKYLIKQV*IFHMELK
+                     AYLEFQSR"
+                     /label="*GSIKWILFCISIFTFCCFLSFNLVFKYLIKQV*IFHMELKAYLEFQSR"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 msqtnqnlng scfqieilne klikpslptp nnlncyklsf fdqlapnfav pllyfyptvp
+       61 peksnlqsae sihaqlqnsl setltkfypl agrfsedgts iechdqgviy leakvngqln
+      121 efldnaykns dlvkifvppi rirtaelpyr pmmaiqatmf ecgglalavq ivhtlgdgfs
+      181 gcavtdewak vsrmeksnar tlqfrsdlad vfppkdnifd mvkkgrprgy emkivtrifm
+      241 fdevaisklk envnkslsys srvevvtali wrslmrvvrf rvghnrpsml qfamnlrgra
+      301 spklvgedqn lfgnfyldip ikcvpshdnq dlelheivtl irdtknktls kianasseei
+      361 islviestnk iregynddei dlyptsslcr fplnecdfgw akptwvsrin vpfqmfflmd
+      421 sktgievrvc lneddmlkle tdtdivefss vpn
+//
+LOCUS       P.exserta_AAT            450 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.exserta AAT.
+ACCESSION   geneious|urn:local:.:2h-cm0f856:3
+VERSION     geneious|urn:local:.:2h-cm0f856:3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    450^451
+                     /Original_Bases="*GSIKWILFCVSIFTFCCFLSFNLVFKYLIKQV*IFHM"
+                     /label="*GSIKWILFCVSIFTFCCFLSFNLVFKYLIKQV*IFHM"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 msqtnqnlng scfqieilne klikpslptp nnlncyklsf fdqlapnfav pllyfypsek
+       61 snlqsaetih aqlqnslsei ltkfyplagr fsedgtsiec hdqgviylea kvngqlnefl
+      121 dnayknsdlv kifvppirir taelpyrpmm aiqatmfecg glalavqivh tlgdgfsgca
+      181 vtdewakvsr mekrnartlq fhsdladvfp pkdnifdmvk kgrprgyemk ivtrifmfde
+      241 vaisklkenv nkslsyssrv evvtaliwrs lmrvvrfrvg hnrpsmlqfa mnlrgraspk
+      301 lvgedqnlfg nfyldipikc vpshdnqdle lheivtlird tknkilskia nasseeiisl
+      361 viestnkire gynddeidly ptsslcrfpl necdfgwakp twvsrinvpf qmfflmdskt
+      421 gievrvclne ddmlkletds divefssepk
+//

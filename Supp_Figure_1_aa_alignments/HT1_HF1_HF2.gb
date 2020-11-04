@@ -1,0 +1,253 @@
+LOCUS       P.inflata_HT1            512 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.inflata_HT1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:0
+VERSION     geneious|urn:local:.:2r-cm0ffai:0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 meilglilyt vifsfllqfi lrsffrkryp lplppgpkpw piignlvhlg pkphqstaam
+       61 aqtygplmhl kmgfvdvvva asasvaaqfl kthdanfssr ppnsgaehma ynyqdlvfap
+      121 ygprwrmlrk icsvhlfstk alddfrhvrq devktltsal asagqkpvkl gqllnvcttn
+      181 alarvmlskr vfadgsgdvd pqaaefksmv vemmvvsgvf nigdfipqln wldiqgvaak
+      241 mkklharfda fltdileehk gknfgemkdl lstlislknd dadndggkft dteikallln
+      301 lfvagtdtss stvewaiael irnpkilaqa qqeidkvvgr drlvgeldla qltyleaivk
+      361 etfrlhpstp lslpriases cevngyyipk gstlllnvwa iardpnawad plefrperfl
+      421 pggekpkvdv rgndfevipf gagrricagm nlgirmvqlm iatlihafnw dlpsgqlpek
+      481 lnmeeayglt lqradplvvh prprldaqay ig
+//
+LOCUS       P.axillaris_HT1          512 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.axillaris_HT1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:1
+VERSION     geneious|urn:local:.:2r-cm0ffai:1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 meilslilyt vifsfllqfi lrsffrkryp lplppgpkpw piignlvhlg pkphqstaam
+       61 aqtygplmhl kmgfvdvvva asasvaaqfl kthdanfssr ppnsgaehma ynyqdlvfap
+      121 ygprwrmlrk icsvhlfstk alddfrhvrq devktltral asagqkpvkl gqllnvcttn
+      181 alarvmlgkr vfadgsgdvd pqaaefksmv vemmvvagvf nigdfipqln wldiqgvaak
+      241 mkklharfda fltdileehk gknfgemkdl lstlislknd dadndggklt dteikallln
+      301 lfvagtdtss stvewaiael irnpkilaqa qqeidkvvgr drlvgeldla qltyleaivk
+      361 etfrlhpstp lslpriases ceingyfipk gstlllnvwa iardpnawad plefrperfl
+      421 pggekpkvdv rgndfevipf gagrricagm nlgirmvqlm iatlihafnw dlvsgqlpem
+      481 lnmeeayglt lqradplvvh prprleaqay ig
+//
+LOCUS       P.secreta_HT1            512 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.secreta_HT1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:2
+VERSION     geneious|urn:local:.:2r-cm0ffai:2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 meilslilyt vifsfllqfi lrsffrkryp lplppgpkpw piignlvhlg pkphqstaam
+       61 aqtygplmhl kmgfvdvvva asasvaaqfl kthdanfssr ppnsgaehma ynyqdlvfap
+      121 ygprwrmlrk icsvhlfstk alddfrhvrq devktltral asagqkpvkl gqllnvcttn
+      181 alarvmlgkr vfadgsgdvd pqaaefksmv vemmvvagvf nigdfipqln wldiqgvaak
+      241 mkklharfda fltdileehk gknfgemkdl lstlislknd dadndggklt dteikallln
+      301 lfvagtdtss stvewaiael irnpkilaqa qqeidkvvgr drlvgeldla qltyleaivk
+      361 etfrlhpstp lslpriases ceingyfipk gstlllnvwa iardpnawad plefrperfl
+      421 pggekpkvdv rgndfevipf gagrricagm nlgirmvqlm iatlihafnw dlvsgqlpem
+      481 lnmeeayglt lqradplvvy prprleaqay ig
+//
+LOCUS       P.exserta_HT1            512 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.exserta_HT1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:3
+VERSION     geneious|urn:local:.:2r-cm0ffai:3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 meifslilyt fifsfllqfi lrsffrkryp lplppgpkpw piignlvhlg pkphqstaam
+       61 aqtygplmhl kmgfvdvvva asasvaaqfl kthdanfssr ppnsgaehma ynyqdlvfap
+      121 ygprwrmlrk icsvhlfstk alddfrhvrq devktltral asagqkpvkl gqllnvcttn
+      181 alarvmlgkr vfadgsgdvd pqaaefksmv vemmvvagvf nigdfipqln wldiqgvaak
+      241 mkklharfda fltdileehk gknfgemkdl lstlislknd dadndggklt dteikallln
+      301 lfvagtdtss stvewaiael irnpkilaqa qqeidkvvgr drlvgeldla qltyleaivk
+      361 etfrlhpstp lslpriases ceingyfipk gstlllnvwa iardpnawad plefrperfl
+      421 pggekpkvdv rgndfevipf gagrricagm nlgirmvqlm iatlihafnw dlvsgqlpem
+      481 lnmeeayglt lqradplvvh prprleaqay ig
+//
+LOCUS       P.inflata_HF1            506 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.inflata_HF1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:4
+VERSION     geneious|urn:local:.:2r-cm0ffai:4
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mmlltelaaa tsifliahii istlisettg rclppgprgw pvigalpllg amphvslakm
+       61 akrygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ynaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm sdmsregqrv vvaemltfam
+      181 anmigqvmls krvfvdkgve vnefkdmvve lmtiagyfni gdfipclawm dlqgiekrmk
+      241 rlhkkfdall tkmfdehkat tyerkgkpdf ldvvmengdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkn ptilrkaqae mdqvigrnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpqvwenple fnperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl vhsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlq fdvyvp
+//
+LOCUS       P.axillaris_HF1          506 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.axillaris_HF1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:5
+VERSION     geneious|urn:local:.:2r-cm0ffai:5
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mmlltelaaa tlitliahii istlisktts rrlppgprgw pvigalpllg amphvslakm
+       61 akkygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ynaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm sdmsregqrv vvaemltfam
+      181 anmigqvmls krvfvdkgve vnefkdmvve lmtiagyfni gdfipclawm dlqgiekrmk
+      241 rlhkkfdall tkmfdehkat tferkgkqdf ldvvmengdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkk ptilkkaqae mdqvigrnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpqvwenple fnperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl ihsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlq mdvyvp
+//
+LOCUS       P.secreta_HF1            506 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.secreta_HF1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:6
+VERSION     geneious|urn:local:.:2r-cm0ffai:6
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mmlltelaaa tlitliahii istlisktts rrlppgprgw pvigalpllg amphvslakm
+       61 akkygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ynaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm sdmsregqrv vvaemltfam
+      181 anmigqvmls krvfvdkgve vnefkdmvve lmtiagyfni gdfipclawm dlqgiekrmk
+      241 rlhkkfdall tkmfdehkat tferkgkqdf ldvvmengdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkk ptilkkaqae mdqvigrnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpqvwenple fnperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl ihsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlq mdvyvp
+//
+LOCUS       P.exserta_HF1            506 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.exserta_HF1.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:7
+VERSION     geneious|urn:local:.:2r-cm0ffai:7
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mmlltelaaa tlitliahii istlisktts rrlppgprgw pvigalpllg amphvslakm
+       61 akkygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ynaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm sdmsregqrv vvaemltfam
+      181 anmigqvmls krvfvdkgve vnefkdmvve lmtiagyfni gdfipclawm dlqgiekrmk
+      241 rlhkkfdall tkmfdehkat tferkgkqdf ldvvmengdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkk ptilkkaqae mdqvigrnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpqvwenple fnperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl ihsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlq mdvyvp
+//
+LOCUS       P.inflata_HF2            508 aa            linear   UNA 04-NOV-2020
+DEFINITION  Petunia integrifolia subsp. integrifolia Hf2 gene for flavonoid 3',
+            5'-hydroxylase, complete cds.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:8
+VERSION     geneious|urn:local:.:2r-cm0ffai:8
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mvllselaaa tlifltthif istllsitng rrlppgprgw pvigalpllg amphvslakm
+       61 akkygaimyl kvgtcgmvva stpdaakafl ktldlnfsnr ppnagathla ygaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm fdmsregerv vvaemltfam
+      181 anmigqvils krvfvnkgve vnefkdmvve lmttagyfni gdfipclawm dlqgiekgmk
+      241 rlhkkfdall tkmfdehkat syerkgkpdf ldcvmenrdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkn pailkkaqge mdqvignnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpevwenple fyperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl vhsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlp idvyapla
+//
+LOCUS       P.axillaris_HF2          508 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.axillaris_HF2.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:9
+VERSION     geneious|urn:local:.:2r-cm0ffai:9
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    508^509
+                     /Original_Bases="*NMPLRWFQFWVV*"
+                     /label="*NMPLRWFQFWVV*"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 mvllselaaa tlifltthif istllsitng rrlppgprgw pligalpllg amphvslakm
+       61 akkygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ygaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm fdmsregerv vvaemltfam
+      181 anmigqvils krvfvnkgve vnefkdmvve lmttagyfni gdfipclawm dlqgiekgmk
+      241 rlhkkfdall tkmfdehkat scerkgkqdf ldcvmenrdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkn pailkkaqae mdqvignnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpevwenple fyperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl vhsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlp idvyaplg
+//
+LOCUS       P.secreta_HF2            508 aa            linear   UNA 04-NOV-2020
+DEFINITION  len=1890 path=[1:0-1889] [-1, 1, -2].
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:10
+VERSION     geneious|urn:local:.:2r-cm0ffai:10
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    508^509
+                     /Original_Bases="*NMPLRWFQFWVV*"
+                     /label="*NMPLRWFQFWVV*"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 mvllselaaa tlifltthif istllsitng rrlppgprgw pligalpllg amphvslakm
+       61 akkygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ygaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm fdmsregerv vvaemltfam
+      181 anmigqvils krvfvnkgve vnefkdmvve lmttagyfni gdfipclawm dlqgiekgmk
+      241 rlhkkfdall tkmfdehkat scerkgkqdf ldcvmenrdn segerlsttn ikalllnlft
+      301 agtdtsssai ewalaemmkn pailkkaqae mdqvignnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpevwenple fyperflsgr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl vhsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlp idvyaplg
+//
+LOCUS       P.exserta_HF2            508 aa            linear   UNA 04-NOV-2020
+DEFINITION  P.exserta_HF2.
+ACCESSION   geneious|urn:local:.:2r-cm0ffai:11
+VERSION     geneious|urn:local:.:2r-cm0ffai:11
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    508^509
+                     /Original_Bases="*NMPLRWFQFWVV*"
+                     /label="*NMPLRWFQFWVV*"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 mvllselaaa tlifltthif istllsitng rrlppgprgw pligalpllg amphvslakm
+       61 akkygaimyl kvgtcgmava stpdaakafl ktldinfsnr ppnagathla ygaqdmvfah
+      121 ygprwkllrk lsnlhmlggk alenwanvra nelghmlksm fdmsregerv vvaemltfam
+      181 anmigqvils krvfvnkgve vnefkdmvve lmttagyfni gdfipclawm dlqgiekgmk
+      241 rlhkkfdall tkmfdehkat scerkgkqdf ldcvmenrdn segerlsttn ikvlllnlft
+      301 agtdtsssai ewalaemmkn pailkkaqae mdqvignnrr llesdipnlp ylraicketf
+      361 rkhpstplnl prisnepciv dgyyipkntr lsvniwaigr dpevwenple fyperflsrr
+      421 nskidprgnd felipfgagr ricagtrmgi vmveyilgtl vhsfdwklps evielnmeea
+      481 fglalqkavp leamvtprlp idvyaplg
+//

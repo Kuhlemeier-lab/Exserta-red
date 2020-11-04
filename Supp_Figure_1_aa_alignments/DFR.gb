@@ -1,0 +1,514 @@
+LOCUS       P._hybrida               380 aa            linear   UNA 04-NOV-2020
+DEFINITION  Concatenation of 2 sequences.
+ACCESSION   geneious|urn:local:.:26-cm0f5w9:0
+VERSION     geneious|urn:local:.:26-cm0f5w9:0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    
+                     /Original_Bases="*NCNLTR*RKLAKQY"
+                     /label="*NCNLTR*RKLAKQY"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 maseavhaps ppvavptvcv tgaagfigsw lvmrllergy nvhatvrdpe nkkkvkhlle
+       61 lpkadtnltl wkadltvegs fdeaiqgcqg vfhvatpmdf eskdpenevi kptvrgmlsi
+      121 iescakantv krlvftssag tldvqeqqkl fydqtswsdl dfiyakkmtg wmyfaskila
+      181 ekaameeakk knidfisiip plvvgpfitp tfppslital slitgneahy ciikqgqyvh
+      241 lddlceahif lyehpkadgr ficsshhaii ydvakmvrek wpeyyvptef kgidkdlpvv
+      301 sfsskkltdm gfqfkytled mykgaidtcr qkqllpfstr saednghnre aiaisaqnya
+      361 sgkenapvan htemlsnvev
+//
+LOCUS       P._inflata               380 aa            linear   UNA 04-NOV-2020
+DEFINITION  Concatenation of 2 sequences.
+ACCESSION   geneious|urn:local:.:26-cm0f5w9:1
+VERSION     geneious|urn:local:.:26-cm0f5w9:1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    
+                     /Original_Bases="*NCNLTR*SMLA*QY"
+                     /label="*NCNLTR*SMLA*QY"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 maseavhaps ppvavptvcv tgaagfigsw lvmrllergy nvhatvrdpe nkkkvkhlle
+       61 lpkadtnltl wkadltvegs fdeaiqgcqg vfhvatpmdf eskdpenevi kptvrgmlsi
+      121 iescakantv krlvftssag tldvqeqqkl fydqtswsdl dfiyakkmtg wmyfvskila
+      181 eksameetkk knidfisiip plvvgpfitp tfppslital slitgneahy ciikqgqyvh
+      241 lddlceahif lyehpkadgr ficsshhaii ydvakmvrek wpeyyvptef kgidkdlpvv
+      301 sfsskkltdm gfqfkytled mykgaietcr qkqllpfstr saadnghnre aiaisaqnya
+      361 sgkenapvan htemltnvev
+//
+LOCUS       P._axillaris             380 aa            linear   UNA 04-NOV-2020
+DEFINITION  Concatenation of 2 sequences.
+ACCESSION   geneious|urn:local:.:26-cm0f5w9:2
+VERSION     geneious|urn:local:.:26-cm0f5w9:2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    
+                     /Original_Bases="*NCNLTR*RKLAKQY"
+                     /label="*NCNLTR*RKLAKQY"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 maseavhaps ppvavptvcv tgaagfigsw lvmrllergy nvhatvrdpe nkkkvkhlle
+       61 lpkadtnltl wkadltvegs fdeaiqgcqg vfhvatpmdf eskdpenevi kptvrgmlsi
+      121 iescakantv krlvftssag tldvqeqqkl fydqtswsdl dfiyakkmtg wmyfaskila
+      181 ekaameeakk knidfisiip plvvgpfitp tfppslital slitgneahy ciikqgqyvh
+      241 lddlceahif lyehpkadgr ficsshhaii ydvakmvrek wpeyyvptef kgidkdlpvv
+      301 sfsskkltdm gfqfkytled mykgaidtcr qkqllpfstr saednghnre aiaisaqnya
+      361 sgkenapvan htemlsnvev
+//
+LOCUS       P._secreta               380 aa            linear   UNA 04-NOV-2020
+DEFINITION  Concatenation of 2 sequences.
+ACCESSION   geneious|urn:local:.:26-cm0f5w9:3
+VERSION     geneious|urn:local:.:26-cm0f5w9:3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    
+                     /Original_Bases="*NCNLTR*RKLAKQY"
+                     /label="*NCNLTR*RKLAKQY"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 maseavhaps ppvavptvcv tgaagfigsw lvmrllergy nvhatvrdpe nkkkvkhlle
+       61 lpkadtnltl wkadltvegs fdeaiqgcqg vfhvatpmdf eskdpenevi kptvrgmlsi
+      121 iescakantv krlvftssag tldvqeqqkl fydqtswsdl dfiyakkmtg wmyfaskila
+      181 ekaameeakk knidfisiip plvvgpfitp tfppslital slitgneahy ciikqgqyvh
+      241 lddlceahif lyehpkadgr ficsshhaii ydvakmvrek wpeyyvptef kgidkdlpvv
+      301 sfsskkltdm gfqfkytled mykgaidtcr qkqllpfstr saednghnre aiaisaqnya
+      361 sgkenapvan htemlsnvev
+//
+LOCUS       P._exserta               380 aa            linear   UNA 04-NOV-2020
+DEFINITION  Concatenation of 2 sequences.
+ACCESSION   geneious|urn:local:.:26-cm0f5w9:4
+VERSION     geneious|urn:local:.:26-cm0f5w9:4
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_difference 345
+                     /created_by="User"
+                     /label="exserta difference"
+     misc_feature    
+                     /Original_Bases="*NCNLTR*RKLAKQY"
+                     /label="*NCNLTR*RKLAKQY"
+                     /note="Geneious type: Editing History Deletion"
+ORIGIN      
+        1 maseavhaps ppvavptvcv tgaagfigsw lvmrllergy nvhatvrdpe nkkkvkhlle
+       61 lpkadtnltl wkadltvegs fdeaiqgcqg vfhvatpmdf eskdpenevi kptvrgmlsi
+      121 iescakantv krlvftssag tldvqeqqkl fydqtswsdl dfiyakkmtg wmyfaskila
+      181 ekaameeakk knidfisiip plvvgpfitp tfppslital slitgneahy ciikqgqyvh
+      241 lddlceahif lyehpkadgr ficsshhaii ydvakmvrek wpeyyvptef kgidkdlpvv
+      301 sfsskkltdm gfqfkytled mykgaidtcr qkqllpfstr saedsghnre aiaisaqnya
+      361 sgkenapvan htemlsnvev
+//
+LOCUS       Vitis                    337 aa            linear   UNA 06-JAN-2018
+DEFINITION  RecName: Full=Dihydroflavonol 4-reductase; Short=DFR; AltName:
+            Full=Dihydrokaempferol 4-reductase; AltName: Full=Flavanone
+            4-reductase; Short=FNR.
+ACCESSION   P51110
+KEYWORDS    .
+SOURCE      Vitis vinifera (wine grape)
+  ORGANISM  Vitis vinifera
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; Vitales; Vitaceae; Vitis.
+FEATURES             Location/Qualifiers
+     source          1..337
+                     /organism="Vitis vinifera"
+                     /db_xref="taxon:29760"
+                     /label="source Vitis vinifera"
+     Region          1..337
+                     /gene="DFR"
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Dihydroflavonol 4-reductase. /FTId=PRO_0000215572."
+                     /label="Mature chain"
+     Region          1..337
+                     /gene="DFR"
+                     /region_name="PLN02650"
+                     /note="dihydroflavonol-4-reductase"
+                     /db_xref="CDD:178256"
+                     /label="PLN02650"
+     strand          7..12
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Region          8..300
+                     /gene="DFR"
+                     /region_name="AR_like_SDR_e"
+                     /note="aldehyde reductase, flavonoid reductase, and
+                     related proteins, extended (e) SDRs; cd05193"
+                     /db_xref="CDD:187536"
+                     /label="AR like SDR e"
+     Site            order(12,14..17,37,84..88,126..127,163,167,190..193)
+                     /gene="DFR"
+                     /site_type="other"
+                     /note="NADP binding site [chemical binding]"
+                     /db_xref="CDD:187536"
+                     /label="DFR"
+     Site            12..18
+                     /gene="DFR"
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     helix           16..27
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     strand          31..37
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Site            37
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     helix           42..49
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     Site            44
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     helix           54..57
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     strand          58..62
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Site            64..65
+                     /gene="DFR"
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     turn            68..71
+                     /gene="DFR"
+                     /region_name="Hydrogen bonded turn"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Hydrogen bonded turn Region"
+     helix           72..75
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     strand          79..83
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Site            84..86
+                     /gene="DFR"
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     Site            order(88,90,128..130,133,163,190..192,208,222,227,292)
+                     /gene="DFR"
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:187536"
+                     /label="DFR"
+     helix           95..98
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     helix           100..116
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     Site            order(103,128,163,167)
+                     /gene="DFR"
+                     /site_type="active"
+                     /db_xref="CDD:187536"
+                     /label="DFR"
+     strand          121..126
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Site            128
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000244|PDB:2NNL,
+                     ECO:0000269|Ref.2}."
+                     /label="DFR"
+     helix           129..131
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     misc            131..156
+                     /created_by="User"
+                     /modified_by="User"
+                     /label="substrate specificity"
+     misc            133
+                     /created_by="User"
+                     /label="Site 133 substrate specificity"
+     Site            133
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000244|PDB:2NNL,
+                     ECO:0000269|Ref.2}."
+                     /label="DFR"
+     strand          135..137
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     strand          140..142
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     helix           150..156
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     helix           161..180
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     Site            163
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000244|PDB:2NNL,
+                     ECO:0000269|Ref.2}."
+                     /label="DFR"
+     Site            167
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     Site            167
+                     /gene="DFR"
+                     /site_type="active"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Proton donor. {ECO:0000250|UniProtKB:Q12068}."
+                     /label="DFR"
+     strand          185..190
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Site            190..193
+                     /gene="DFR"
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     strand          192..195
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     strand          198..201
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2NNL}."
+                     /label="Beta-strand region"
+     helix           204..209
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     Site            204
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate; via carbonyl oxygen.
+                     {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     Site            205
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000244|PDB:2NNL, ECO:0000269|Ref.2}."
+                     /label="DFR"
+     Site            208
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000244|PDB:2NNL,
+                     ECO:0000269|Ref.2}."
+                     /label="DFR"
+     helix           211..214
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     helix           217..219
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     turn            221..224
+                     /gene="DFR"
+                     /region_name="Hydrogen bonded turn"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /modified_by="User"
+                     /label="Hydrogen bonded turn Region"
+     strand          225..230
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     Site            227
+                     /gene="DFR"
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000244|PDB:2NNL,
+                     ECO:0000269|Ref.2}."
+                     /label="DFR"
+     misc            228..243
+                     /created_by="User"
+                     /modified_by="User"
+                     /label="227-243 area of substrate specificity"
+     helix           231..243
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     strand          249..253
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     strand          256..259
+                     /gene="DFR"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Beta-strand region"
+     helix           260..270
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     helix           295..299
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+     helix           308..321
+                     /gene="DFR"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:2IOD}."
+                     /label="Helical region"
+ORIGIN      
+        1 mgsqsetvcv tgasgfigsw lvmrllerrl tvratvrdpt nvkkvkhlld lpkaethltl
+       61 wkadladegs fdeaikgctg vfhvatpmdf eskdpenevi kptiegmlgi mkscaaaktv
+      121 rrlvftssag tvniqehqlp vydescwsdm efcrakkmta wmyfvsktla eqaawkyake
+      181 nnidfitiip tlvvgpfims smppslital spitgneahy siirqgqfvh lddlcnahiy
+      241 lfenpkaegr yicsshdcii ldlakmlrek ypeyniptef kgvdenlksv cfsskkltdl
+      301 gfefkysled mftgavdtcr akgllrpshe kpvdgkt
+//
