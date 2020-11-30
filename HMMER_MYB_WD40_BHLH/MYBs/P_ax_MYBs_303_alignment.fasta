@@ -1,0 +1,1239 @@
+# STOCKHOLM 1.0
+
+#=GS Peaxi162Scf00045g00138.1.mrna1/2-129   DE [subseq from] Peaxi162Scf00045g00138.1.mrna1
+#=GS Peaxi162Scf00045g00138.1.mrna1/204-327 DE [subseq from] Peaxi162Scf00045g00138.1.mrna1
+#=GS Peaxi162Scf00007g02128.1.mrna1/3-127   DE [subseq from] Peaxi162Scf00007g02128.1.mrna1
+#=GS Peaxi162Scf00007g02128.1.mrna1/209-327 DE [subseq from] Peaxi162Scf00007g02128.1.mrna1
+#=GS Peaxi162Scf00073g01731.1.mrna1/3-118   DE [subseq from] Peaxi162Scf00073g01731.1.mrna1
+#=GS Peaxi162Scf00073g01731.1.mrna1/280-356 DE [subseq from] Peaxi162Scf00073g01731.1.mrna1
+#=GS Peaxi162Scf01101g00048.1.mrna1/2-129   DE [subseq from] Peaxi162Scf01101g00048.1.mrna1
+#=GS Peaxi162Scf00041g01811.1.mrna1/2-128   DE [subseq from] Peaxi162Scf00041g01811.1.mrna1
+#=GS Peaxi162Scf00391g00621.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00391g00621.1.mrna1
+#=GS Peaxi162Scf00166g01118.1.mrna1/1-130   DE [subseq from] Peaxi162Scf00166g01118.1.mrna1
+#=GS Peaxi162Scf00371g00087.1.mrna1/2-128   DE [subseq from] Peaxi162Scf00371g00087.1.mrna1
+#=GS Peaxi162Scf00779g00512.1.mrna1/2-128   DE [subseq from] Peaxi162Scf00779g00512.1.mrna1
+#=GS Peaxi162Scf00137g01812.1.mrna1/2-127   DE [subseq from] Peaxi162Scf00137g01812.1.mrna1
+#=GS Peaxi162Scf00362g00831.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00362g00831.1.mrna1
+#=GS Peaxi162Scf00042g02519.1.mrna1/2-131   DE [subseq from] Peaxi162Scf00042g02519.1.mrna1
+#=GS Peaxi162Scf01221g00042.1.mrna1/2-130   DE [subseq from] Peaxi162Scf01221g00042.1.mrna1
+#=GS Peaxi162Scf00007g02414.1.mrna1/2-128   DE [subseq from] Peaxi162Scf00007g02414.1.mrna1
+#=GS Peaxi162Scf00516g00673.1.mrna1/3-130   DE [subseq from] Peaxi162Scf00516g00673.1.mrna1
+#=GS Peaxi162Scf00191g01323.1.mrna1/2-129   DE [subseq from] Peaxi162Scf00191g01323.1.mrna1
+#=GS Peaxi162Scf03779g00019.1.mrna1/2-127   DE [subseq from] Peaxi162Scf03779g00019.1.mrna1
+#=GS Peaxi162Scf00485g00916.1.mrna1/3-129   DE [subseq from] Peaxi162Scf00485g00916.1.mrna1
+#=GS Peaxi162Scf00194g00218.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00194g00218.1.mrna1
+#=GS Peaxi162Scf00170g01335.1.mrna1/2-131   DE [subseq from] Peaxi162Scf00170g01335.1.mrna1
+#=GS Peaxi162Scf00606g00073.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00606g00073.1.mrna1
+#=GS Peaxi162Scf03974g00003.1.mrna1/2-130   DE [subseq from] Peaxi162Scf03974g00003.1.mrna1
+#=GS Peaxi162Scf00056g00026.1.mrna1/2-129   DE [subseq from] Peaxi162Scf00056g00026.1.mrna1
+#=GS Peaxi162Scf00002g00037.1.mrna1/1-130   DE [subseq from] Peaxi162Scf00002g00037.1.mrna1
+#=GS Peaxi162Scf00543g00414.1.mrna1/17-144  DE [subseq from] Peaxi162Scf00543g00414.1.mrna1
+#=GS Peaxi162Scf00015g03118.1.mrna1/3-127   DE [subseq from] Peaxi162Scf00015g03118.1.mrna1
+#=GS Peaxi162Scf00170g01336.1.mrna1/2-131   DE [subseq from] Peaxi162Scf00170g01336.1.mrna1
+#=GS Peaxi162Scf00349g00057.1.mrna1/15-141  DE [subseq from] Peaxi162Scf00349g00057.1.mrna1
+#=GS Peaxi162Scf00008g02024.1.mrna1/2-126   DE [subseq from] Peaxi162Scf00008g02024.1.mrna1
+#=GS Peaxi162Scf00452g00412.1.mrna1/5-124   DE [subseq from] Peaxi162Scf00452g00412.1.mrna1
+#=GS Peaxi162Scf00102g01858.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00102g01858.1.mrna1
+#=GS Peaxi162Scf00523g00004.1.mrna1/39-127  DE [subseq from] Peaxi162Scf00523g00004.1.mrna1
+#=GS Peaxi162Scf00523g00004.1.mrna1/92-196  DE [subseq from] Peaxi162Scf00523g00004.1.mrna1
+#=GS Peaxi162Scf00038g01640.1.mrna1/3-124   DE [subseq from] Peaxi162Scf00038g01640.1.mrna1
+#=GS Peaxi162Scf00700g00732.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00700g00732.1.mrna1
+#=GS Peaxi162Scf00714g00029.1.mrna1/64-151  DE [subseq from] Peaxi162Scf00714g00029.1.mrna1
+#=GS Peaxi162Scf00714g00029.1.mrna1/118-222 DE [subseq from] Peaxi162Scf00714g00029.1.mrna1
+#=GS Peaxi162Scf00134g00189.1.mrna1/1-130   DE [subseq from] Peaxi162Scf00134g00189.1.mrna1
+#=GS Peaxi162Scf00451g00059.1.mrna1/1-148   DE [subseq from] Peaxi162Scf00451g00059.1.mrna1
+#=GS Peaxi162Scf00203g01315.1.mrna1/18-143  DE [subseq from] Peaxi162Scf00203g01315.1.mrna1
+#=GS Peaxi162Scf00177g00512.1.mrna1/2-127   DE [subseq from] Peaxi162Scf00177g00512.1.mrna1
+#=GS Peaxi162Scf00036g00710.1.mrna1/3-128   DE [subseq from] Peaxi162Scf00036g00710.1.mrna1
+#=GS Peaxi162Scf00013g00223.1.mrna1/2-126   DE [subseq from] Peaxi162Scf00013g00223.1.mrna1
+#=GS Peaxi162Scf00274g00625.1.mrna1/2-127   DE [subseq from] Peaxi162Scf00274g00625.1.mrna1
+#=GS Peaxi162Scf01256g00017.1.mrna1/2-127   DE [subseq from] Peaxi162Scf01256g00017.1.mrna1
+#=GS Peaxi162Scf00777g00521.1.mrna1/2-121   DE [subseq from] Peaxi162Scf00777g00521.1.mrna1
+#=GS Peaxi162Scf00074g01820.1.mrna1/3-126   DE [subseq from] Peaxi162Scf00074g01820.1.mrna1
+#=GS Peaxi162Scf00080g00064.1.mrna1/3-127   DE [subseq from] Peaxi162Scf00080g00064.1.mrna1
+#=GS Peaxi162Scf00129g00228.1.mrna1/2-120   DE [subseq from] Peaxi162Scf00129g00228.1.mrna1
+#=GS Peaxi162Scf00001g00231.1.mrna1/2-120   DE [subseq from] Peaxi162Scf00001g00231.1.mrna1
+#=GS Peaxi162Scf00013g01023.1.mrna1/2-125   DE [subseq from] Peaxi162Scf00013g01023.1.mrna1
+#=GS Peaxi162Scf00420g00240.1.mrna1/1-129   DE [subseq from] Peaxi162Scf00420g00240.1.mrna1
+#=GS Peaxi162Scf00102g01226.1.mrna1/1-132   DE [subseq from] Peaxi162Scf00102g01226.1.mrna1
+#=GS Peaxi162Scf00129g01231.1.mrna1/3-131   DE [subseq from] Peaxi162Scf00129g01231.1.mrna1
+#=GS Peaxi162Scf00305g00045.1.mrna1/1-139   DE [subseq from] Peaxi162Scf00305g00045.1.mrna1
+#=GS Peaxi162Scf00886g00028.1.mrna1/3-125   DE [subseq from] Peaxi162Scf00886g00028.1.mrna1
+#=GS Peaxi162Scf00147g00136.1.mrna1/2-120   DE [subseq from] Peaxi162Scf00147g00136.1.mrna1
+#=GS Peaxi162Scf00118g00310.1.mrna1/5-124   DE [subseq from] Peaxi162Scf00118g00310.1.mrna1
+#=GS Peaxi162Scf00004g02328.1.mrna1/21-135  DE [subseq from] Peaxi162Scf00004g02328.1.mrna1
+#=GS Peaxi162Scf00876g00221.1.mrna1/1-128   DE [subseq from] Peaxi162Scf00876g00221.1.mrna1
+#=GS Peaxi162Scf00428g00117.1.mrna1/12-139  DE [subseq from] Peaxi162Scf00428g00117.1.mrna1
+#=GS Peaxi162Scf00228g00914.1.mrna1/23-148  DE [subseq from] Peaxi162Scf00228g00914.1.mrna1
+#=GS Peaxi162Scf00753g00338.1.mrna1/11-133  DE [subseq from] Peaxi162Scf00753g00338.1.mrna1
+#=GS Peaxi162Scf00096g01718.1.mrna1/2-130   DE [subseq from] Peaxi162Scf00096g01718.1.mrna1
+#=GS Peaxi162Scf00311g01112.1.mrna1/2-125   DE [subseq from] Peaxi162Scf00311g01112.1.mrna1
+#=GS Peaxi162Scf00015g01036.1.mrna1/12-130  DE [subseq from] Peaxi162Scf00015g01036.1.mrna1
+#=GS Peaxi162Scf00847g00211.1.mrna1/2-125   DE [subseq from] Peaxi162Scf00847g00211.1.mrna1
+#=GS Peaxi162Scf00020g02349.1.mrna1/11-130  DE [subseq from] Peaxi162Scf00020g02349.1.mrna1
+#=GS Peaxi162Scf00658g00110.1.mrna1/6-118   DE [subseq from] Peaxi162Scf00658g00110.1.mrna1
+#=GS Peaxi162Scf00682g00009.1.mrna1/2-119   DE [subseq from] Peaxi162Scf00682g00009.1.mrna1
+#=GS Peaxi162Scf01464g00024.1.mrna1/8-128   DE [subseq from] Peaxi162Scf01464g00024.1.mrna1
+#=GS Peaxi162Scf00797g00013.1.mrna1/2-126   DE [subseq from] Peaxi162Scf00797g00013.1.mrna1
+#=GS Peaxi162Scf00125g01321.1.mrna1/19-135  DE [subseq from] Peaxi162Scf00125g01321.1.mrna1
+#=GS Peaxi162Scf00575g00016.1.mrna1/2-156   DE [subseq from] Peaxi162Scf00575g00016.1.mrna1
+#=GS Peaxi162Scf00164g00216.1.mrna1/13-128  DE [subseq from] Peaxi162Scf00164g00216.1.mrna1
+#=GS Peaxi162Scf00165g00128.1.mrna1/58-151  DE [subseq from] Peaxi162Scf00165g00128.1.mrna1
+#=GS Peaxi162Scf00165g00128.1.mrna1/116-219 DE [subseq from] Peaxi162Scf00165g00128.1.mrna1
+#=GS Peaxi162Scf00007g00823.1.mrna1/24-137  DE [subseq from] Peaxi162Scf00007g00823.1.mrna1
+#=GS Peaxi162Scf01007g00117.1.mrna1/11-128  DE [subseq from] Peaxi162Scf01007g00117.1.mrna1
+#=GS Peaxi162Scf01194g00013.1.mrna1/27-147  DE [subseq from] Peaxi162Scf01194g00013.1.mrna1
+#=GS Peaxi162Scf00526g00820.1.mrna1/38-143  DE [subseq from] Peaxi162Scf00526g00820.1.mrna1
+#=GS Peaxi162Scf00578g00007.1.mrna1/7-117   DE [subseq from] Peaxi162Scf00578g00007.1.mrna1
+#=GS Peaxi162Scf00978g00214.1.mrna1/35-141  DE [subseq from] Peaxi162Scf00978g00214.1.mrna1
+#=GS Peaxi162Scf01210g00002.1.mrna1/7-128   DE [subseq from] Peaxi162Scf01210g00002.1.mrna1
+#=GS Peaxi162Scf00342g00113.1.mrna1/35-140  DE [subseq from] Peaxi162Scf00342g00113.1.mrna1
+#=GS Peaxi162Scf00268g00046.1.mrna1/2-120   DE [subseq from] Peaxi162Scf00268g00046.1.mrna1
+#=GS Peaxi162Scf01969g00021.1.mrna1/7-129   DE [subseq from] Peaxi162Scf01969g00021.1.mrna1
+#=GS Peaxi162Scf00578g00008.1.mrna1/7-120   DE [subseq from] Peaxi162Scf00578g00008.1.mrna1
+#=GS Peaxi162Scf00007g02122.1.mrna1/4-127   DE [subseq from] Peaxi162Scf00007g02122.1.mrna1
+#=GS Peaxi162Scf00088g01621.1.mrna1/4-127   DE [subseq from] Peaxi162Scf00088g01621.1.mrna1
+#=GS Peaxi162Scf00018g00228.1.mrna1/3-127   DE [subseq from] Peaxi162Scf00018g00228.1.mrna1
+#=GS Peaxi162Scf00006g00098.1.mrna1/3-128   DE [subseq from] Peaxi162Scf00006g00098.1.mrna1
+#=GS Peaxi162Scf00007g02125.1.mrna1/4-128   DE [subseq from] Peaxi162Scf00007g02125.1.mrna1
+#=GS Peaxi162Scf00411g00008.1.mrna1/3-116   DE [subseq from] Peaxi162Scf00411g00008.1.mrna1
+#=GS Peaxi162Scf00007g00207.1.mrna1/3-144   DE [subseq from] Peaxi162Scf00007g00207.1.mrna1
+#=GS Peaxi162Scf00986g00227.1.mrna1/3-116   DE [subseq from] Peaxi162Scf00986g00227.1.mrna1
+#=GS Peaxi162Scf00164g00073.1.mrna1/30-147  DE [subseq from] Peaxi162Scf00164g00073.1.mrna1
+#=GS Peaxi162Scf00579g00055.1.mrna1/3-122   DE [subseq from] Peaxi162Scf00579g00055.1.mrna1
+#=GS Peaxi162Scf00515g00013.1.mrna1/7-118   DE [subseq from] Peaxi162Scf00515g00013.1.mrna1
+#=GS Peaxi162Scf00304g01018.1.mrna1/8-126   DE [subseq from] Peaxi162Scf00304g01018.1.mrna1
+#=GS Peaxi162Scf00304g00919.1.mrna1/9-124   DE [subseq from] Peaxi162Scf00304g00919.1.mrna1
+#=GS Peaxi162Scf00269g00088.1.mrna1/2-117   DE [subseq from] Peaxi162Scf00269g00088.1.mrna1
+#=GS Peaxi162Scf00911g00012.1.mrna1/2-119   DE [subseq from] Peaxi162Scf00911g00012.1.mrna1
+#=GS Peaxi162Scf00058g00238.1.mrna1/24-148  DE [subseq from] Peaxi162Scf00058g00238.1.mrna1
+#=GS Peaxi162Scf00276g00412.1.mrna1/25-80   DE [subseq from] Peaxi162Scf00276g00412.1.mrna1
+#=GS Peaxi162Scf00276g00412.1.mrna1/44-150  DE [subseq from] Peaxi162Scf00276g00412.1.mrna1
+#=GS Peaxi162Scf00763g00441.1.mrna1/5-120   DE [subseq from] Peaxi162Scf00763g00441.1.mrna1
+#=GS Peaxi162Scf00033g00251.1.mrna1/6-119   DE [subseq from] Peaxi162Scf00033g00251.1.mrna1
+#=GS Peaxi162Scf01302g00033.1.mrna1/45-159  DE [subseq from] Peaxi162Scf01302g00033.1.mrna1
+#=GS Peaxi162Scf00945g00023.1.mrna1/10-123  DE [subseq from] Peaxi162Scf00945g00023.1.mrna1
+#=GS Peaxi162Scf00566g00051.1.mrna1/24-139  DE [subseq from] Peaxi162Scf00566g00051.1.mrna1
+#=GS Peaxi162Scf01010g00010.1.mrna1/38-144  DE [subseq from] Peaxi162Scf01010g00010.1.mrna1
+#=GS Peaxi162Scf00377g00925.1.mrna1/3-112   DE [subseq from] Peaxi162Scf00377g00925.1.mrna1
+#=GS Peaxi162Scf00038g01818.1.mrna1/10-116  DE [subseq from] Peaxi162Scf00038g01818.1.mrna1
+#=GS Peaxi162Scf00284g00077.1.mrna1/8-112   DE [subseq from] Peaxi162Scf00284g00077.1.mrna1
+#=GS Peaxi162Scf00929g00071.1.mrna1/31-143  DE [subseq from] Peaxi162Scf00929g00071.1.mrna1
+#=GS Peaxi162Scf00078g00024.1.mrna1/2-115   DE [subseq from] Peaxi162Scf00078g00024.1.mrna1
+#=GS Peaxi162Scf01068g00314.1.mrna1/82-199  DE [subseq from] Peaxi162Scf01068g00314.1.mrna1
+#=GS Peaxi162Scf00066g01813.1.mrna1/12-125  DE [subseq from] Peaxi162Scf00066g01813.1.mrna1
+#=GS Peaxi162Scf00171g00047.1.mrna1/2-114   DE [subseq from] Peaxi162Scf00171g00047.1.mrna1
+#=GS Peaxi162Scf00009g00022.1.mrna1/180-296 DE [subseq from] Peaxi162Scf00009g00022.1.mrna1
+#=GS Peaxi162Scf01819g00004.1.mrna1/133-252 DE [subseq from] Peaxi162Scf01819g00004.1.mrna1
+#=GS Peaxi162Scf00540g00619.1.mrna1/110-226 DE [subseq from] Peaxi162Scf00540g00619.1.mrna1
+#=GS Peaxi162Scf00160g00722.1.mrna1/2-118   DE [subseq from] Peaxi162Scf00160g00722.1.mrna1
+#=GS Peaxi162Scf00047g01824.1.mrna1/23-122  DE [subseq from] Peaxi162Scf00047g01824.1.mrna1
+#=GS Peaxi162Scf00330g00418.1.mrna1/83-114  DE [subseq from] Peaxi162Scf00330g00418.1.mrna1
+#=GS Peaxi162Scf00330g00418.1.mrna1/123-219 DE [subseq from] Peaxi162Scf00330g00418.1.mrna1
+#=GS Peaxi162Scf00090g00168.1.mrna1/2-98    DE [subseq from] Peaxi162Scf00090g00168.1.mrna1
+#=GS Peaxi162Scf00132g01412.1.mrna1/6-113   DE [subseq from] Peaxi162Scf00132g01412.1.mrna1
+#=GS Peaxi162Scf00222g00715.1.mrna1/2-25    DE [subseq from] Peaxi162Scf00222g00715.1.mrna1
+#=GS Peaxi162Scf00222g00715.1.mrna1/27-102  DE [subseq from] Peaxi162Scf00222g00715.1.mrna1
+#=GS Peaxi162Scf00071g00135.1.mrna1/2-45    DE [subseq from] Peaxi162Scf00071g00135.1.mrna1
+#=GS Peaxi162Scf00071g00135.1.mrna1/45-107  DE [subseq from] Peaxi162Scf00071g00135.1.mrna1
+#=GS Peaxi162Scf00222g00821.1.mrna1/2-45    DE [subseq from] Peaxi162Scf00222g00821.1.mrna1
+#=GS Peaxi162Scf00222g00821.1.mrna1/43-107  DE [subseq from] Peaxi162Scf00222g00821.1.mrna1
+#=GS Peaxi162Scf00001g00599.1.mrna1/20-122  DE [subseq from] Peaxi162Scf00001g00599.1.mrna1
+#=GS Peaxi162Scf00354g00068.1.mrna1/4-89    DE [subseq from] Peaxi162Scf00354g00068.1.mrna1
+#=GS Peaxi162Scf00165g00111.1.mrna1/3-117   DE [subseq from] Peaxi162Scf00165g00111.1.mrna1
+#=GS Peaxi162Scf00503g00613.1.mrna1/20-135  DE [subseq from] Peaxi162Scf00503g00613.1.mrna1
+#=GS Peaxi162Scf00222g00521.1.mrna1/28-134  DE [subseq from] Peaxi162Scf00222g00521.1.mrna1
+#=GS Peaxi162Scf01314g00012.1.mrna1/2-84    DE [subseq from] Peaxi162Scf01314g00012.1.mrna1
+#=GS Peaxi162Scf00683g00242.1.mrna1/348-403 DE [subseq from] Peaxi162Scf00683g00242.1.mrna1
+#=GS Peaxi162Scf00683g00242.1.mrna1/400-490 DE [subseq from] Peaxi162Scf00683g00242.1.mrna1
+#=GS Peaxi162Scf00683g00242.1.mrna1/493-565 DE [subseq from] Peaxi162Scf00683g00242.1.mrna1
+#=GS Peaxi162Scf00944g00140.1.mrna1/2-47    DE [subseq from] Peaxi162Scf00944g00140.1.mrna1
+#=GS Peaxi162Scf00944g00140.1.mrna1/44-107  DE [subseq from] Peaxi162Scf00944g00140.1.mrna1
+#=GS Peaxi162Scf00009g00621.1.mrna1/3-79    DE [subseq from] Peaxi162Scf00009g00621.1.mrna1
+#=GS Peaxi162Scf00273g00087.1.mrna1/1-69    DE [subseq from] Peaxi162Scf00273g00087.1.mrna1
+#=GS Peaxi162Scf00074g00355.1.mrna1/2-45    DE [subseq from] Peaxi162Scf00074g00355.1.mrna1
+#=GS Peaxi162Scf00074g00355.1.mrna1/42-89   DE [subseq from] Peaxi162Scf00074g00355.1.mrna1
+#=GS Peaxi162Scf00114g00127.1.mrna1/2-109   DE [subseq from] Peaxi162Scf00114g00127.1.mrna1
+#=GS Peaxi162Scf01251g00013.1.mrna1/2-44    DE [subseq from] Peaxi162Scf01251g00013.1.mrna1
+#=GS Peaxi162Scf01251g00013.1.mrna1/47-84   DE [subseq from] Peaxi162Scf01251g00013.1.mrna1
+#=GS Peaxi162Scf00840g00121.1.mrna1/2-51    DE [subseq from] Peaxi162Scf00840g00121.1.mrna1
+#=GS Peaxi162Scf00840g00121.1.mrna1/77-114  DE [subseq from] Peaxi162Scf00840g00121.1.mrna1
+#=GS Peaxi162Scf00065g00016.1.mrna1/1-70    DE [subseq from] Peaxi162Scf00065g00016.1.mrna1
+#=GS Peaxi162Scf00295g01125.1.mrna1/2-45    DE [subseq from] Peaxi162Scf00295g01125.1.mrna1
+#=GS Peaxi162Scf00295g01125.1.mrna1/43-76   DE [subseq from] Peaxi162Scf00295g01125.1.mrna1
+#=GS Peaxi162Scf00110g00004.1.mrna1/3-72    DE [subseq from] Peaxi162Scf00110g00004.1.mrna1
+#=GS Peaxi162Scf00689g00121.1.mrna1/164-210 DE [subseq from] Peaxi162Scf00689g00121.1.mrna1
+#=GS Peaxi162Scf00689g00121.1.mrna1/211-252 DE [subseq from] Peaxi162Scf00689g00121.1.mrna1
+#=GS Peaxi162Scf00089g01411.1.mrna1/2-45    DE [subseq from] Peaxi162Scf00089g01411.1.mrna1
+#=GS Peaxi162Scf00089g01411.1.mrna1/43-77   DE [subseq from] Peaxi162Scf00089g01411.1.mrna1
+#=GS Peaxi162Scf00128g00742.1.mrna1/1-45    DE [subseq from] Peaxi162Scf00128g00742.1.mrna1
+#=GS Peaxi162Scf00128g00742.1.mrna1/42-77   DE [subseq from] Peaxi162Scf00128g00742.1.mrna1
+#=GS Peaxi162Scf00304g00074.1.mrna1/5-86    DE [subseq from] Peaxi162Scf00304g00074.1.mrna1
+#=GS Peaxi162Scf00521g00814.1.mrna1/5-83    DE [subseq from] Peaxi162Scf00521g00814.1.mrna1
+#=GS Peaxi162Scf00135g00313.1.mrna1/5-98    DE [subseq from] Peaxi162Scf00135g00313.1.mrna1
+#=GS Peaxi162Scf00050g00512.1.mrna1/1-38    DE [subseq from] Peaxi162Scf00050g00512.1.mrna1
+#=GS Peaxi162Scf00786g00439.1.mrna1/40-84   DE [subseq from] Peaxi162Scf00786g00439.1.mrna1
+#=GS Peaxi162Scf00007g00289.1.mrna1/13-50   DE [subseq from] Peaxi162Scf00007g00289.1.mrna1
+#=GS Peaxi162Scf00700g00217.1.mrna1/1-45    DE [subseq from] Peaxi162Scf00700g00217.1.mrna1
+#=GS Peaxi162Scf00725g00019.1.mrna1/19-64   DE [subseq from] Peaxi162Scf00725g00019.1.mrna1
+#=GS Peaxi162Scf00725g00019.1.mrna1/108-153 DE [subseq from] Peaxi162Scf00725g00019.1.mrna1
+#=GS Peaxi162Scf00029g00131.1.mrna1/335-378 DE [subseq from] Peaxi162Scf00029g00131.1.mrna1
+#=GS Peaxi162Scf00029g00131.1.mrna1/383-469 DE [subseq from] Peaxi162Scf00029g00131.1.mrna1
+#=GS Peaxi162Scf00681g00435.1.mrna1/31-56   DE [subseq from] Peaxi162Scf00681g00435.1.mrna1
+#=GS Peaxi162Scf00681g00435.1.mrna1/111-155 DE [subseq from] Peaxi162Scf00681g00435.1.mrna1
+#=GS Peaxi162Scf00951g00332.1.mrna1/19-70   DE [subseq from] Peaxi162Scf00951g00332.1.mrna1
+#=GS Peaxi162Scf00951g00332.1.mrna1/109-154 DE [subseq from] Peaxi162Scf00951g00332.1.mrna1
+#=GS Peaxi162Scf00519g00059.1.mrna1/18-50   DE [subseq from] Peaxi162Scf00519g00059.1.mrna1
+#=GS Peaxi162Scf00519g00059.1.mrna1/82-126  DE [subseq from] Peaxi162Scf00519g00059.1.mrna1
+#=GS Peaxi162Scf00957g00330.1.mrna1/20-64   DE [subseq from] Peaxi162Scf00957g00330.1.mrna1
+#=GS Peaxi162Scf00957g00330.1.mrna1/109-154 DE [subseq from] Peaxi162Scf00957g00330.1.mrna1
+#=GS Peaxi162Scf25743g00028.1.mrna1/243-285 DE [subseq from] Peaxi162Scf25743g00028.1.mrna1
+#=GS Peaxi162Scf25743g00028.1.mrna1/290-348 DE [subseq from] Peaxi162Scf25743g00028.1.mrna1
+#=GS Peaxi162Scf00141g00622.1.mrna1/32-78   DE [subseq from] Peaxi162Scf00141g00622.1.mrna1
+#=GS Peaxi162Scf00141g00622.1.mrna1/128-172 DE [subseq from] Peaxi162Scf00141g00622.1.mrna1
+#=GS Peaxi162Scf00014g00715.1.mrna1/30-74   DE [subseq from] Peaxi162Scf00014g00715.1.mrna1
+#=GS Peaxi162Scf00014g00715.1.mrna1/137-179 DE [subseq from] Peaxi162Scf00014g00715.1.mrna1
+#=GS Peaxi162Scf00526g00520.1.mrna1/11-55   DE [subseq from] Peaxi162Scf00526g00520.1.mrna1
+#=GS Peaxi162Scf00526g00520.1.mrna1/91-132  DE [subseq from] Peaxi162Scf00526g00520.1.mrna1
+#=GS Peaxi162Scf01058g00154.1.mrna1/18-68   DE [subseq from] Peaxi162Scf01058g00154.1.mrna1
+#=GS Peaxi162Scf01058g00154.1.mrna1/124-167 DE [subseq from] Peaxi162Scf01058g00154.1.mrna1
+#=GS Peaxi162Scf00013g00940.1.mrna1/28-57   DE [subseq from] Peaxi162Scf00013g00940.1.mrna1
+#=GS Peaxi162Scf00013g00940.1.mrna1/96-156  DE [subseq from] Peaxi162Scf00013g00940.1.mrna1
+#=GS Peaxi162Scf00102g00926.1.mrna1/203-246 DE [subseq from] Peaxi162Scf00102g00926.1.mrna1
+#=GS Peaxi162Scf00102g00926.1.mrna1/322-381 DE [subseq from] Peaxi162Scf00102g00926.1.mrna1
+#=GS Peaxi162Scf00102g00926.1.mrna1/428-471 DE [subseq from] Peaxi162Scf00102g00926.1.mrna1
+#=GS Peaxi162Scf00401g00025.1.mrna1/21-69   DE [subseq from] Peaxi162Scf00401g00025.1.mrna1
+#=GS Peaxi162Scf00401g00025.1.mrna1/112-155 DE [subseq from] Peaxi162Scf00401g00025.1.mrna1
+#=GS Peaxi162Scf00366g00316.1.mrna1/62-98   DE [subseq from] Peaxi162Scf00366g00316.1.mrna1
+#=GS Peaxi162Scf00366g00316.1.mrna1/149-185 DE [subseq from] Peaxi162Scf00366g00316.1.mrna1
+#=GS Peaxi162Scf00015g00720.1.mrna1/17-69   DE [subseq from] Peaxi162Scf00015g00720.1.mrna1
+#=GS Peaxi162Scf00015g00720.1.mrna1/136-180 DE [subseq from] Peaxi162Scf00015g00720.1.mrna1
+#=GS Peaxi162Scf00334g00006.1.mrna1/33-56   DE [subseq from] Peaxi162Scf00334g00006.1.mrna1
+#=GS Peaxi162Scf00334g00006.1.mrna1/116-158 DE [subseq from] Peaxi162Scf00334g00006.1.mrna1
+#=GS Peaxi162Scf00119g00028.1.mrna1/7-48    DE [subseq from] Peaxi162Scf00119g00028.1.mrna1
+#=GS Peaxi162Scf00119g00028.1.mrna1/116-162 DE [subseq from] Peaxi162Scf00119g00028.1.mrna1
+#=GS Peaxi162Scf01390g00030.1.mrna1/514-558 DE [subseq from] Peaxi162Scf01390g00030.1.mrna1
+#=GS Peaxi162Scf01390g00030.1.mrna1/563-648 DE [subseq from] Peaxi162Scf01390g00030.1.mrna1
+#=GS Peaxi162Scf25743g00024.1.mrna1/568-610 DE [subseq from] Peaxi162Scf25743g00024.1.mrna1
+#=GS Peaxi162Scf00681g00412.1.mrna1/31-57   DE [subseq from] Peaxi162Scf00681g00412.1.mrna1
+#=GS Peaxi162Scf00454g00323.1.mrna1/172-220 DE [subseq from] Peaxi162Scf00454g00323.1.mrna1
+#=GS Peaxi162Scf01390g00031.1.mrna1/767-812 DE [subseq from] Peaxi162Scf01390g00031.1.mrna1
+#=GS Peaxi162Scf01390g00031.1.mrna1/817-903 DE [subseq from] Peaxi162Scf01390g00031.1.mrna1
+#=GS Peaxi162Scf00217g00912.1.mrna1/93-131  DE [subseq from] Peaxi162Scf00217g00912.1.mrna1
+#=GS Peaxi162Scf00038g01737.1.mrna1/5-33    DE [subseq from] Peaxi162Scf00038g01737.1.mrna1
+#=GS Peaxi162Scf00160g01038.1.mrna1/171-217 DE [subseq from] Peaxi162Scf00160g01038.1.mrna1
+#=GS Peaxi162Scf41047g00002.1.mrna1/204-249 DE [subseq from] Peaxi162Scf41047g00002.1.mrna1
+#=GS Peaxi162Scf00003g00125.1.mrna1/11-60   DE [subseq from] Peaxi162Scf00003g00125.1.mrna1
+#=GS Peaxi162Scf00016g02929.1.mrna1/5-36    DE [subseq from] Peaxi162Scf00016g02929.1.mrna1
+#=GS Peaxi162Scf00385g00010.1.mrna1/235-282 DE [subseq from] Peaxi162Scf00385g00010.1.mrna1
+#=GS Peaxi162Scf00494g00102.1.mrna1/5-36    DE [subseq from] Peaxi162Scf00494g00102.1.mrna1
+#=GS Peaxi162Scf00152g00527.1.mrna1/5-39    DE [subseq from] Peaxi162Scf00152g00527.1.mrna1
+#=GS Peaxi162Scf00207g01353.1.mrna1/4-34    DE [subseq from] Peaxi162Scf00207g01353.1.mrna1
+#=GS Peaxi162Scf00677g00012.1.mrna1/131-164 DE [subseq from] Peaxi162Scf00677g00012.1.mrna1
+#=GS Peaxi162Scf00449g00319.1.mrna1/5-36    DE [subseq from] Peaxi162Scf00449g00319.1.mrna1
+#=GS Peaxi162Scf00123g01118.1.mrna1/408-466 DE [subseq from] Peaxi162Scf00123g01118.1.mrna1
+#=GS Peaxi162Scf00677g00011.1.mrna1/129-162 DE [subseq from] Peaxi162Scf00677g00011.1.mrna1
+#=GS Peaxi162Scf00092g01520.1.mrna1/23-69   DE [subseq from] Peaxi162Scf00092g01520.1.mrna1
+#=GS Peaxi162Scf00366g00045.1.mrna1/18-56   DE [subseq from] Peaxi162Scf00366g00045.1.mrna1
+#=GS Peaxi162Scf00102g01055.1.mrna1/242-282 DE [subseq from] Peaxi162Scf00102g01055.1.mrna1
+#=GS Peaxi162Scf00102g01055.1.mrna1/287-351 DE [subseq from] Peaxi162Scf00102g01055.1.mrna1
+#=GS Peaxi162Scf00171g00419.1.mrna1/54-110  DE [subseq from] Peaxi162Scf00171g00419.1.mrna1
+#=GS Peaxi162Scf00358g00058.1.mrna1/40-92   DE [subseq from] Peaxi162Scf00358g00058.1.mrna1
+#=GS Peaxi162Scf00038g01824.1.mrna1/437-491 DE [subseq from] Peaxi162Scf00038g01824.1.mrna1
+#=GS Peaxi162Scf00003g02843.1.mrna1/5-36    DE [subseq from] Peaxi162Scf00003g02843.1.mrna1
+#=GS Peaxi162Scf00632g00012.1.mrna1/957-995 DE [subseq from] Peaxi162Scf00632g00012.1.mrna1
+#=GS Peaxi162Scf00124g00012.1.mrna1/10-55   DE [subseq from] Peaxi162Scf00124g00012.1.mrna1
+#=GS Peaxi162Scf00931g00117.1.mrna1/24-54   DE [subseq from] Peaxi162Scf00931g00117.1.mrna1
+#=GS Peaxi162Scf01096g00316.1.mrna1/55-112  DE [subseq from] Peaxi162Scf01096g00316.1.mrna1
+#=GS Peaxi162Scf00430g00415.1.mrna1/858-896 DE [subseq from] Peaxi162Scf00430g00415.1.mrna1
+
+Peaxi162Scf00045g00138.1.mrna1/2-129           -GRSPCCTNNN-LNKGAWTKEE.......DEILGNYV..KIHGAA.................KWNILCK.KAG..................................L.NRCGK...SCRLRWTNYLR.PDIK.R.G.NFSEEEDS....L....I.....IN....L....HS.SLGN........KWSKIASQLPGRT
+#=GR Peaxi162Scf00045g00138.1.mrna1/2-129   PP .6889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00045g00138.1.mrna1/204-327         -------EDDDNLKKGPWTEDE.......DEKLIDYI..KQNGHT.................NWQSLAR.KAG..................................L.NRCGK...SCRLRWNNYLR.PDIK.R.G.RFSPEEEE....I....I.....IN....L....HS.DLGN........KWSKIAAHLPGRT
+#=GR Peaxi162Scf00045g00138.1.mrna1/204-327 PP .......456679*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g02128.1.mrna1/3-127           --RTPSVDKNG-VKRGAWTEEE.......DNKLRAYV..ERFGHW.................NWRQLPK.YAG..................................L.MRCGK...SCRLRWMNYLR.PGLK.K.G.NYSNEEGQ....L....I.....IK....L....HN.ELGN........RWSAIAEKLPGRS
+#=GR Peaxi162Scf00007g02128.1.mrna1/3-127   PP ..556677766.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g02128.1.mrna1/209-327         ---TPSIDKSG-MKRGSWSEEE.......DDKLRSYV..ERYGHP.................NWRQLPR.YAG..................................L.MRCGK...SCRLRWMNYLR.PGLK.K.G.KYSHEEEQ....L....I.....IK....L....HN.QLGN........RWSTIAEKLPGRS
+#=GR Peaxi162Scf00007g02128.1.mrna1/209-327 PP ...55566666.9*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00073g01731.1.mrna1/3-118           -----------EIKKGAWSPEE.......DQKLKAYI..KKYGIW.................NWSQMPK.FAG..................................L.SRTGK...SCRLRWMNYLS.PDVK.R.G.PFSIDEVE....I....V.....IK....T....YQ.ELGN........RWSAIAARLPGRT
+#=GR Peaxi162Scf00073g01731.1.mrna1/3-118   PP ...........689********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00073g01731.1.mrna1/280-356         ----------------------.......--------..------.................-------.VAG..................................L.SRTGK...SCRLRWVNYLR.PDIK.R.G.PFSMEEVE....I....V.....MK....M....YQ.ECGN........RWSTIAANLPGRT
+#=GR Peaxi162Scf00073g01731.1.mrna1/280-356 PP ......................................................................689..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01101g00048.1.mrna1/2-129           -GRSPCCDETG-LKKGPWTPEE.......DQKLINYI..KKHGHG.................SWRALPK.LAG..................................L.NRCGK...SCRLRWTNYLR.PDIK.R.G.KFSQEEEQ....T....I.....LN....L....HA.ILGN........KWSAIATHLPGRT
+#=GR Peaxi162Scf01101g00048.1.mrna1/2-129   PP .6899999999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00041g01811.1.mrna1/2-128           -GRSPCCDENG-LKKGPWTPEE.......DKKLVDYI..DKHGHG.................SWRALPK.LAG..................................L.NRCGK...SCRLRWTNYLR.PDIK.R.G.KFSEEEEQ....T....I.....LH....L....HS.ILGN........KWSAIATHLPGRT
+#=GR Peaxi162Scf00041g01811.1.mrna1/2-128   PP .6899999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00391g00621.1.mrna1/2-130           -GRSPCCEKAH-TNKGAWTKEE.......DQRLINYI..RTHGEG.................CWRSLPK.AAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.NFTEEEDE....L....I.....IK....L....HS.LLGN........KWSVIAGRLPGRT
+#=GR Peaxi162Scf00391g00621.1.mrna1/2-130   PP .6889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00166g01118.1.mrna1/1-130           MGRSPCCDKVG-LKKGPWTPEE.......DQKLLAYI..EEHGHG.................SWRALPA.KAG..................................L.QRCGK...SCRLRWTNYLR.PDIK.R.G.KFTLQEEQ....T....I.....IQ....L....HA.LLGN........RWSAIATHLPKRT
+#=GR Peaxi162Scf00166g01118.1.mrna1/1-130   PP 56899****99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00371g00087.1.mrna1/2-128           -GRTPCCDKNG-LKKGPWTAEE.......DQKLIDYI..QKHGSG.................NWRTLPK.NAG..................................L.QRCGK...SCRLRWSNYLR.PDIK.R.G.KFSFEEEE....T....I.....IQ....L....HS.ILGN........KWSAIAARLPGRT
+#=GR Peaxi162Scf00371g00087.1.mrna1/2-128   PP .6889999998.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00779g00512.1.mrna1/2-128           -GRAPCCDKNG-LKKGPWTPEE.......DQKLIDYI..KEHGYG.................NWRTLPK.NAG..................................L.QRCGK...SCRLRWTNYLR.PDIK.R.G.RFSFEEEE....T....I.....IQ....L....HS.VLGN........KWSAIAARLPGRT
+#=GR Peaxi162Scf00779g00512.1.mrna1/2-128   PP .68999*9999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00137g01812.1.mrna1/2-127           -GRTPCCEKNG-LKKGPWTQEE.......DQKLIDYI..QKHGYG.................NWRVLPK.SAG..................................L.QRCGK...SCRLRWTNYLR.PDIK.R.G.RFSFEEEE....T....I.....IQ....L....HS.ILGN........KWSAIAARLPGRT
+#=GR Peaxi162Scf00137g01812.1.mrna1/2-127   PP .6889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00362g00831.1.mrna1/2-130           -GRSPCCEKAH-TNKGAWTKEE.......DERLIAYI..RTHGEG.................CWRSLPK.AAG..................................L.LRCGK...SCRLRWINYLR.PDLK.R.G.NFTDEEDE....L....I.....IK....L....HS.LLGN........KWSLIAGRLPGRT
+#=GR Peaxi162Scf00362g00831.1.mrna1/2-130   PP .6889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00042g02519.1.mrna1/2-131           -GRSPCCEKAH-TNKGAWTKEE.......DERLVAYI..RAHGEG.................CWRSLPK.AAG..................................L.LRCGK...SCRLRWINYLR.PDLK.R.G.NFTEEEDE....L....I.....IK....L....HS.LLGN........KWSLIAGRLPGRT
+#=GR Peaxi162Scf00042g02519.1.mrna1/2-131   PP .6889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01221g00042.1.mrna1/2-130           -GRSPCCEKAH-TNKGAWTKEE.......DERLIAYI..KAHGEG.................CWRSLPK.AAG..................................L.LRCGK...SCRLRWINYLR.PDLK.R.G.NFTEDEDE....L....I.....IK....L....HS.LLGN........KWSLIAGRLPGRT
+#=GR Peaxi162Scf01221g00042.1.mrna1/2-130   PP .6889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g02414.1.mrna1/2-128           -GRSPCCDKNG-LKKGPWTPEE.......DLKLIQYI..QVHGPG.................NWRTLPK.NAG..................................L.QRCGK...SCRLRWTNYLR.PDIK.R.G.RFSFDEEE....T....I.....IQ....L....HS.VLGN........KWSAIAARLPGRT
+#=GR Peaxi162Scf00007g02414.1.mrna1/2-128   PP .68999*9999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00516g00673.1.mrna1/3-130           --RSAESDDMSGLKKGPWTPEE.......DQQLLDYI..HKNGHG.................NWRALPK.LAG..................................L.NRCGK...SCRLRWTNYLR.PDIK.R.G.KFSEDEER....L....I.....IK....L....HS.LLGN........KWSAIATRLPGRT
+#=GR Peaxi162Scf00516g00673.1.mrna1/3-130   PP ..5666778888**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00191g01323.1.mrna1/2-129           -GRTPCCDKKG-LKKGPWTPEE.......DEKLVEYI..KKHGHT.................SWRSLPN.LAG..................................L.DRCGK...SCRLRWTNYLR.PDIK.R.G.PFSQEEEK....L....V.....IQ....L....HG.ILGN........RWAAIASQLPGRT
+#=GR Peaxi162Scf00191g01323.1.mrna1/2-129   PP .68999*9999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf03779g00019.1.mrna1/2-127           --RKACCDNKEEMHRGAWSKQE.......DQKLIDYI..TKHGAG.................CWRNLPK.AAG..................................L.LRCGK...SCRLRWMNYLS.PNLK.R.G.NFSEDEED....L....I.....IK....L....HA.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf03779g00019.1.mrna1/2-127   PP ..789*****************.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00485g00916.1.mrna1/3-129           --RSPITSDKSGLKKGPWTPEE.......DLKLIQYI..EVHGPG.................NWRSLPK.NAG..................................L.QRCGK...SCRLRWTNYLR.PDIK.R.G.RFSFEEEE....T....I.....IQ....L....HS.VLGN........KWSAIAARLPGRT
+#=GR Peaxi162Scf00485g00916.1.mrna1/3-129   PP ..6677788889**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00194g00218.1.mrna1/2-130           -GRHSCCYKQK-LRKGLWSPEE.......DEKLVKHI..TKYGHG.................CWSSVPK.LAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.TFSQEEEN....L....I.....VE....L....HA.VLGN........KWSQIAARLPGRT
+#=GR Peaxi162Scf00194g00218.1.mrna1/2-130   PP .5788999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00170g01335.1.mrna1/2-131           -GRYPCCKLDNDLKKGPWTAEE.......DEKLKEYI..QGHGHG.................NWQLVPK.RAG..................................L.NRCGK...SCRLRWTNYLR.PDII.R.G.GFSDDEEQ....M....I.....IN....L....HS.VLGN........KWSRIAAHLPGRT
+#=GR Peaxi162Scf00170g01335.1.mrna1/2-131   PP .5789*****************.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00606g00073.1.mrna1/2-130           -GRHSCCYKQK-LRKGLWSPEE.......DEKLINHI..TKYGHG.................CWSSVPK.LAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.TFSQEEEN....L....I.....IE....L....HA.VLGN........KWSQIAARLPGRT
+#=GR Peaxi162Scf00606g00073.1.mrna1/2-130   PP .5788999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf03974g00003.1.mrna1/2-130           -GRIPCCEKEN-VKRGQWTPEE.......DHKLSSYI..AQHGTR.................NWRLIPK.HAG..................................L.QRCGK...SCRLRWTNYLR.PDLK.H.G.QFSEAEEQ....T....I.....VT....L....HS.VLGN........RWSVIAAQLPGRT
+#=GR Peaxi162Scf03974g00003.1.mrna1/2-130   PP .5778999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00056g00026.1.mrna1/2-129           -GRRPCCEKKG-LKKGPWTPDE.......DDKLIEYI..NKNGHG.................SWRSLPK.LAG..................................L.LRCGK...SCRLRWTNYLR.PDIK.R.G.PFSHEEEK....L....V.....IQ....L....HG.ILGN........RWAAIAAQLPGRT
+#=GR Peaxi162Scf00056g00026.1.mrna1/2-129   PP .6889999998.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00002g00037.1.mrna1/1-130           MGRQPCCDKLG-VKKGPWTAEE.......DKKLISFI..LTNGQC.................CWRAVPK.LAG..................................L.RRCGK...SCRLRWTNYLR.PDLK.R.G.LLSDAEEK....L....V.....ID....L....HS.RLGN........RWSKIAARLPGRT
+#=GR Peaxi162Scf00002g00037.1.mrna1/1-130   PP 56899***999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00543g00414.1.mrna1/17-144          -GRAPCCEKMG-LKKGPWTPEE.......DQILVSYI..EKNGHG.................NWRALPK.LAG..................................L.LRCGK...SCRLRWTNYLR.PDIK.R.G.NFTREEED....T....I.....IQ....L....HE.MLGN........RWSAIAARLPGRT
+#=GR Peaxi162Scf00543g00414.1.mrna1/17-144  PP .5889999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00015g03118.1.mrna1/3-127           --RAPCCEKMG-LKRGPWTSEE.......DQILISFI..QRYGHE.................NWRALPR.QAG..................................L.LRCGK...SCRLRWINYLR.PDIK.R.G.NFSEEEEE....T....I.....IE....M....HQ.VLGN........RWSAIASRLPGRT
+#=GR Peaxi162Scf00015g03118.1.mrna1/3-127   PP ..789999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00170g01336.1.mrna1/2-131           -GRYPCCKDDEDLKKGPWAPDE.......DEKLMDYI..NKHGHT.................NWQLLPK.KAG..................................L.NRCGK...SCRLRWSNYLK.PDIK.R.G.KFSIEEEE....M....I.....IN....L....HS.LLGN........KWSRIAAHLPGRT
+#=GR Peaxi162Scf00170g01336.1.mrna1/2-131   PP .5789*****************.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00349g00057.1.mrna1/15-141          ---TPCCSKVG-LKRGPWTPEE.......DEILTNYI..NKEGEG.................RWRTLPK.KAG..................................L.LRCGK...SCRLRWMNYLR.PSVK.R.G.HIAPDEED....L....I.....LR....L....HR.LLGN........RWSLIAGRIPGRT
+#=GR Peaxi162Scf00349g00057.1.mrna1/15-141  PP ...57899988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00008g02024.1.mrna1/2-126           -GRAPCCDKKG-LKKGPWAPEE.......DEKLIEYI..KNNGHN.................GWRSLPK.LAG..................................L.LRCGK...SCRLRWTNYLR.PDIK.R.G.PFSEEEEK....L....I.....IQ....L....HG.ILGN........RWAAIAAQLPGRT
+#=GR Peaxi162Scf00008g02024.1.mrna1/2-126   PP .6899****99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00452g00412.1.mrna1/5-124           --RAPCCDKSK-VKKGPWSSEE.......DLRLITFI..QKHGHG.................NWRSLPK.QAG..................................L.LRCGK...SCRLRWINYLR.PDVK.R.G.NFTPQEEA....T....I.....VK....L....HQ.SFGN........KWSKIASYLPGRT
+#=GR Peaxi162Scf00452g00412.1.mrna1/5-124   PP ..789999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00102g01858.1.mrna1/2-130           -GRAPCCAKEG-LRKGPWSAKE.......DLLLTNYI..KEHGEG.................QWRSLPN.KAG..................................L.LRCGK...SCRLRWMNYLK.PGIK.R.G.NLSQDEED....L....I.....LR....L....HS.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00102g01858.1.mrna1/2-130   PP .6899999999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00523g00004.1.mrna1/39-127          -----------RSTKGQWTPEE.......DEILRKAV..QRFKGK.................NWKKIAE.CFK..................................-.DRTDV...QCLHRWQKVLN.PELV.K.G.PWSKEEDE....V....I.....VE....L....VK.KYGP.......kKWSTIAQHLPGR-
+#=GR Peaxi162Scf00523g00004.1.mrna1/39-127  PP ...........4689*******.......********..***999.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.**96.......59**********9.
+Peaxi162Scf00523g00004.1.mrna1/92-196          ------------LVKGPWSKEE.......DEVIVELV..KKYGPK.................KWSTIAQ.HLP..................................-.GRIGK...QCRERWHNHLN.PSIN.K.E.AWTQEEEL....T....L.....IR....A....HQ.IYGN........KWAELTKYLPGRT
+#=GR Peaxi162Scf00523g00004.1.mrna1/92-196  PP ............579*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00038g01640.1.mrna1/3-124           --HHSCCNKQK-VKRGLWSPEE.......DEKLIKYI..TTYGHG.................CWSSVPK.LAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.SFSHQEAA....L....I.....IE....L....HS.ILGN........RWAQIAKHLPGRT
+#=GR Peaxi162Scf00038g01640.1.mrna1/3-124   PP ..567777766.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00700g00732.1.mrna1/2-130           -GRPPCCDKTN-VKRGPWTAEE.......DAKILAYV..ASHGIG.................NWTLVPQ.KAG..................................L.NRCGK...SCRLRWTNYLR.PDLK.H.D.NFTPQEEE....I....I.....LE....F....HK.TVGS........RWSLIAKQLPGRT
+#=GR Peaxi162Scf00700g00732.1.mrna1/2-130   PP .5789999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00714g00029.1.mrna1/64-151          ------------SSQAGWTEEE.......DYLLSEVV..KRYNGR.................NWKKIAE.CMS..................................-.GRTDV...QCLHRWQKVLN.PELV.K.G.PWTKEEDD....V....I.....VE....L....VE.KYGC.......kKWSLIAKSLPGR-
+#=GR Peaxi162Scf00714g00029.1.mrna1/64-151  PP ............56788*****.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.***6.......59**********9.
+Peaxi162Scf00714g00029.1.mrna1/118-222         --------------KGPWTKEE.......DDVIVELV..EKYGCK.................KWSLIAK.SLP..................................-.GRIGK...QCRERWHNHLD.PTIK.R.D.AWTEQEES....V....L.....LH....Y....HQ.IYGN........KWADIARFLPGRT
+#=GR Peaxi162Scf00714g00029.1.mrna1/118-222 PP ..............89******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00134g00189.1.mrna1/1-130           MGRQPCCDKAG-VKKGPWSAEE.......DKKLINFI..LNNGQC.................CWRALPR.LAG..................................L.MRCGK...SCRLRWTNYLR.PDLK.R.G.LLSGYEET....M....V.....IE....L....HA.QLGN........RWSKIASHLPGRT
+#=GR Peaxi162Scf00134g00189.1.mrna1/1-130   PP 56899***999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00451g00059.1.mrna1/1-148           MGRSPCCDKVG-LKKGPWTPEE.......DQKLLAYI..EQHGHG.................SWRALPI.KAAsssitytay................gfddlqfvgL.QRCGK...SCRLRWTNYLR.PDIK.R.G.KFTQQEEQ....T....I.....IQ....L....HA.LLGN........RWSAIATHLFKRT
+#=GR Peaxi162Scf00451g00059.1.mrna1/1-148   PP 56899****99.**********.......********..******.................*******.*999********................**********.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00203g01315.1.mrna1/18-143          ---HHCCSKQK-VKRGLWSPEE.......DEKLVRHI..TTHGHG.................CWSSVPK.LAG..................................L.QRCGK...SCRLRWINYLR.PDLR.R.G.SFTEQEER....T....I.....ID....V....HR.ILGN........RWAQIAKHLPGRT
+#=GR Peaxi162Scf00203g01315.1.mrna1/18-143  PP ...57777777.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00177g00512.1.mrna1/2-127           -GRRPCCSKEG-LNKGAWTPME.......DKILIDYI..KVHGEG.................KWRNLPK.KAG..................................L.KRCGK...SCRLRWLNYLR.PDIK.R.G.NITRDEED....L....I.....IR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00177g00512.1.mrna1/2-127   PP .6889999999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00036g00710.1.mrna1/3-128           ---HHCCSKQK-VKRGLWSPEE.......DEKLIRYI..SNHGHN.................CWSSVPK.LTG..................................L.QRCGK...SCRLRWINYLR.PDVK.R.G.SFSEAEER....T....I.....ID....V....HR.ILGN........RWAQIAKHLPGRT
+#=GR Peaxi162Scf00036g00710.1.mrna1/3-128   PP ...56777777.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00013g00223.1.mrna1/2-126           -GRPPCCDKIG-VKKGPWTPEE.......DIILVSYI..QEHGPG.................NWRAVPT.NTG..................................L.LRCSK...SCRLRWTNYLR.PGIK.R.G.NFSEHEEK....M....I.....IH....L....QA.LLGN........RWAAIASYLPQRT
+#=GR Peaxi162Scf00013g00223.1.mrna1/2-126   PP .57899***99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00274g00625.1.mrna1/2-127           -GRPPCCDKIG-VKKGPWTPEE.......DIILVSYI..QQHGPG.................NWRAVPT.NTG..................................L.LRCSK...SCRLRWTNYLR.PGIK.R.G.NFTEHEEK....M....I.....IH....L....QA.LLGN........RWAAIASYLPQRT
+#=GR Peaxi162Scf00274g00625.1.mrna1/2-127   PP .57899***99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01256g00017.1.mrna1/2-127           -GRPPCCDKIG-VKKGPWTPEE.......DIILVSYI..QEHGPG.................NWRAVPT.NTG..................................L.LRCSK...SCRLRWTNYLR.PGIK.R.G.NFTEHEEK....M....I.....IH....L....QA.LLGN........RWAAIASYLPQRT
+#=GR Peaxi162Scf01256g00017.1.mrna1/2-127   PP .57899***99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00777g00521.1.mrna1/2-121           -GRPPCCDKVG-VKKGPWTPEE.......DIMLVSYV..QEHGPG.................NWRAVPT.KTG..................................L.RRCSK...SCRLRWTNYLR.PGIK.R.G.NFTDQEEK....M....I.....IQ....L....QA.LLGN........KWAAIASYLPERT
+#=GR Peaxi162Scf00777g00521.1.mrna1/2-121   PP .5789999999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00074g01820.1.mrna1/3-126           --HHSCCNQQK-VKRGLWSPEE.......DEKLIRYI..TTHGYG.................CWSEVPE.KAG..................................L.QRCGK...SCRLRWINYLR.PDIR.R.G.RFSPEEEK....L....I.....IS....L....HG.AVGN........RWAHIASHLPGRT
+#=GR Peaxi162Scf00074g01820.1.mrna1/3-126   PP ..566666666.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00080g00064.1.mrna1/3-127           --KKPCNSQDAEVRKGPWTMEE.......DLILINYI..ANHGEG.................VWNSLAK.SAG..................................L.KRTGK...SCRLRWLNYLR.PDVR.R.G.NITPEEQL....L....I.....ME....L....HA.KWGN........RWSKIAKHLPGRT
+#=GR Peaxi162Scf00080g00064.1.mrna1/3-127   PP ..789999**************.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00129g00228.1.mrna1/2-120           -GRPPCCDKIG-VKKGPWTPEE.......DIMLVSYV..QEHGPG.................NWRAVPN.STG..................................L.RRCSK...SCRLRWTNYLR.PGIK.R.G.SFTDQEEK....M....I.....IQ....L....QA.LLGN........KWAAIASYLPERT
+#=GR Peaxi162Scf00129g00228.1.mrna1/2-120   PP .57899***99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00001g00231.1.mrna1/2-120           -GRAPCCEKVG-LKRGRWTAEE.......DETLTNYI..LTNGEG.................SWRSLPK.NAG..................................L.LRCGK...SCRLRWINYLR.SDLK.R.G.NITSEEEN....I....I.....IK....L....HA.TLGN........RWSLIAGHLPGRT
+#=GR Peaxi162Scf00001g00231.1.mrna1/2-120   PP .6899****99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00013g01023.1.mrna1/2-125           -GRTPCCEKLG-LNRGPWSKKE.......DDILINYI..DKHGHP.................NWRQLPK.LAG..................................L.LRCGK...SCRLRWTNYLR.PEIK.R.G.NFTPEEED....T....I.....IK....L....HQ.VLGN........RWSVIAAKLPGRT
+#=GR Peaxi162Scf00013g01023.1.mrna1/2-125   PP .6889999998.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00420g00240.1.mrna1/1-129           MGRQPCCDRVG-LKRGPWTIEE.......DHKLVNFL..LNNGIQ.................CWRTVPK.LAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.TLSEDEED....Q....I.....IQ....L....HA.RLGN........RWSKIASNFPGRT
+#=GR Peaxi162Scf00420g00240.1.mrna1/1-129   PP 568999**999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00102g01226.1.mrna1/1-132           MGRKPCCDKVG-VKKGPWTTEE.......DKKLISFLvtNNIGQC.................CWRSVPK.LAG..................................L.RRCGK...SCRLRWTNYLR.PDLK.R.G.LLTEAEEN....L....V.....ID....L....HS.CLGN........RWSKIAARLPGRT
+#=GR Peaxi162Scf00102g01226.1.mrna1/1-132   PP 56899****99.**********.......******9833456999.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00129g01231.1.mrna1/3-131           --KRTCNSQDVEVRKGPWTMEE.......DLILINYI..ANHGEG.................VWNSLAR.SAG..................................L.KRTGK...SCRLRWLNYLR.PDVR.R.G.NITPEEQL....L....I.....ME....L....HA.KWGN........RWSKIAKHLPGRT
+#=GR Peaxi162Scf00129g01231.1.mrna1/3-131   PP ..6788899999**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00305g00045.1.mrna1/1-139           MGRQPCCDKVG-LKKGPWTADE.......DKKLINFI..LSNGQC.................CWRAVPK.LAVildd.........................gigagL.LRCGK...SCRLRWTNYLR.PDLK.R.G.LLSEYEEK....M....V.....ID....L....HA.QLGN........RWSKIASHLPGRT
+#=GR Peaxi162Scf00305g00045.1.mrna1/1-139   PP 56899****99.**********.......********..******.................*******.**9999*.........................******.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00886g00028.1.mrna1/3-125           --RAPCCEKVG-IKRGRWTAEE.......DELLLKYI..QANGEG.................SWRSLPK.NAG..................................L.LRCGK...SCRLRWTNYLR.PNLK.R.G.KFTSEEDE....T....I.....FK....L....QC.SLGN........RWSLMASYLPGRT
+#=GR Peaxi162Scf00886g00028.1.mrna1/3-125   PP ..789999999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00147g00136.1.mrna1/2-120           -GRAPCCEKVG-LKRGRWTAEE.......DEILTKYI..HANGEG.................SWRSLPK.NAG..................................L.LRCGK...SCRLRWINYLK.TDLK.R.G.NITPEEEA....I....I.....IK....L....RA.TLGN........RWSLIAEHLPGRT
+#=GR Peaxi162Scf00147g00136.1.mrna1/2-120   PP .6899****99.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00118g00310.1.mrna1/5-124           ------NASTSGVRKGAWTEEE.......DLLLRECI..EKYGEG.................KWHLVPV.RAG..................................L.NRCRK...SCRLRWLNYLR.PHIK.R.G.DFSLDEVE....L....I.....LR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00118g00310.1.mrna1/5-124   PP ......455667**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00004g02328.1.mrna1/21-135          ------NNANMKLRKGLWSPEE.......DEKLMHYM..LTNGQG.................CWSDVAR.NAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.AFSPQEEE....L....I.....IH....L....HS.LLGN........RWSQIAARMPGRT
+#=GR Peaxi162Scf00004g02328.1.mrna1/21-135  PP ......566788**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00876g00221.1.mrna1/1-128           MGRKPCCSKVG-MRKGAWTAAE.......DRLLTNYI..ELNGEG.................NWRSLPM.KAG..................................L.LRCGK...SCRLRWVNYLR.PGIK.R.G.NFSPEEDD....L....I.....IR....L....HT.LLGG........RWSLIAGRLSGRT
+#=GR Peaxi162Scf00876g00221.1.mrna1/1-128   PP 56899***999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00428g00117.1.mrna1/12-139          --EKGNNNNKAKLRKGLWSPEE.......DEKLMNYM..LTNGQG.................CWSDIAR.NAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.AFSPQEEE....L....I.....VH....L....HS.ILGN........RWSQIAARLPGRT
+#=GR Peaxi162Scf00428g00117.1.mrna1/12-139  PP ..5566778888**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00228g00914.1.mrna1/23-148          --NQQQHDEDMDLRRGPWTVEE.......DFALMNYI..AHHGEG.................RWNSLAR.CAG..................................L.KRTGK...SCRLRWLNYLR.PDVR.R.G.NITLEEQL....L....I.....LE....L....HS.RWGN........RWSKIAQHLPGRT
+#=GR Peaxi162Scf00228g00914.1.mrna1/23-148  PP ..5678899999**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00753g00338.1.mrna1/11-133          -----SHEDEFELRRGPWTLEE.......DNLLIHYI..SSHGEG.................RWNALAK.CAG..................................L.KRTGK...SCRLRWLNYLK.PDIK.R.G.NLTPQEQL....L....I.....LE....L....HS.KWGN........RWSKIAQHLPGRT
+#=GR Peaxi162Scf00753g00338.1.mrna1/11-133  PP .....45566679*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00096g01718.1.mrna1/2-130           -GRAPCCDKAN-VKRGPWSPEE.......DAKLKAYI..ELHGTG................gNWITLPQ.KVG..................................L.KRCGK...SCRLRWLNYLR.PNIK.H.G.EFTEEEDN....I....I.....CS....L....YI.SIGS........RWSIIAAQLPGRT
+#=GR Peaxi162Scf00096g01718.1.mrna1/2-130   PP .6899999988.**********.......********..*****9................9*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00311g01112.1.mrna1/2-125           -GRAPCCDKEN-VKRGPWSPEE.......DATLKSYI..EKHGIG................gNWIALPQ.KAG..................................L.RRCGK...SCRLRWLNYLR.PNIK.H.G.EFSDEEDR....I....I.....CS....L....YA.NIGS........RWSIIAAQLPGRT
+#=GR Peaxi162Scf00311g01112.1.mrna1/2-125   PP .68999**999.**********.......********..****98................8*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00015g01036.1.mrna1/12-130          ------SDDDIGLRRGPWTVEE.......DTLLVHYI..SHHGEG.................RWNILAK.RAG..................................L.KRTGK...SCRLRWLNYLK.PDVK.R.G.NLTPQEQL....L....I.....LE....L....HS.KIGN........RWSKIAQYLPGRT
+#=GR Peaxi162Scf00015g01036.1.mrna1/12-130  PP ......4444559*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00847g00211.1.mrna1/2-125           -GRAPCCDKAN-VKKGPWSPEE.......DAKLKEYI..EKSGTG................gNWIALPH.KAG..................................L.RRCGK...SCRLRWLNYLR.PNIK.H.G.EFSDEEDR....V....I.....CT....L....YA.SIGS........RWSIIAAQLPGRT
+#=GR Peaxi162Scf00847g00211.1.mrna1/2-125   PP .6899999988.**********.......********..*****9................9*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00020g02349.1.mrna1/11-130          -------SDQQEWRKGPWTPEE.......DKLLSEYV..NLHGEG.................RWSSVSR.CAG..................................L.NRTGK...SCRLRWVNYLR.PGLK.R.G.HITPQEEG....I....I.....IE....L....HA.LWGN........KWSTIARYLPGRT
+#=GR Peaxi162Scf00020g02349.1.mrna1/11-130  PP .......556779*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00658g00110.1.mrna1/6-118           ------PKSSGLVRKGAWTEEE.......DVLLRKCI..EKFGEG.................KWHQVPV.RAG..................................L.NRCRK...SCRLRWLNYLR.PHIK.R.G.DFSPDEVD....L....I.....LR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00658g00110.1.mrna1/6-118   PP ......5667789*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00682g00009.1.mrna1/2-119           -GRAPCCDKAN-VKRGPWSPEE.......DAKLKDFI..HKYGTG................gNWIALPQ.KAG..................................L.KRCGK...SCRLRWLNYLR.PNIK.H.G.DFSDEEDR....I....I.....CS....L....YS.TIGS........RWSIIAAQLPGRT
+#=GR Peaxi162Scf00682g00009.1.mrna1/2-119   PP .6899999988.**********.......********..*****9................9*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01464g00024.1.mrna1/8-128           -------KTKQKHKKGLWSPDE.......DDKLRNYI..INHGHG.................CWSSVPI.NAG..................................L.QRNGK...SCRLRWINYLR.PGLK.R.G.AFSLEEED....T....I.....LT....L....HA.MFGN........KWSQIAQHLPGRT
+#=GR Peaxi162Scf01464g00024.1.mrna1/8-128   PP .......556779*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00797g00013.1.mrna1/2-126           -GKQPCCDNVG-HNRGPWTVEE.......DHKLTNFI..LNNGIQ.................NWRHVPK.LAG..................................L.VRCGK...SCRLRWMNHLR.PDLK.K.G.AFTEDEEY....M....L.....IK....L....QS.QLGN........RWSKIAAHFPGRT
+#=GR Peaxi162Scf00797g00013.1.mrna1/2-126   PP .5789999999.9*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00125g01321.1.mrna1/19-135          ----------EGWRKGPWTAEE.......DKLLIEYV..KLHGEG.................RWNSVAR.LAG..................................L.KRNGK...SCRLRWVNYLR.PDLK.R.G.QITPHEER....I....I.....LE....L....HA.RWGN........RWSTIARSLPGRT
+#=GR Peaxi162Scf00125g01321.1.mrna1/19-135  PP ..........4589********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00575g00016.1.mrna1/2-156           -GRPPCCDKIG-IKKGPWTPEE.......DIILVSYI..QEHGPG.................NWRSVPT.NTGnsvgftifyilcssllyyfleycyneaislflkgL.MRCSK...SCRLRWTNYLR.PGIK.R.G.NFTSHEEG....M....I.....IH....L....QA.LLGN........KWAAIASYLPQRT
+#=GR Peaxi162Scf00575g00016.1.mrna1/2-156   PP .57899***99.**********.......********..******.................*******.**************************************.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00164g00216.1.mrna1/13-128          ----------DEWRKGPWTAEE.......DRLLIEYV..NLHGEG.................RWNSVAR.LAG..................................L.KRNGK...SCRLRWVNYLR.PDLK.R.G.QITPYEER....I....I.....LE....L....HA.IWGN........RWSTIARSLPGRT
+#=GR Peaxi162Scf00164g00216.1.mrna1/13-128  PP ..........5689********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00165g00128.1.mrna1/58-151          -------------AKGGWTPEEikspfpqDDTLRRAV..AAYRGK.................CWKKIAE.FFP..................................-.DRSEV...QCLHRWQKVLN.PELV.K.G.PWNREEDE....K....I.....IE....L....VA.KYGP.......tKWSVIARSLPGR-
+#=GR Peaxi162Scf00165g00128.1.mrna1/58-151  PP .............678888886666666699******..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.**96.......6***********9.
+Peaxi162Scf00165g00128.1.mrna1/116-219         ------------LVKGPWNREE.......DEKIIELV..AKYGPT.................KWSVIAR.SLP..................................-.GRIGK...QCRERWHNHLD.PTIK.K.D.AWTLEEER....A....L.....MD....A....HR.IHGN........KWAEIAKVLPGRT
+#=GR Peaxi162Scf00165g00128.1.mrna1/116-219 PP ............579*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g00823.1.mrna1/24-137          --------SRQVLKKGPWTAAE.......DSILMEYV..KKHGEG.................NWNAVQR.NSG..................................L.MRCGK...SCRLRWANHLR.PNLK.K.G.AFTVEEER....I....I.....IE....L....HA.KLGN........KWARMAAQLPGRT
+#=GR Peaxi162Scf00007g00823.1.mrna1/24-137  PP ........56789*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01007g00117.1.mrna1/11-128          --------TKQGWRKGPWTSEE.......DRLLIEYV..NLHGEG.................RWNSVAR.VAG..................................L.KRNGK...SCRLRWVNYLR.PDLK.K.G.QITPHEEK....L....I.....LE....L....HA.RYGN........RWSTIARNLPGRT
+#=GR Peaxi162Scf01007g00117.1.mrna1/11-128  PP ........45569*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01194g00013.1.mrna1/27-147          ------EEDDMDFKRGSWTVEE.......DFTLINHI..ALHGEG.................RWNSLAR.SSG..................................L.KRTGK...SCRLRWLNYLR.PDVR.R.G.NITLEEQL....L....I.....LE....L....HS.RWGN........RWSKIAQHLPGRT
+#=GR Peaxi162Scf01194g00013.1.mrna1/27-147  PP ......567789**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00526g00820.1.mrna1/38-143          ------------LKKGPWTSAE.......DAILVDYV..TKHGEG.................NWNAVQK.HSG..................................L.ARCGK...SCRLRWANHLR.PDLK.K.G.AFTPEEER....R....I.....IE....L....HA.KMGN........KWARMAAELPGRT
+#=GR Peaxi162Scf00526g00820.1.mrna1/38-143  PP ............69********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00578g00007.1.mrna1/7-117           -------TSSGVLRKGSWTEEE.......DILLRKCI..EKYGEG.................KWHQVPV.RAG..................................L.NRCRK...SCRLRWMNYLR.PHIK.R.G.DFSPDEVD....L....I.....LR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00578g00007.1.mrna1/7-117   PP .......566789*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00978g00214.1.mrna1/35-141          ------------LKKGPWTKAE.......DAILVDYI..TRHGEG.................NWSAVRK.HSG..................................L.ARCGK...SCRLRWANHLR.PDLR.K.G.AFTPEEER....L....I.....IE....L....HA.KMGN........KWARMAAELPGRT
+#=GR Peaxi162Scf00978g00214.1.mrna1/35-141  PP ............79********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01210g00002.1.mrna1/7-128           -------TSSGVLRKGAWAEEE.......DILLRKCI..EKYGEG.................KWHQVPV.RAG..................................L.NRCRK...SCRLRWLNYLR.PHIK.R.G.DFCPEEVD....L....I.....QR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf01210g00002.1.mrna1/7-128   PP .......566789*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00342g00113.1.mrna1/35-140          ------------LKKGPWTSAE.......DAILVEYV..MKHGEG.................NWNAVQK.HSG..................................L.ARCGK...SCRLRWANHLR.PDLK.K.G.AFTLEEER....L....I.....IE....L....HA.KMGN........KWARMAAELPGRT
+#=GR Peaxi162Scf00342g00113.1.mrna1/35-140  PP ............79********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00268g00046.1.mrna1/2-120           -GRSPCCEKAH-TNKGAWTKEE.......DQRLINYI..RAHGEG.................-------.---..................................L.LRCGK...SCRLRWINYLR.PDLK.R.G.NFTEEEDD....L....I.....IK....L....HS.LLGN........KWSVIAGRLPGRT
+#=GR Peaxi162Scf00268g00046.1.mrna1/2-120   PP .6889999988.**********.......********..*****6..............................................................9.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01969g00021.1.mrna1/7-129           ------ESPKKKHRKGLWSPDE.......DHKLKNYI..LEHGHG.................CWSSVPI.NAG..................................L.QRNGK...SCRLRWINYLR.PGLK.R.G.AFSIEEEE....T....I.....MT....L....HG.MIGN........KWSQMAQHLPGRT
+#=GR Peaxi162Scf01969g00021.1.mrna1/7-129   PP ......5567779*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00578g00008.1.mrna1/7-120           -------TSSGVLRKGSWTEEE.......DILLRKCI..EKYGEG.................KWHQVLV.RAG..................................L.NRCRK...SCRLRWMNYLR.PHIK.R.G.DFSPDEVD....L....I.....LR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00578g00008.1.mrna1/7-120   PP .......566789*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g02122.1.mrna1/4-127           ---TP-CRDEYGRKKGTWTPEE.......DRKLAAYV..TKNGCL.................NWRQLPK.HAG..................................L.ARCGK...SCRLRWMNYLR.PNVK.R.G.NYTNEEDG....I....I.....LK....L....HT.QLGN........RWSAIAAHLPGRS
+#=GR Peaxi162Scf00007g02122.1.mrna1/4-127   PP ...45.4555669*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00088g01621.1.mrna1/4-127           ------KEVKARMKRGFWKPEE.......DLILKNCV..ETHGEG.................NWATISE.KSG..................................L.MRSGK...SCRLRWKNYLR.PNIK.R.G.MMSEDEKD....L....I.....IR....L....HK.LLGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00088g01621.1.mrna1/4-127   PP ......4556679*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00018g00228.1.mrna1/3-127           --RTRCYDKSG-LKKGTWTPEE.......DRKLTAYV..TRYGSW.................NWRQLPK.FAG..................................L.SRCGK...SCRLRWLNYLQ.PNIR.R.G.NYTKEEDE....M....I.....MK....L....HA.EIGN........KWSVIAAHLPGRS
+#=GR Peaxi162Scf00018g00228.1.mrna1/3-127   PP ..556666665.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00006g00098.1.mrna1/3-128           --RTRCYDK-SGLKKGTWTPEE.......DRKLAAYV..TRYGCW.................NWRQLPK.FAG..................................L.ARCGK...SCRLRWLNYLQ.PNIK.R.G.NYTKEEDQ....I....I.....MM....L....HA.EIGN........KWSAIAAHLPGRS
+#=GR Peaxi162Scf00006g00098.1.mrna1/3-128   PP ..4455555.55**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g02125.1.mrna1/4-128           ---TPSIDKNG-MKRGAWSEEE.......DNKLRAYV..ERFGHP.................NWRKLPR.YAG..................................L.MRCGK...SCRLRWMNNLR.PGLK.K.G.NYSHEEEQ....L....I.....IK....L....HN.QLGN........RWSTIAAKLPGRS
+#=GR Peaxi162Scf00007g02125.1.mrna1/4-128   PP ...55666666.9*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00411g00008.1.mrna1/3-116           ---------QEEVRRGPWTEQE.......DLQLVFYV..KLFGDR.................RWDFLAK.VSG..................................L.KRTGK...SCRLRWVNYLN.PDLK.R.G.KMTPQEER....L....V.....LE....L....HA.KWGN........RWSRIARKIPGRT
+#=GR Peaxi162Scf00411g00008.1.mrna1/3-116   PP .........4679*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g00207.1.mrna1/3-144           --RTPCCDENG-RKKGTWTPEE.......DRKLAAYV..TKYGCW.................NWRQLPK.YAGenfctiy...................tniapregL.ARCGK...SCRLRWMNYLR.PNVK.R.G.NYTKEEDE....I....I.....LK....L....HA.ELGN........RWSAIAAQLPGRS
+#=GR Peaxi162Scf00007g00207.1.mrna1/3-144   PP ..789999988.9*********.......********..******.................*******.**********...................*********.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00986g00227.1.mrna1/3-116           --------QEEIIRRGPWTEQE.......DFQLVFYV..NLFGDR.................RWDFLAK.VSG..................................L.KRTGK...SCRLRWVNYLN.PGLK.R.G.KMTPQEER....L....I.....LE....L....HS.KYGN........RWSKIARKLPGRT
+#=GR Peaxi162Scf00986g00227.1.mrna1/3-116   PP ........46679*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00164g00073.1.mrna1/30-147          -----REEDIMDLRRGPWTVEE.......DFTLINFI..AHHGEG.................RWNSLAR.CAG..................................-.----K...SCRLRWLNYLR.PDVR.R.G.NITLEEQL....L....I.....LE....L....HS.RWGN........RWSKIAQHLPGRT
+#=GR Peaxi162Scf00164g00073.1.mrna1/30-147  PP .....5677899**********.......********..******.................*******.*99........................................*...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00579g00055.1.mrna1/3-122           --RAPCCEKMG-LKKGPWTPNE.......DQILISYI..RKNGHG.................NWRALPK.QAG..................................L.LRCGK...SCRLRWTNYLR.PDIK.R.G.NFTKEEED....T....I.....IQ....S....HE.MLGN........R-------LPGRT
+#=GR Peaxi162Scf00579g00055.1.mrna1/3-122   PP ..789999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........7.......9****
+Peaxi162Scf00515g00013.1.mrna1/7-118           -------MQEEELRKGSWHEEE.......DERLASIV..AILGER.................RWDALAK.ASG..................................L.RRSGK...SCRLRWMNYLR.PNLK.H.G.YITADEEH....L....I.....VK....L....QK.QLGN........KWSKIAKQLPGRT
+#=GR Peaxi162Scf00515g00013.1.mrna1/7-118   PP .......56778**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00304g01018.1.mrna1/8-126           -------NMGTNSKKGPWSPEE.......DQKLTSYI..MKYRIW.................NWNQMPK.FAG..................................L.SRTGK...SCRLRWVNYLR.PDLK.R.G.PFSMEEVE....T....V.....IR....M....YQ.SLGN........RWSAISKELPGRT
+#=GR Peaxi162Scf00304g01018.1.mrna1/8-126   PP .......4445689********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00304g00919.1.mrna1/9-124           ----------TNSKKGPWSPEE.......DLKLTSYI..MKYRIW.................NWNQMPK.FAG..................................L.SRTGK...SCRLRWVNYLR.PDLK.R.G.PFSMEEVE....T....V.....IR....M....YQ.SLGN........RWSAISKELPGRT
+#=GR Peaxi162Scf00304g00919.1.mrna1/9-124   PP ..........4579********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00269g00088.1.mrna1/2-117           -GRSPCCDKNG-LKKGPWTPEE.......DHKLIQYI..QVHGPG.................NWRNLPK.NAG..................................L.QRCGK...SCRLRWTNYLR.PDIR.R.G.RFSFEEEE....T....I.....IQ....L....HS.VLGN........K-----------T
+#=GR Peaxi162Scf00269g00088.1.mrna1/2-117   PP .68999*9999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........8...........9
+Peaxi162Scf00911g00012.1.mrna1/2-119           -GRSPCCEKLG-LKKGPWTPEE.......DQKLMACI..EKHGCG.................SWRALPA.KAG..................................L.KRCGK...SCRLRWINYLR.PDIK.R.G.KFSLQEEQ....T....I.....IQ....L....HA.LLGN........-----------RT
+#=GR Peaxi162Scf00911g00012.1.mrna1/2-119   PP .6899999999.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.***9...................7*
+Peaxi162Scf00058g00238.1.mrna1/24-148          --------DNIEMRKGPWTLDE.......DSILIHYI..SLLGQG.................RWDSLAQ.FAG..................................L.KRSGK...SCRLRWLNYLR.PNLR.G.G.KFTPQEQL....L....I.....LL....L....HF.RFGNrndyylcfRWAKIAEHLPGRT
+#=GR Peaxi162Scf00058g00238.1.mrna1/24-148  PP ........45569*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.*************************
+Peaxi162Scf00276g00412.1.mrna1/25-80           ----------------------.......--------..------.................-------.-FN..................................-.DRTDV...QCLHRWQKVLD.PELV.K.G.SWTKEEDE....I....L.....IE....L....VN.TYGA.......kKWSTVAQHLAGR-
+#=GR Peaxi162Scf00276g00412.1.mrna1/25-80   PP .......................................................................34....................................899**...***********.****.*.*.********....*....*.....**....*....**.***8.......68**********9.
+Peaxi162Scf00276g00412.1.mrna1/44-150          -----------ELVKGSWTKEE.......DEILIELV..NTYGAK.................KWSTVAQ.HLA..................................-.GRIGK...QCRERWHNHLN.PAIN.K.E.AWTQEEEL....A....L.....IR....A....HQ.IYGN........KWAELSKVLLGRT
+#=GR Peaxi162Scf00276g00412.1.mrna1/44-150  PP ...........5789*******.......********..******.................*******.**9....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00763g00441.1.mrna1/5-120           ----SSFVKEK-LRKGLWSPEE.......DEKLYNYI..TKFGVG.................CWSSVPK.LAG..................................L.QRCGK...SCRLRWINYLR.PDLK.R.G.MFSQEEED....M....I.....IS....L....HQ.VLGN........-----------RT
+#=GR Peaxi162Scf00763g00441.1.mrna1/5-120   PP ....4445555.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.***9...................7*
+Peaxi162Scf00033g00251.1.mrna1/6-119           --------ESLDRIKGPWSPEE.......DELLQRLV..DQHGPR.................NWSLISK.SVP..................................-.GRSGK...SCRLRWCNQLS.PQVE.H.R.AFTPEEDE....T....I.....IR....A....HA.KFGN........KWATIARLLSGRT
+#=GR Peaxi162Scf00033g00251.1.mrna1/6-119   PP ........4455789*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01302g00033.1.mrna1/45-159          -----NKRTSGERVKGPWSPEE.......DAILSKLV..SNFGAR.................NWSLIAR.GIP..................................-.GRSGK...SCRLRWCNQLD.PSVK.R.K.PFSDEEDR....L....I.....LQ....A....HA.IHGN........KWASIARLLPGRT
+#=GR Peaxi162Scf01302g00033.1.mrna1/45-159  PP .....556667789********.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00945g00023.1.mrna1/10-123          ---------HIDRVKGPWSPEE.......DELLTQLV..NKHGPR.................NWSLISK.SIP..................................-.GRSGK...SCRLRWCNQLS.PQVE.H.R.AFTIEEDE....T....I.....IR....A....HA.RFGN........KWATIARLLNGRT
+#=GR Peaxi162Scf00945g00023.1.mrna1/10-123  PP .........445789*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00566g00051.1.mrna1/24-139          -------LNKAERIKGPWSAEE.......DKILTKLV..ERYGAR.................NWSLISK.YIK..................................-.GRSGK...SCRLRWCNQLS.PNVQ.H.R.PFSHAEDE....T....I.....LA....A....HA.KYGN........RWATIARLLPGRT
+#=GR Peaxi162Scf00566g00051.1.mrna1/24-139  PP .......4555688********.......********..******.................*******.**9....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01010g00010.1.mrna1/38-144          -------------VKGPWSQDE.......DTVLSELV..SKFGAR.................NWSLIAR.GIP..................................-.GRSGK...SCRLRWCNQLD.PSVK.R.K.PFTEEEDN....I....I.....IQ....A....HA.VHGN........RWASIAKLLPGRT
+#=GR Peaxi162Scf01010g00010.1.mrna1/38-144  PP .............59*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00377g00925.1.mrna1/3-112           ----------EIIKKGPWKEEE.......DAVLIKHV..KKYGPR.................DWSSIRS.KGL..................................L.QRTGK...SCRLRWVNKLR.PNLK.N.GvKFSAEEER....T....V.....IE....L....QA.QFGN........KWARIATYLPGRT
+#=GR Peaxi162Scf00377g00925.1.mrna1/3-112   PP ..........5689********.......********..******.................*******.***..................................*.*****...***********.****.9.867*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00038g01818.1.mrna1/10-116          ------------IKKGPWKEEE.......DAVLIKHV..KKYGPR.................DWSSIRS.KGL..................................L.HRTGK...SCRLRWVNKLR.PNLK.N.GvKFSAEEET....T....V.....IE....L....QA.QFGN........KWARIATYLPGRT
+#=GR Peaxi162Scf00038g01818.1.mrna1/10-116  PP ............79********.......********..******.................*******.***..................................*.*****...***********.****.9.867*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00284g00077.1.mrna1/8-112           ------------KIKGSWSPEE.......DNMLIKLV..DQHGPR.................NWSLIST.GIP..................................-.GRSGK...SCRLRWCNQLS.PTVQ.H.R.PFTPSEDA....I....I.....LQ....A....HA.LHGN........RWATIARLLPGRT
+#=GR Peaxi162Scf00284g00077.1.mrna1/8-112   PP ............579*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00929g00071.1.mrna1/31-143          --------NKPERIKGPWSAEE.......DKILTRFV..ERYGAK.................NWSLISK.YIK..................................-.GRSGK...SCRLRWCNQLS.PEVE.H.R.PFSPAEDD....T....I.....LA....A....HA.KYGN........RWATIARLLHGRT
+#=GR Peaxi162Scf00929g00071.1.mrna1/31-143  PP ........4455789*******.......********..******.................*******.**9....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00078g00024.1.mrna1/2-115           ------------CSRGHWRPHE.......DQKLRELV..EKYGPH.................NWNAIAE.KLQ..................................-.GRSGK...SCRLRWFNQLD.PRIN.R.N.PFTEEEEE....R....L.....LS....A....HR.IHGN........RWAIIARLFPGRT
+#=GR Peaxi162Scf00078g00024.1.mrna1/2-115   PP ............679*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01068g00314.1.mrna1/82-199          ---------TKLCARGHWRPHE.......DAKLKELV..AQYGPQ.................NWNLIAE.KLE..................................-.GRSGK...SCRLRWFNQLD.PRIN.R.R.AFSEEEEE....R....L.....LT....A....HK.MYGN........KWAMIARLFPGRT
+#=GR Peaxi162Scf01068g00314.1.mrna1/82-199  PP .........45689********.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00066g01813.1.mrna1/12-125          ---------RSSCPRGHWRPAE.......DERLRQLV..EQYGPQ.................NWNSIAE.KLQ..................................-.GRSGK...SCRLRWFNQLD.PRIN.R.R.PFTEDEEE....R....L.....LA....A....HR.VHGN........KWALISRLFPGRT
+#=GR Peaxi162Scf00066g01813.1.mrna1/12-125  PP .........566899*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00171g00047.1.mrna1/2-114           ------------CSRGHWRPHE.......DEKLRELV..AKYGPH.................NWNAIAE.NLQ..................................-.GRSGK...SCRLRWYNQLD.PRIN.R.S.PFTEEEEE....R....L.....LA....S....HR.IHGN........RWAIIARLFPGRT
+#=GR Peaxi162Scf00171g00047.1.mrna1/2-114   PP ............679*******.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00009g00022.1.mrna1/180-296         ------GKKKSKSAKGQWTTEE.......DRLLIHLV..EKFGVR.................KWSQIAQ.MLK..................................-.GRIGK...QCRERWYNHLR.PDIK.K.D.LWTEDEDR....I....L.....IE....A....HA.EVGN........KWTEIAKRLPGRT
+#=GR Peaxi162Scf00009g00022.1.mrna1/180-296 PP ......56778899********.......********..******.................*******.*99....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01819g00004.1.mrna1/133-252         -------SSTTVLVKGQWTEEE.......DRKLVKLV..KQFGMR.................RWAQIAE.NMV..................................-.GRAGK...QCRERWHNHLR.PDIK.K.D.AWSEQEEL....I....L.....VE....A....HQ.QIGN........KWAEIAKKIPGRT
+#=GR Peaxi162Scf01819g00004.1.mrna1/133-252 PP .......5666789********.......********..******.................*******.**9....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00540g00619.1.mrna1/110-226         -------YSTTNLIKGQWTDEE.......DRKLLRLV..KQFGVR.................KWAQIAE.KME..................................-.ARGGK...QCRERWHNHLR.PDIK.K.D.SWSEEEEL....M....L.....VE....A....HK.QLGN........RWAEIAKRIPGRT
+#=GR Peaxi162Scf00540g00619.1.mrna1/110-226 PP .......4566799********.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00160g00722.1.mrna1/2-118           -GRAPCCDKNS-VKKGPWSPEE.......DAKLKAYI..EQHGTC................gNWIALPQ.KIG..................................L.KRCGK...SCRLRWLNYLR.PNIK.H.G.GFSEEEDN....I....I.....LS....L....YI.SIGS........-----------RT
+#=GR Peaxi162Scf00160g00722.1.mrna1/2-118   PP .6889999988.**********.......********..*****8................8*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.9996...................8*
+Peaxi162Scf00047g01824.1.mrna1/23-122          ----------HVLKKGPWTAAE.......DAILMEYV..KKHGEG.................NWNAVQR.NSG..................................L.MRCGK...SCRLRWANHLR.PNLK.K.G.AFSLEEER....L....I.....VE....L....HA.KLGN........KWA----------
+#=GR Peaxi162Scf00047g01824.1.mrna1/23-122  PP ..........5689********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........**7..........
+Peaxi162Scf00330g00418.1.mrna1/83-114          ----------------------.......--------..------.................------A.EFF..................................T.DRSEV...QCLHRWQKVLN.PELV.K.G.PWTQE---....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00330g00418.1.mrna1/83-114  PP ....................................................................3.333..................................6.8999*...***********.****.*.*.***97.........................................................
+Peaxi162Scf00330g00418.1.mrna1/123-219         -------------------QSE.......DDKIIELV..AKYGPI.................KWSVIAK.SLP..................................-.GRIGK...QCRERWHNHLN.PNIR.K.D.AWTLEEEL....A....L.....VN....A....HR.VYGN........KWAEIAKVLPGRT
+#=GR Peaxi162Scf00330g00418.1.mrna1/123-219 PP ...................68*.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00090g00168.1.mrna1/2-98            -GRSPCCEKEH-TNKGAWTKEE.......DERLTKYI..KEHGEG.................CWRTLPK.AAG..................................L.LRCGK...SCRLRWINYLR.PDLK.R.G.NFTEEEDE....L....I.....IN....L....HS.LLGN........NSTNLNKKITS--
+#=GR Peaxi162Scf00090g00168.1.mrna1/2-98    PP .6899999988.**********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........98888877765..
+Peaxi162Scf00132g01412.1.mrna1/6-113           -----MDKPKQKHKRGLWSPDE.......DQKLKDYI..LRHGHG.................CWSSVPI.NAG..................................L.QRNGK...SCRLRWINYLR.PGLK.R.G.TFSIEEEE....T....V.....LT....L....HG.VFGN........K-----------T
+#=GR Peaxi162Scf00132g01412.1.mrna1/6-113   PP .....45566779*********.......********..******.................*******.***..................................*.*****...***********.****.*.*.********....*....*.....**....*....**.****........8...........9
+Peaxi162Scf00222g00715.1.mrna1/2-25            -GKSKCCDKEG-LKKGPWTPEE.......DQKL----..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00222g00715.1.mrna1/2-25    PP .5788999988.**********.......***9.......................................................................................................................................................................
+Peaxi162Scf00222g00715.1.mrna1/27-102          ----------------------.......--------..------.................-------.---..................................-.-----...---LRWINYLR.PDIK.R.G.KFSLQEER....T....I.....IQ....L....HA.LLGN........RWSAMAAYLPSRT
+#=GR Peaxi162Scf00222g00715.1.mrna1/27-102  PP ........................................................................................................................8*******.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00071g00135.1.mrna1/2-45            -GRHSCCYKQK-LRKGLWSPEE.......DEKLIKHI..TKYGHG.................CWSSVPK.LAG..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00071g00135.1.mrna1/2-45    PP .5888999988.**********.......********..******.................******9.886...............................................................................................................................
+Peaxi162Scf00071g00135.1.mrna1/45-107          ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.G.TFSQEEEN....S....I.....IE....L....HA.LLGN........KWSQIAARLPGRT
+#=GR Peaxi162Scf00071g00135.1.mrna1/45-107  PP ........................................................................................................................................7.8*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00222g00821.1.mrna1/2-45            -GKSKCCDKEG-LKKGPWTPEE.......DQKLLSCI..EEHGCG.................SWRALPA.KAG..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00222g00821.1.mrna1/2-45    PP .5788999988.**********.......********..******.................******9.997...............................................................................................................................
+Peaxi162Scf00222g00821.1.mrna1/43-107          ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---K.A.G.KFSLQEER....T....I.....IQ....L....HA.LLGN........RWSAIAAYLPSRT
+#=GR Peaxi162Scf00222g00821.1.mrna1/43-107  PP ....................................................................................................................................6.7.9.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00001g00599.1.mrna1/20-122          ------EDELGEIKKGPWKAEE.......GEVLLNHV..KKYGPR.................DWSSIRS.KGL..................................L.QRTGK...SCRLYWVNKLR.PNLK.N.GvKFSAEEER....T....V.....IE....L....QA.QFGN........KWARIATHLHGRT
+#=GR Peaxi162Scf00001g00599.1.mrna1/20-122  PP ......5677889*********.......********..******.................*******.***..................................*.*****...***********.****.9.867*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00354g00068.1.mrna1/4-89            ----------------------.......--------..------.................-------.--G..................................L.KRCGK...SCRLRWLNYLR.PDIK.H.G.GFTEEEDN....I....I.....LT....L....YT.QIGSssi.lvkiRWSVIASNLQGRT
+#=GR Peaxi162Scf00354g00068.1.mrna1/4-89    PP ........................................................................7..................................9.*****...***********.****.*.*.********....*....*.....**....*....**.*******.*****************
+Peaxi162Scf00165g00111.1.mrna1/3-117           -------------ERQRWRSEE.......DALLRAYV..RQYGPK.................EWHLVSQ.RMNt................................pL.NRDAK...SCLERWKNYLK.PGIK.K.G.SLTEDEQR....L....V.....IQ....L....QA.KHGN........KWKKIAAEVPGRT
+#=GR Peaxi162Scf00165g00111.1.mrna1/3-117   PP .............6899*****.......********..******.................*******.9988................................8*.*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00503g00613.1.mrna1/20-135          ----------KERHIVSWSQEE.......DDILREQI..RIHGTD.................NWTIIAS.KFK..................................-.DKTTR...QCRRRWFTYLN.SDFK.K.G.GWSPEEDM....L....L.....CE....A....QK.IFGN........RWTEIAKVVSGRT
+#=GR Peaxi162Scf00503g00613.1.mrna1/20-135  PP ..........4566789*****.......********..******.................*******.***....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00222g00521.1.mrna1/28-134          --------QSKLCARGHWRPAE.......DAKLKELV..AIYGPQ.................NWNLIAD.---..................................-.-----...--KLRWFNQLD.PRIN.R.R.AFTEEEEE....R....L.....MA....A....HR.LYGN........KWAMIARLFPGRT
+#=GR Peaxi162Scf00222g00521.1.mrna1/28-134  PP ........556699********.......********..******.................*****87..................................................578******.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf01314g00012.1.mrna1/2-84            -GRAPCCDRSS-VKKGPWSPEE.......DAKLKAYI..EQNGTG................gNWIALPQ.KIG..................................L.KRCGK...SCRLRWLNYLR.PNVK.H.G.GFSEEEDR....I....I.....CS....L....YI.----........-------------
+#=GR Peaxi162Scf01314g00012.1.mrna1/2-84    PP .6889999988.**********.......********..*****9................9*******.***..................................*.*****...***********.****.*.*.********....*....*.....*9....9....75..........................
+Peaxi162Scf00683g00242.1.mrna1/348-403         ------------IKHEGWDTVE.......EKSLLHAV..QQKEMS.................DWIGIAA.SLG..................................V.CRTPF...QCLSHYQRSLN.ASII.R.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00683g00242.1.mrna1/348-403 PP ............57788*****.......********..******.................*******.***..................................*.*****...**999999888.8876.6.................................................................
+Peaxi162Scf00683g00242.1.mrna1/400-490         -----------SIIRRDWTEEE.......DIRLCSLV..ETFGES.................NWQVVAS.FME..................................-.GRTGT...QCSNRWIKSLH.PARK.RsG.KWSADEDK....R....L....kVA....V....ML.FYPK........TWRNIGQSVPWRT
+#=GR Peaxi162Scf00683g00242.1.mrna1/400-490 PP ...........577899*****.......********..******.................*******.***....................................*****...***********.**99.857.8**99987....6....6....377....8....88.89**........************9
+Peaxi162Scf00683g00242.1.mrna1/493-565         ----------------------.......--------..------.................-WKKIAQ.FVP..................................-.GRTHV...QCRERWVNSLD.PSLK.L.D.EWTEEEDL....K....L.....KS....A....ID.EHGY........SWSKVAACVPPRT
+#=GR Peaxi162Scf00683g00242.1.mrna1/493-565 PP ...............................................................999999.999....................................9****...***********.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00944g00140.1.mrna1/2-47            -GRAPCCDKTK-VKRGPWSPDE.......DNTLKNFV..EKNGTG................gNWIALPQ.KAD..................................I.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00944g00140.1.mrna1/2-47    PP .68999*9998.**********.......********..*****9................9*******.*98..................................6............................................................................................
+Peaxi162Scf00944g00140.1.mrna1/44-107          ----------------------.......--------..------.................-------.---..................................-.-----...----------K.ADIN.H.G.AFTEEEDN....I....I.....LT....L....YS.QIGS........RWSVIAANLQGRT
+#=GR Peaxi162Scf00944g00140.1.mrna1/44-107  PP ...............................................................................................................................5.79**.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00009g00621.1.mrna1/3-79            ----------------------.......--------..------.................-------.---..................................-.-----...--KVRWSNRLK.PDLK.E.D.NFTPQEEE....L....I.....IK....L....HA.TIGS........RWSIIAQQLPGKT
+#=GR Peaxi162Scf00009g00621.1.mrna1/3-79    PP .......................................................................................................................89*******.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00273g00087.1.mrna1/1-69            ----------------------.......--------..------.................-------.---..................................-.-----...---------LR.PDIK.R.G.PFSEEEEK....L....I.....IQ....L....HG.ILGN........RWAAVASQLPGRT
+#=GR Peaxi162Scf00273g00087.1.mrna1/1-69    PP ..............................................................................................................................89.****.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00074g00355.1.mrna1/2-45            -GRAPCCVKEG-LRKGPWSAKE.......DSLLTNYI..NQHGEG.................QWRSLPK.NAG..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00074g00355.1.mrna1/2-45    PP .6889999999.**********.......********..******.................*******.986...............................................................................................................................
+Peaxi162Scf00074g00355.1.mrna1/42-89           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....-K.NAGN........RWSLIAGRLPGRT
+#=GR Peaxi162Scf00074g00355.1.mrna1/42-89   PP .............................................................................................................................................................................6.78**........*************
+Peaxi162Scf00114g00127.1.mrna1/2-109           -GRAPCCDKAN-VKRGPWSPEE.......DAKLKEFI..EKYGTG................gNWIALPQ.KAA..................................-.-----...-----YTPTLE.AG--.K.K.NISYIEVK....L....I.....H-....-....--.-LCD........RWSIIAAQLPGRT
+#=GR Peaxi162Scf00114g00127.1.mrna1/2-109   PP .6899999988.**********.......********..*****9................9*******.**9.................................................778777.65...6.7.88899999....9....8.....4..............679........*************
+Peaxi162Scf01251g00013.1.mrna1/2-44            -GRTPCCEKLG-LNRGPWSKKE.......DDILINYI..DKHGHP.................NWRQLPK.LA-..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf01251g00013.1.mrna1/2-44    PP .6889999998.**********.......********..******.................******9.87................................................................................................................................
+Peaxi162Scf01251g00013.1.mrna1/47-84           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........TWSVIAAKLPGRT
+#=GR Peaxi162Scf01251g00013.1.mrna1/47-84   PP ...........................................................................................................................................................................................7************
+Peaxi162Scf00840g00121.1.mrna1/2-51            -GRTPCCDKNK-VKRGQWSPDE.......DEILKNYL..LKHGTG................gNWITLPL.RAGsl..............................lsL.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00840g00121.1.mrna1/2-51    PP .6889999988.**********.......********..*****9................9******9.99854..............................333............................................................................................
+Peaxi162Scf00840g00121.1.mrna1/77-114          ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........RWSIIASKLPGRT
+#=GR Peaxi162Scf00840g00121.1.mrna1/77-114  PP ...........................................................................................................................................................................................9************
+Peaxi162Scf00065g00016.1.mrna1/1-70            ----------------------.......--------..------.................-------.---..................................-.-----...------MNNLK.PILEiR.G.NFAEDEDD....L....I.....IR....L....HA.LLGN........RWSLIAGRLPWRT
+#=GR Peaxi162Scf00065g00016.1.mrna1/1-70    PP ...........................................................................................................................58899.999769.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00295g01125.1.mrna1/2-45            -GRSPCCDESG-LKKGPWTPEE.......DQKLTNYI..NKHGHG.................SWRALPK.LAG..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00295g01125.1.mrna1/2-45    PP .6899999998.**********.......********..******.................******9.875...............................................................................................................................
+Peaxi162Scf00295g01125.1.mrna1/43-76           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........--------LAGRT
+#=GR Peaxi162Scf00295g01125.1.mrna1/43-76   PP ...................................................................................................................................................................................................89***
+Peaxi162Scf00110g00004.1.mrna1/3-72            ---------EQGQRRGQWLEEE.......DERLAMIV..ASLGER.................-------.---..................................L.RRSGK...SCRLRWLNYLR.PNLN.H.G.HITEDEER....L....I.....IQ....L....QK.QLGN........K------------
+#=GR Peaxi162Scf00110g00004.1.mrna1/3-72    PP .........45589********.......********..*****7..............................................................9.9****...***********.****.*.*.********....*....*.....**....*....**.****........8............
+Peaxi162Scf00689g00121.1.mrna1/164-210         -----RGRKKSKSAKGQWTIEE.......DRILIHLV..EKFGIR.................KWSQIAQ.MLK..................................-.GRIGK...Q----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00689g00121.1.mrna1/164-210 PP .....456778899********.......********..******.................*******.999....................................99999...7..................................................................................
+Peaxi162Scf00689g00121.1.mrna1/211-252         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....S....HA.EVGN........KWAEIAKRLPGRT
+#=GR Peaxi162Scf00689g00121.1.mrna1/211-252 PP .......................................................................................................................................................................6....9*.****........*************
+Peaxi162Scf00089g01411.1.mrna1/2-45            -GRHACCVKQK-LRKGLWSPEE.......DEKLCNYI..TKFGVG.................SWSSVPK.LAG..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00089g01411.1.mrna1/2-45    PP .5788888877.**********.......********..******.................******9.875...............................................................................................................................
+Peaxi162Scf00089g01411.1.mrna1/43-77           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........--------LAGRT
+#=GR Peaxi162Scf00089g01411.1.mrna1/43-77   PP ...................................................................................................................................................................................................89***
+Peaxi162Scf00128g00742.1.mrna1/1-45            MGRQPCCDKIG-LKRGPWTIEE.......DHKLMNFI..LNNGIQ.................CWRLVPK.LAG..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00128g00742.1.mrna1/1-45    PP 56899****99.**********.......********..******.................******9.875...............................................................................................................................
+Peaxi162Scf00128g00742.1.mrna1/42-77           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------KLAGRT
+#=GR Peaxi162Scf00128g00742.1.mrna1/42-77   PP ..................................................................................................................................................................................................689***
+Peaxi162Scf00304g00074.1.mrna1/5-86            ------------IKGGVWKNTE.......DEVLKALV..MKYGKN.................HWARISS.LLV..................................-.HKTAK...QCKARWYEWLD.PSIK.K.I.EWTRKEDE....K....L.....LH....L....AN.LMPS........QWRTIAP------
+#=GR Peaxi162Scf00304g00074.1.mrna1/5-86    PP ............57899*****.......********..******.................******9.998....................................*****...***********.****.*.*.********....*....*.....**....*....**.****........*****95......
+Peaxi162Scf00521g00814.1.mrna1/5-83            ----------------------.......--------..---GQ-.................SSSSVNT.PAD..................................-.SQDVV...APRMLVSG-KT.SKVA.E.I.EFSEEEED....L....I.....IR....M....YN.LVGE........RWSLIAGRIPGRS
+#=GR Peaxi162Scf00521g00814.1.mrna1/5-83    PP ..........................................55..................3677888.887....................................77888...88888777.78.9***.*.*.********....*....*.....**....*....**.****........*************
+Peaxi162Scf00135g00313.1.mrna1/5-98            ------------IKGGVWKNTE.......DEILKAAV..MKYGKN.................QWARISS.LLV..................................-.RKSAK...QCKARWYEWLD.PSIK.K.A.K-----DE....K....L.....LH....L....AK.LMPT........QWRTIAPI-VGRT
+#=GR Peaxi162Scf00135g00313.1.mrna1/5-98    PP ............67899*****.......********..******.................******9.998....................................*****...***********.****.*.9.9.....67....7....9.....9*....*....**.****........******75.5899
+Peaxi162Scf00050g00512.1.mrna1/1-38            ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........RWSIIAAQLPGRT
+#=GR Peaxi162Scf00050g00512.1.mrna1/1-38    PP ...........................................................................................................................................................................................9************
+Peaxi162Scf00786g00439.1.mrna1/40-84           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.SMTKQEED....L....I.....YR....M....HK.LVGD........RWGLIAGRIPGRT
+#=GR Peaxi162Scf00786g00439.1.mrna1/40-84   PP ..........................................................................................................................................789*****....*....*.....**....*....**.****........*************
+Peaxi162Scf00007g00289.1.mrna1/13-50           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........TWSVIAAKLPGRT
+#=GR Peaxi162Scf00007g00289.1.mrna1/13-50   PP ...........................................................................................................................................................................................6************
+Peaxi162Scf00700g00217.1.mrna1/1-45            MGRQPCCDKVG-LKRGPWTIEE.......DHKLLNFI..LNNGIQ.................CWRIVPK.HAD..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00700g00217.1.mrna1/1-45    PP 56899****99.**********.......********..******.................*******.997...............................................................................................................................
+Peaxi162Scf00725g00019.1.mrna1/19-64           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-WTRLEDK....L....F.....EQ....A....LV.MYPEnd....ieRWSKIARHVPGKT
+#=GR Peaxi162Scf00725g00019.1.mrna1/19-64   PP ...........................................................................................................................................4444444....4....4.....44....4....44.444445....55*************
+Peaxi162Scf00725g00019.1.mrna1/108-153         -----KSHDVERKKGTPWTEEE.......HRLFLIGL..DKYGKG.................DWRSISR.NVV..................................V.TRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00725g00019.1.mrna1/108-153 PP .....445555567789*****.......********..******.................*******.*99..................................8.8876.......................................................................................
+Peaxi162Scf00029g00131.1.mrna1/335-378         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---E.T.R.KWTEEEYE....M....V.....RK....F....HR.EHGP........KWKVLADELGKH-
+#=GR Peaxi162Scf00029g00131.1.mrna1/335-378 PP ....................................................................................................................................5.6.7.9*******....*....*.....**....*....**.****........*********665.
+Peaxi162Scf00029g00131.1.mrna1/383-469         -----------NQKKGQWTQEE.......YQTLFDLV..NTDLRLklsedkkskygmlrdniPWSAISD.KLS..................................-.TRTAP...SCCLKWYDQLTsPMVA.K.G.EWADADDY....H....L.....ID....-....--.----........-------------
+#=GR Peaxi162Scf00029g00131.1.mrna1/383-469 PP ...........56899999999.......99999999..865443111123333444455555777777.777....................................*****...*********964899*.*.*.**998887....7....7.....65.....................................
+Peaxi162Scf00681g00435.1.mrna1/31-56           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.--AD........RWENIAADVPGKT
+#=GR Peaxi162Scf00681g00435.1.mrna1/31-56   PP .................................................................................................................................................................................45........*************
+Peaxi162Scf00681g00435.1.mrna1/111-155         ------RSEQERRKGIAWTEDE.......HRLFLLGL..EKYGKG.................DWRSISR.NFV..................................V.TRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00681g00435.1.mrna1/111-155 PP ......34445456679*****.......********..******.................*******.999..................................8.8875.......................................................................................
+Peaxi162Scf00951g00332.1.mrna1/19-70           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.--SK.S.R.EWTKEENK....MfesaI.....AI....Y....DE.NTPN........RWFKVAAMIPGKS
+#=GR Peaxi162Scf00951g00332.1.mrna1/19-70   PP ...................................................................................................................................67.8.8.99999987....622225.....55....6....67.8899........*************
+Peaxi162Scf00951g00332.1.mrna1/109-154         -----KSSDQERKKGVPWTEEE.......HRRFLMGL..EKYGKG.................DWRNISR.KLV..................................I.SRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00951g00332.1.mrna1/109-154 PP .....333444466679*****.......********..******.................*******.*99..................................9.9875.......................................................................................
+Peaxi162Scf00519g00059.1.mrna1/18-50           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....L.....VL....Y....PE.QIAD........RWQLIADHVPGKT
+#=GR Peaxi162Scf00519g00059.1.mrna1/18-50   PP ...........................................................................................................................................................4.....44....5....56.7788........*************
+Peaxi162Scf00519g00059.1.mrna1/82-126          -----NCEI-ERKKGTPWTEEE.......HRLFLIGL..EKYGKG.................DWRSISR.NVV..................................V.TRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00519g00059.1.mrna1/82-126  PP .....3333.4467889*****.......********..******.................*******.999..................................8.8875.......................................................................................
+Peaxi162Scf00957g00330.1.mrna1/20-64           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.--SK.S.T.EWTKEENK....RfesaL.....AI....Y....DE.KTPN........RWSKISAMIPGKS
+#=GR Peaxi162Scf00957g00330.1.mrna1/20-64   PP ...................................................................................................................................57.7.7.88888876....511114.....44....5....67.8899........***********99
+Peaxi162Scf00957g00330.1.mrna1/109-154         ---SRSCDQER-KKGVPWTEEE.......HRRFLMGL..EKYGKG.................DWRNISK.NFV..................................I.SKT--...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00957g00330.1.mrna1/109-154 PP ...55666665.6888******.......********..******.................*******.998..................................7.765........................................................................................
+Peaxi162Scf25743g00028.1.mrna1/243-285         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.K.H.KWTEEEFE....M....I.....QK....F....HG.EHGP........KWRVLGDKLGK-Y
+#=GR Peaxi162Scf25743g00028.1.mrna1/243-285 PP ......................................................................................................................................7.8.9*******....*....*.....**....*....**.****........********955.5
+Peaxi162Scf25743g00028.1.mrna1/290-348         -----------NRNKGSWTQEE.......TH--PDFI..SKHGMLrg.............niCWSAISD.RLS..................................-.TRIKQ...HCCNKWYKQLTsPMVP.T.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf25743g00028.1.mrna1/290-348 PP ...........56899***999.......76..4888..88876555.............669******.*99....................................99***...******9999624555.5.................................................................
+Peaxi162Scf00141g00622.1.mrna1/32-78           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.T.KWTPEENK....R....Fed.alAL....F....DK.DTPD........KWYNVAAMIPGKT
+#=GR Peaxi162Scf00141g00622.1.mrna1/32-78   PP ........................................................................................................................................5.67777765....5....400.0044....4....55.6677........*************
+Peaxi162Scf00141g00622.1.mrna1/128-172         -----NRSDHERKKGVPWTEEE.......HRQFLLGL..KKYGKG.................DWRNISR.NFV..................................T.TRT--...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00141g00622.1.mrna1/128-172 PP .....344445456779*****.......********..******.................*******.998..................................7.776........................................................................................
+Peaxi162Scf00014g00715.1.mrna1/30-74           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-WTAEENK....M....F.....ED....AlalfDK.DTPD........RWCNVAAMIPGKT
+#=GR Peaxi162Scf00014g00715.1.mrna1/30-74   PP ...........................................................................................................................................6667766....5....5.....44....4000045.5677........*************
+Peaxi162Scf00014g00715.1.mrna1/137-179         -------SEHERKKGVPWTEEE.......HRQFLLGL..KKYGKG.................DWRNISR.NFV..................................T.TRT--...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00014g00715.1.mrna1/137-179 PP .......3444456679*****.......********..******.................*******.998..................................7.776........................................................................................
+Peaxi162Scf00526g00520.1.mrna1/11-55           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-FWTKEED....K....I.....FEnglaI....YS.GDDN........QWMKIAAALPGKS
+#=GR Peaxi162Scf00526g00520.1.mrna1/11-55   PP ...........................................................................................................................................4444555....5....5.....4422114....44.4458........*************
+Peaxi162Scf00526g00520.1.mrna1/91-132          ---------VERRRGVAWTEEE.......HRAFLRGL..EKYGRG.................DWRSISR.HCV..................................L.SRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00526g00520.1.mrna1/91-132  PP .........34456679*****.......********..******.................*******.***..................................9.9986.......................................................................................
+Peaxi162Scf01058g00154.1.mrna1/18-68           ----------------------.......--------..------.................-------.---..................................-.-----...----------D.ENSK.S.T.KWTPAENK....A....F.....EN....A....LA.LFDKdt....pdRWQKVAEMVPGKT
+#=GR Peaxi162Scf01058g00154.1.mrna1/18-68   PP ...............................................................................................................................5.6778.8.8.88888877....6....6.....55....5....54.443333....33*************
+Peaxi162Scf01058g00154.1.mrna1/124-167         -------QEQERKKGIPWTEEE.......HKLFLMGL..KKYGKG.................DWRNISR.NFV..................................I.TRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf01058g00154.1.mrna1/124-167 PP .......4445456679*****.......********..******.................*******.*99..................................8.8875.......................................................................................
+Peaxi162Scf00013g00940.1.mrna1/28-57           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.EYSNk......eQWQKIALMVPSKT
+#=GR Peaxi162Scf00013g00940.1.mrna1/28-57   PP ...............................................................................................................................................................................23335......58************
+Peaxi162Scf00013g00940.1.mrna1/96-156          --------NQERRKGLPWTAEE.......HRLFLLGL..EEFGKG.................DWRSISR.NFV..................................I.SRTPSqvaSHAQKYFNRLE.SNS-.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00013g00940.1.mrna1/96-156  PP ........444456679*****.......********..******.................*******.***..................................9.9987511144567777777.765....................................................................
+Peaxi162Scf00102g00926.1.mrna1/203-246         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---E.K.R.KWTDEEYE....M....V.....RK....F....HG.EHGP........KWRVLADELGKH-
+#=GR Peaxi162Scf00102g00926.1.mrna1/203-246 PP ....................................................................................................................................5.7.8.9*******....*....*.....**....*....**.****........*********776.
+Peaxi162Scf00102g00926.1.mrna1/322-381         ------------VATGEWADTD.......DYRLIDSL..FELDAS.................CIEDVDW.DNL..................................LdHREGE...LCRKRWNQMVR.QLSK.H.E.NK------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00102g00926.1.mrna1/322-381 PP ............7889******.......********..*****9.................9999987.665..................................52799**...******99988.8777.7.7.64............................................................
+Peaxi162Scf00102g00926.1.mrna1/428-471         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---E.R.R.RYTEEELE....M....I.....RK....Y....HR.EHGP........KWKVLADEL-GRH
+#=GR Peaxi162Scf00102g00926.1.mrna1/428-471 PP ....................................................................................................................................5.8.8.99******....*....*.....**....*....**.****........********9.888
+Peaxi162Scf00401g00025.1.mrna1/21-69           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.--SK.S.N.EWTQEENKkfesA....L.....AI....Y....DE.RTPN........RWFKVAALIPGKS
+#=GR Peaxi162Scf00401g00025.1.mrna1/21-69   PP ...................................................................................................................................57.7.7.8888887611113....4.....55....5....67.8999........************9
+Peaxi162Scf00401g00025.1.mrna1/112-155         -----SCDQER-KKGVPWTEEE.......HRRFLMGL..EKHGKG.................DWRNISR.NFV..................................I.SKT--...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00401g00025.1.mrna1/112-155 PP .....455555.6788******.......********..******.................******9.987..................................7.665........................................................................................
+Peaxi162Scf00366g00316.1.mrna1/62-98           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-------Q....A....L.....AV....Y....DK.DTPD........RWQNIAKYVGGKS
+#=GR Peaxi162Scf00366g00316.1.mrna1/62-98   PP .................................................................................................................................................4....4....4.....55....5....67.7889........*************
+Peaxi162Scf00366g00316.1.mrna1/149-185         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-------Q....A....L.....AV....Y....DK.DTPD........RWQNIAKYVGGKS
+#=GR Peaxi162Scf00366g00316.1.mrna1/149-185 PP .................................................................................................................................................4....4....5.....55....5....67.7889........*************
+Peaxi162Scf00015g00720.1.mrna1/17-69           ----------------------.......--------..------.................-------.---..................................-.-----...----------T.SNLS.T.V.VWSREEEK....A....FenaiaMH....F....TE.DSNE........VWDKIASLVPSKT
+#=GR Peaxi162Scf00015g00720.1.mrna1/17-69   PP ...............................................................................................................................5.5666.6.6.67777765....4....31110145....5....55.5666........9************
+Peaxi162Scf00015g00720.1.mrna1/136-180         ------RSEQERRKGIPWTEEE.......HRLFLLGL..DKFGKG.................DWRSISR.NFV..................................I.SRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00015g00720.1.mrna1/136-180 PP ......34455566679*****.......********..******.................*******.*99..................................9.9875.......................................................................................
+Peaxi162Scf00334g00006.1.mrna1/33-56           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.---D........RWEKIASDVPGKN
+#=GR Peaxi162Scf00334g00006.1.mrna1/33-56   PP ..................................................................................................................................................................................5........*************
+Peaxi162Scf00334g00006.1.mrna1/116-158         --------DQERRKGIAWTEDE.......HRLFLLGL..DKYGKG.................DWRSISR.NFV..................................V.TRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00334g00006.1.mrna1/116-158 PP ........334456679*****.......********..******.................*******.999..................................8.8875.......................................................................................
+Peaxi162Scf00119g00028.1.mrna1/7-48            ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-WSREEEK....A....F.....EN....A....IAiHWIE........DWQKIASMVPSKT
+#=GR Peaxi162Scf00119g00028.1.mrna1/7-48    PP ...........................................................................................................................................7778877....7....7.....66....5....5415778........9************
+Peaxi162Scf00119g00028.1.mrna1/116-162         ----SSKSEQERRKGIPWTEEE.......HRLFLLGL..DKFGKG.................DWRSISR.NYV..................................I.SRTP-...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00119g00028.1.mrna1/116-162 PP ....3445555566679*****.......********..******.................*******.999..................................8.8875.......................................................................................
+Peaxi162Scf01390g00030.1.mrna1/514-558         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.--SE.K.R.KWTEEEYE....M....V.....RK....Y....HE.VHGN........KWKDLADELGKH-
+#=GR Peaxi162Scf01390g00030.1.mrna1/514-558 PP ...................................................................................................................................57.8.9.********....*....*.....**....*....**.****........*********665.
+Peaxi162Scf01390g00030.1.mrna1/563-648         -----------NRNKGQWTQEE.......YQTLFDLV..NTDLRL.................KLSEEKK.SKHgmlrdnia..................wtaisgnlS.TRTDA...NCCLKWYDQLTsPMVS.K.G.EWADTDDY....R....L.....I-....-....--.----........-------------
+#=GR Peaxi162Scf01390g00030.1.mrna1/563-648 PP ...........46899******.......**999999..876555.................4444443.33345555555..................555555555.9****...*********964899*.*.*.**998887....7....7.....6......................................
+Peaxi162Scf25743g00024.1.mrna1/568-610         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.K.H.KWTEEEFE....M....I.....QK....F....HG.EHGP........KWRVLGDKLGK-Y
+#=GR Peaxi162Scf25743g00024.1.mrna1/568-610 PP ......................................................................................................................................7.8.9*******....*....*.....**....*....**.****........********965.5
+Peaxi162Scf00681g00412.1.mrna1/31-57           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.--AD........RWERIAADVPGKT
+#=GR Peaxi162Scf00681g00412.1.mrna1/31-57   PP .................................................................................................................................................................................46........*************
+Peaxi162Scf00454g00323.1.mrna1/172-220         ------------RKRKPWSDAE.......DMELIAAV..QKCGEG.................NWANILKgDFK..................................G.DRTTS...QLSQRWAT---.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00454g00323.1.mrna1/172-220 PP ............6899******.......********..******.................**999872456..................................6.88888...88888865...........................................................................
+Peaxi162Scf01390g00031.1.mrna1/767-812         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.-RSE.K.R.KWTEEEYE....M....V.....RK....Y....HE.VHGN........KWKALADELGKH-
+#=GR Peaxi162Scf01390g00031.1.mrna1/767-812 PP ..................................................................................................................................567.9.9.9*******....*....*.....**....*....**.****........*********665.
+Peaxi162Scf01390g00031.1.mrna1/817-903         -----------NRNKGQWTQEE.......YQTLFDLV..NTDLRL.................KLSEEKK.SKHgmlrdnia..................wtaisgnlS.TRTDA...NCCLKWYDQLTsPMVS.K.G.EWADTDDY....R....L.....ID....-....--.----........-------------
+#=GR Peaxi162Scf01390g00031.1.mrna1/817-903 PP ...........46899******.......99999999..876555.................4444443.33345555555..................555555555.9****...*********964899*.*.*.**999888....7....7.....75.....................................
+Peaxi162Scf00217g00912.1.mrna1/93-131          -----------RRKGVAWTAEE.......HRLFLQGL..EKYGRG.................DWRSISR.NCV..................................V.SRT--...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00217g00912.1.mrna1/93-131  PP ...........355679*****.......********..******.................*******.998..................................8.887........................................................................................
+Peaxi162Scf00038g01737.1.mrna1/5-33            --------------KVKWTREE.......EEALKAGI..AKHGTG.................KWKTILN.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00038g01737.1.mrna1/5-33    PP ..............789*****.......********..******.................***9975...................................................................................................................................
+Peaxi162Scf00160g01038.1.mrna1/171-217         ------------RKRKPWSTAE.......DMELIAAV..QKCGEG.................NWANIVKgDFK..................................G.DRTPS...QLSQRW-----.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00160g01038.1.mrna1/171-217 PP ............6899******.......********..******.................**998762344..................................5.66666...666666.............................................................................
+Peaxi162Scf41047g00002.1.mrna1/204-249         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.K.H.KWTEEEFE....M....I.....QK....F....HG.EHGP........KWRVLGDKLGK-Y
+#=GR Peaxi162Scf41047g00002.1.mrna1/204-249 PP ......................................................................................................................................7.8.9*******....*....*.....**....*....**.****........*********65.5
+Peaxi162Scf00003g00125.1.mrna1/11-60           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.G.SWTAKENK....A....F.....EK....A....LA.VYDKdt....cdRWSNVAKAVGGKT
+#=GR Peaxi162Scf00003g00125.1.mrna1/11-60   PP ........................................................................................................................................6.77777776....6....6.....55....5....55.544444....44*************
+Peaxi162Scf00016g02929.1.mrna1/5-36            --------------KQKWTPEE.......EAALKAGV..LKHGPG.................KWRTILK.DPE..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00016g02929.1.mrna1/5-36    PP ..............899*****.......********..******.................*****98.755...............................................................................................................................
+Peaxi162Scf00385g00010.1.mrna1/235-282         ----------NEEAKTDWTYKE.......TLQLLEAL..MHYGDD.................-WKKVAE.HVG..................................G.GRTAK...DCVARFV----.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00385g00010.1.mrna1/235-282 PP ..........446899******.......********..****95..................******.***..................................*.*****...**99976............................................................................
+Peaxi162Scf00494g00102.1.mrna1/5-36            --------------KQKWTSEE.......EEALRAGV..AKHGAG.................KWKNIQR.DPE..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00494g00102.1.mrna1/5-36    PP ..............899*****.......********..******.................*****98.766...............................................................................................................................
+Peaxi162Scf00152g00527.1.mrna1/5-39            --------------KQKWTSEE.......EAALKAGI..LKHGPG.................KWRTILK.DPE..................................F.SR---...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00152g00527.1.mrna1/5-39    PP ..............899*****.......********..******.................*****99.887..................................5.55.........................................................................................
+Peaxi162Scf00207g01353.1.mrna1/4-34            -------------QKTKWTSEE.......EEALKAGV..TKHGVG.................KWKNILK.D--..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00207g01353.1.mrna1/4-34    PP .............799******.......********..******.................****988.6.................................................................................................................................
+Peaxi162Scf00677g00012.1.mrna1/131-164         ------------RKGIPWTEEE.......HQLFLMGL..NTFGKG.................DWKNISR.VYV..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00677g00012.1.mrna1/131-164 PP ............45569*****.......********..******.................****998.665...............................................................................................................................
+Peaxi162Scf00449g00319.1.mrna1/5-36            --------------KQKWTSEE.......EAALKAGV..AKYGVG.................KWSTILK.DPE..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00449g00319.1.mrna1/5-36    PP ..............899*****.......********..******.................*****98.766...............................................................................................................................
+Peaxi162Scf00123g01118.1.mrna1/408-466         ----------RRKHHRLWTVSE.......VRKLIDGV..AQYGVG.................RWSHIKK.LYFs...............................ssV.HRTPV...DLKDKWRNLLK.ASY-.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00123g01118.1.mrna1/408-466 PP ..........4456779*****.......********..******.................*****99.6533...............................449.99999...9999**99998.765....................................................................
+Peaxi162Scf00677g00011.1.mrna1/129-162         -----------RRRGIPWTEGE.......HQLFLMGL..NKYGKG.................DWKSISR.YY-..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00677g00011.1.mrna1/129-162 PP ...........344569*****.......********..******.................*****98.65................................................................................................................................
+Peaxi162Scf00092g01520.1.mrna1/23-69           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---Q.R.E.RWTEEEHN....R....F.....LE....A....LK.LYGR........AWQRIEEHIGTKT
+#=GR Peaxi162Scf00092g01520.1.mrna1/23-69   PP ....................................................................................................................................6.8.9.9*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00366g00045.1.mrna1/18-56           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.------EQ....A....L.....AV....Y....DK.DTPD........RWQNIAKYVGGKS
+#=GR Peaxi162Scf00366g00045.1.mrna1/18-56   PP ................................................................................................................................................34....4....5.....55....6....67.7889........*************
+Peaxi162Scf00102g01055.1.mrna1/242-282         ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.KWTEEEFE....M....I.....RK....F....HG.EHGP........KWRVLGDELGK-Y
+#=GR Peaxi162Scf00102g01055.1.mrna1/242-282 PP ..........................................................................................................................................89******....*....*.....**....*....**.****........********965.5
+Peaxi162Scf00102g01055.1.mrna1/287-351         -----------NRNKGSWTQEEt....hpDFLCEEKI..SKHGMLrd.............niFWSAISD.RLS..................................-.TRIKQ...HCCNKWYKQLTsPMVP.T.G.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00102g01055.1.mrna1/287-351 PP ...........5789*****995....555677899*..****8756.............567******.**9....................................9****...********99624555.5.5...............................................................
+Peaxi162Scf00171g00419.1.mrna1/54-110          ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---Q.R.E.KWTEEEHQ....R....F.....VE....A....LK.LYGR........SWRQIEEHVGTKT
+#=GR Peaxi162Scf00171g00419.1.mrna1/54-110  PP ....................................................................................................................................6.8.9.9*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00358g00058.1.mrna1/40-92           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.--KQ.R.E.KWTEEEHK....R....F.....VE....A....LK.LYGR........AWGQIEEHVGTKT
+#=GR Peaxi162Scf00358g00058.1.mrna1/40-92   PP ...................................................................................................................................36.8.9.9*******....*....*.....**....*....**.****........*************
+Peaxi162Scf00038g01824.1.mrna1/437-491         ------------KHHRPWTINE.......VVKLVEGV..ARYGAG.................RWSEIKR.HAFa...............................scP.YRTSV...DLKDKWRNLLK.A---.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00038g01824.1.mrna1/437-491 PP ............46789*****.......********..******.................*******.9973...............................334.57777...77777777776.5......................................................................
+Peaxi162Scf00003g02843.1.mrna1/5-36            --------------KQKWTSEE.......EAALKAGI..IKYGPG.................KWLTILK.DPE..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00003g02843.1.mrna1/5-36    PP ..............899*****.......********..******.................****998.766...............................................................................................................................
+Peaxi162Scf00632g00012.1.mrna1/957-995         ----------------VWKEEH.......DLLLLQAV..LKHGYG.................RWQAIVD.DKE..................................L.RIQEI...ICK--------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00632g00012.1.mrna1/957-995 PP ................6*****.......********..******.................******9.999..................................8.87776...666................................................................................
+Peaxi162Scf00124g00012.1.mrna1/10-55           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.-WTREEDK....I....F.....EN...aI....AE.RLGEd......qEWGQIASRIPNKT
+#=GR Peaxi162Scf00124g00012.1.mrna1/10-55   PP ...........................................................................................................................................6777777....7....6.....55...25....67.89988......89************
+Peaxi162Scf00931g00117.1.mrna1/24-54           ----------------------.......--------..------.................-------.---..................................-.-----...-----------.----.-.-.--------....-....-.....--....-....-R.DTPD........RWRNLAKAVGGKT
+#=GR Peaxi162Scf00931g00117.1.mrna1/24-54   PP .............................................................................................................................................................................5.6788........*************
+Peaxi162Scf01096g00316.1.mrna1/55-112          ----------------------.......--------..------.................-------.---..................................-.-----...-----------.---Q.R.E.RWTEEEHK....K....F.....LE....A....LK.LYGR........AWRRIEEHVGTKT
+#=GR Peaxi162Scf01096g00316.1.mrna1/55-112  PP ....................................................................................................................................6.8.8.99999999....9....9.....99....9....99.9999........9999999999999
+Peaxi162Scf00430g00415.1.mrna1/858-896         ----------------VWKEEH.......DLLLLRAV..LKHGYG.................RWQAIID.DKE..................................L.RIQEV...VCK--------.----.-.-.--------....-....-.....--....-....--.----........-------------
+#=GR Peaxi162Scf00430g00415.1.mrna1/858-896 PP ................6*****.......********..******.................*******.**9..................................9.98888...887................................................................................
+#=GC PP_cons                                   567888888776999*******.......********..******.................*******.999..................................9.*****...***********.****.*.*.********....9....9.....99....*....**.****........*************
+#=GC RF                                        xxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxx..xxxxxx.................xxxxxxx.xxx..................................x.xxxxx...xxxxxxxxxxx.xxxx.x.x.xxxxxxxx....x....x.....xx....x....xx.xxxx........xxxxxxxxxxxxx
+
+Peaxi162Scf00045g00138.1.mrna1/2-129           DNEIKNHWNTKLRKKLNKLGIEPQTHKQI---
+#=GR Peaxi162Scf00045g00138.1.mrna1/2-129   PP *************************9986...
+Peaxi162Scf00045g00138.1.mrna1/204-327         DNEIKNFYNTHLRKKLLRLGIDPKTHKPIS--
+#=GR Peaxi162Scf00045g00138.1.mrna1/204-327 PP **************************9876..
+Peaxi162Scf00007g02128.1.mrna1/3-127           DNDIKNQWHSHLKKRAKTNSYSSTLME-----
+#=GR Peaxi162Scf00007g02128.1.mrna1/3-127   PP **************9987776665554.....
+Peaxi162Scf00007g02128.1.mrna1/209-327         DNDIKNHWHAHLKKRSKSNTNS----------
+#=GR Peaxi162Scf00007g02128.1.mrna1/209-327 PP *************998765544..........
+Peaxi162Scf00073g01731.1.mrna1/3-118           DNEVKNFFHTHLKKHMSLKNDHALMK------
+#=GR Peaxi162Scf00073g01731.1.mrna1/3-118   PP *************9987665554444......
+Peaxi162Scf00073g01731.1.mrna1/280-356         DNEVKNFFHTHLKMHLGVK-------------
+#=GR Peaxi162Scf00073g01731.1.mrna1/280-356 PP *************776543.............
+Peaxi162Scf01101g00048.1.mrna1/2-129           DNEIKNFWNTHLKKKLIQMGYDPMTHRPR---
+#=GR Peaxi162Scf01101g00048.1.mrna1/2-129   PP ***********************999875...
+Peaxi162Scf00041g01811.1.mrna1/2-128           DNEIKNFWNTHLKKKLIQMGYDPMTHRP----
+#=GR Peaxi162Scf00041g01811.1.mrna1/2-128   PP ***********************99986....
+Peaxi162Scf00391g00621.1.mrna1/2-130           DNEIKNYWNTHIKRKLISRGLDPQTHRPLN--
+#=GR Peaxi162Scf00391g00621.1.mrna1/2-130   PP *************************99875..
+Peaxi162Scf00166g01118.1.mrna1/1-130           DNEIKNYWNTHLKKRLVKMGIDPVTHKPKN--
+#=GR Peaxi162Scf00166g01118.1.mrna1/1-130   PP *************************99765..
+Peaxi162Scf00371g00087.1.mrna1/2-128           DNEIKNYWNTNIRKKLLRMGIDPVTHSP----
+#=GR Peaxi162Scf00371g00087.1.mrna1/2-128   PP ***********************99875....
+Peaxi162Scf00779g00512.1.mrna1/2-128           DNEIKNYWNTHIRKRLLRMGIDPVTHSP----
+#=GR Peaxi162Scf00779g00512.1.mrna1/2-128   PP **********************999875....
+Peaxi162Scf00137g01812.1.mrna1/2-127           DNEIKNYWNTHIRKKLLRMGIDPVTHT-----
+#=GR Peaxi162Scf00137g01812.1.mrna1/2-127   PP **********************99987.....
+Peaxi162Scf00362g00831.1.mrna1/2-130           DNEIKNYWNTHIRRKLMSRGIDPTTHRAIN--
+#=GR Peaxi162Scf00362g00831.1.mrna1/2-130   PP *************************99876..
+Peaxi162Scf00042g02519.1.mrna1/2-131           DNEIKNYWNTHIRRKLLSRGIDPTTHRPINE-
+#=GR Peaxi162Scf00042g02519.1.mrna1/2-131   PP **************************98875.
+Peaxi162Scf01221g00042.1.mrna1/2-130           DNEIKNYWNTHIRRKLLSRGIDPSTHRIMN--
+#=GR Peaxi162Scf01221g00042.1.mrna1/2-130   PP ************************998765..
+Peaxi162Scf00007g02414.1.mrna1/2-128           DNEIKNYWNTHIRKRLLRNGIDPVTHSP----
+#=GR Peaxi162Scf00007g02414.1.mrna1/2-128   PP **********************999875....
+Peaxi162Scf00516g00673.1.mrna1/3-130           DNEIKNYWNTHLRKKLLQMGIDPVTHRPR---
+#=GR Peaxi162Scf00516g00673.1.mrna1/3-130   PP ***********************999876...
+Peaxi162Scf00191g01323.1.mrna1/2-129           DNEIKNLWNTHLKKRLLSMGIDPQTHQPS---
+#=GR Peaxi162Scf00191g01323.1.mrna1/2-129   PP *************************9976...
+Peaxi162Scf03779g00019.1.mrna1/2-127           DNEVKNYWNSHLRRKLIKMGIDPKNHR-----
+#=GR Peaxi162Scf03779g00019.1.mrna1/2-127   PP ***********************9986.....
+Peaxi162Scf00485g00916.1.mrna1/3-129           DNEIKNYWNTHIRKRLLRMGLDPVTHSP----
+#=GR Peaxi162Scf00485g00916.1.mrna1/3-129   PP *********************9999875....
+Peaxi162Scf00194g00218.1.mrna1/2-130           DNEIKNLWNSSIKKKLRQKGIDPNTHKPLS--
+#=GR Peaxi162Scf00194g00218.1.mrna1/2-130   PP **************************9876..
+Peaxi162Scf00170g01335.1.mrna1/2-131           DNEIKNLWNTHLKKKLLKAGIDPVTHQPIN--
+#=GR Peaxi162Scf00170g01335.1.mrna1/2-131   PP *************************99875..
+Peaxi162Scf00606g00073.1.mrna1/2-130           DNEIKNLWNSSIKKKLRQRGIDPNIHKPLS--
+#=GR Peaxi162Scf00606g00073.1.mrna1/2-130   PP ***********************9999876..
+Peaxi162Scf03974g00003.1.mrna1/2-130           DNDVKNHWNTKLKKKLSGMGIDPVTHKPFS--
+#=GR Peaxi162Scf03974g00003.1.mrna1/2-130   PP **************************9876..
+Peaxi162Scf00056g00026.1.mrna1/2-129           DNEIKNLWNTHLKKRLLSMGIDPQTHEPA---
+#=GR Peaxi162Scf00056g00026.1.mrna1/2-129   PP *************************9876...
+Peaxi162Scf00002g00037.1.mrna1/1-130           DNEIKNHWNTHIKKKLLKMGIDPVTHEPLK--
+#=GR Peaxi162Scf00002g00037.1.mrna1/1-130   PP *************************99876..
+Peaxi162Scf00543g00414.1.mrna1/17-144          DNEIKNVWHTHLKKRLKNYQPPQNSKRHS---
+#=GR Peaxi162Scf00543g00414.1.mrna1/17-144  PP ****************9887776666554...
+Peaxi162Scf00015g03118.1.mrna1/3-127           DNEIKNFWHTHLKKKLEHNDLRATTTA-----
+#=GR Peaxi162Scf00015g03118.1.mrna1/3-127   PP ****************98777666554.....
+Peaxi162Scf00170g01336.1.mrna1/2-131           DNEIKNFYNTHLRKKLLRLGIDPRTHKPIS--
+#=GR Peaxi162Scf00170g01336.1.mrna1/2-131   PP *************************99875..
+Peaxi162Scf00349g00057.1.mrna1/15-141          DNEIKNYWNTHLSKKLISHGIDPRTHKPLK--
+#=GR Peaxi162Scf00349g00057.1.mrna1/15-141  PP **************************9876..
+Peaxi162Scf00008g02024.1.mrna1/2-126           DNEIKNLWNTHLKKRLFSMGIDPHIY------
+#=GR Peaxi162Scf00008g02024.1.mrna1/2-126   PP ********************998765......
+Peaxi162Scf00452g00412.1.mrna1/5-124           DNEIKNVWNTHLKKRLMKKIDG----------
+#=GR Peaxi162Scf00452g00412.1.mrna1/5-124   PP ***************9865443..........
+Peaxi162Scf00102g01858.1.mrna1/2-130           DNEIKNYWNTHLIKKLKSAGIEPKVNKSFS--
+#=GR Peaxi162Scf00102g01858.1.mrna1/2-130   PP **********************99998876..
+Peaxi162Scf00523g00004.1.mrna1/39-127          --------------------------------
+#=GR Peaxi162Scf00523g00004.1.mrna1/39-127  PP ................................
+Peaxi162Scf00523g00004.1.mrna1/92-196          DNSIKNHWNSSVKKKLD---------------
+#=GR Peaxi162Scf00523g00004.1.mrna1/92-196  PP **************986...............
+Peaxi162Scf00038g01640.1.mrna1/3-124           DNEVKNFWNSSIKKKLLSHGTLSD--------
+#=GR Peaxi162Scf00038g01640.1.mrna1/3-124   PP ****************98877655........
+Peaxi162Scf00700g00732.1.mrna1/2-130           DNDVKNYWNTKLKKKLVNMGIDPVTHKPFS--
+#=GR Peaxi162Scf00700g00732.1.mrna1/2-130   PP **************************9987..
+Peaxi162Scf00714g00029.1.mrna1/64-151          --------------------------------
+#=GR Peaxi162Scf00714g00029.1.mrna1/64-151  PP ................................
+Peaxi162Scf00714g00029.1.mrna1/118-222         DNAIKNHWNSSAKKRLSLN-------------
+#=GR Peaxi162Scf00714g00029.1.mrna1/118-222 PP *************998744.............
+Peaxi162Scf00134g00189.1.mrna1/1-130           DNEIKNHWNTHIKKKLKKMGIDPVTHKPIT--
+#=GR Peaxi162Scf00134g00189.1.mrna1/1-130   PP *************************99876..
+Peaxi162Scf00451g00059.1.mrna1/1-148           DNEIKNYWNTHLKKRLTKMGIDPVTHKPMN--
+#=GR Peaxi162Scf00451g00059.1.mrna1/1-148   PP **************************9886..
+Peaxi162Scf00203g01315.1.mrna1/18-143          DNEVKNFWNSCIKKKLIAQGLDPNTHNLL---
+#=GR Peaxi162Scf00203g01315.1.mrna1/18-143  PP ***********************999865...
+Peaxi162Scf00177g00512.1.mrna1/2-127           DNEIKNYWNTNIGKKLQHQRAAANSGH-----
+#=GR Peaxi162Scf00177g00512.1.mrna1/2-127   PP ***************998877766554.....
+Peaxi162Scf00036g00710.1.mrna1/3-128           DNEVKNFWNSCIKKKPISQGLDPNTHNLL---
+#=GR Peaxi162Scf00036g00710.1.mrna1/3-128   PP ***********************999865...
+Peaxi162Scf00013g00223.1.mrna1/2-126           DNDIKNYWNTHLKKKLNKKMEG-HDHE-----
+#=GR Peaxi162Scf00013g00223.1.mrna1/2-126   PP ***************9865544.4444.....
+Peaxi162Scf00274g00625.1.mrna1/2-127           DNDIKNYWNTHLRKKLKKLQGNDDENS-----
+#=GR Peaxi162Scf00274g00625.1.mrna1/2-127   PP ***************998665554444.....
+Peaxi162Scf01256g00017.1.mrna1/2-127           DNDIKNYWNTHLQKKLKKLQGHDDQNN-----
+#=GR Peaxi162Scf01256g00017.1.mrna1/2-127   PP ***************997665544443.....
+Peaxi162Scf00777g00521.1.mrna1/2-121           DNDIKNYWNTHLKKKLKKLQE-----------
+#=GR Peaxi162Scf00777g00521.1.mrna1/2-121   PP ***************987654...........
+Peaxi162Scf00074g01820.1.mrna1/3-126           DNEIKNYWNSWIKKKLKKPSKPSTNT------
+#=GR Peaxi162Scf00074g01820.1.mrna1/3-126   PP ***************98665544444......
+Peaxi162Scf00080g00064.1.mrna1/3-127           DNEIKNYWRTRIQKHIKQAETMNGQA------
+#=GR Peaxi162Scf00080g00064.1.mrna1/3-127   PP *************9998776665554......
+Peaxi162Scf00129g00228.1.mrna1/2-120           DNDIKNYWNTHLKKKLKKLE------------
+#=GR Peaxi162Scf00129g00228.1.mrna1/2-120   PP ***************98654............
+Peaxi162Scf00001g00231.1.mrna1/2-120           DNEIKNYWNSHLSRKVESLR------------
+#=GR Peaxi162Scf00001g00231.1.mrna1/2-120   PP **************987654............
+Peaxi162Scf00013g01023.1.mrna1/2-125           DNEIKNIWHTRLKKKMNQSQIQEKT-------
+#=GR Peaxi162Scf00013g01023.1.mrna1/2-125   PP ****************999888766.......
+Peaxi162Scf00420g00240.1.mrna1/1-129           DNEIKNHWNTRIKKRLKLMGIDPLTHKPL---
+#=GR Peaxi162Scf00420g00240.1.mrna1/1-129   PP ***********************999876...
+Peaxi162Scf00102g01226.1.mrna1/1-132           DNEIKNHWNTHIKKKLLKMGIDPVTHEPLN--
+#=GR Peaxi162Scf00102g01226.1.mrna1/1-132   PP *************************99876..
+Peaxi162Scf00129g01231.1.mrna1/3-131           DNEIKNYWRTRIQKHIKQADQNMNKSSKCE--
+#=GR Peaxi162Scf00129g01231.1.mrna1/3-131   PP ***************999988888887765..
+Peaxi162Scf00305g00045.1.mrna1/1-139           DNEIKNHWNTHIKKKLKKMGIDPVTHKPLS--
+#=GR Peaxi162Scf00305g00045.1.mrna1/1-139   PP *************************99875..
+Peaxi162Scf00886g00028.1.mrna1/3-125           DNEIKNYWNSHLRRRIYTFGMKKKP-------
+#=GR Peaxi162Scf00886g00028.1.mrna1/3-125   PP ****************999888765.......
+Peaxi162Scf00147g00136.1.mrna1/2-120           DNEIKNYWNSHLSRKVESLR------------
+#=GR Peaxi162Scf00147g00136.1.mrna1/2-120   PP **************987554............
+Peaxi162Scf00118g00310.1.mrna1/5-124           ANDVKNYWNTHLRKKLIAPHDQKQE-------
+#=GR Peaxi162Scf00118g00310.1.mrna1/5-124   PP ***************9966555544.......
+Peaxi162Scf00004g02328.1.mrna1/21-135          DNEIKNFWNSTLKKRLKNSS------------
+#=GR Peaxi162Scf00004g02328.1.mrna1/21-135  PP **************998655............
+Peaxi162Scf00876g00221.1.mrna1/1-128           DNEIKNYWNTYLLKKLKAAGIEPKAKTK----
+#=GR Peaxi162Scf00876g00221.1.mrna1/1-128   PP *****************99999987765....
+Peaxi162Scf00428g00117.1.mrna1/12-139          DNEIKNFWNSTIKKRLKNNNNNNNNNNSS---
+#=GR Peaxi162Scf00428g00117.1.mrna1/12-139  PP ****************9888777766554...
+Peaxi162Scf00228g00914.1.mrna1/23-148          DNEIKNYWRTRVQKHAKQLKCDVNSKQ-----
+#=GR Peaxi162Scf00228g00914.1.mrna1/23-148  PP **************9998887776654.....
+Peaxi162Scf00753g00338.1.mrna1/11-133          DNEIKNYWRTRVQKQARQLKVDSNSKK-----
+#=GR Peaxi162Scf00753g00338.1.mrna1/11-133  PP ***************999888877665.....
+Peaxi162Scf00096g01718.1.mrna1/2-130           DNDIKNYWNTRLKKKLLGKQRKDHRHHKL---
+#=GR Peaxi162Scf00096g01718.1.mrna1/2-130   PP *****************999998888876...
+Peaxi162Scf00311g01112.1.mrna1/2-125           DNDIKNYWNTKLKKKLMALDLSSQ--------
+#=GR Peaxi162Scf00311g01112.1.mrna1/2-125   PP ***************987665554........
+Peaxi162Scf00015g01036.1.mrna1/12-130          DNEIKNYWRTRVQKQARHLKIDSS--------
+#=GR Peaxi162Scf00015g01036.1.mrna1/12-130  PP ***************998877765........
+Peaxi162Scf00847g00211.1.mrna1/2-125           DNDIKNYWNTKLKKKLMGLVSTSQ--------
+#=GR Peaxi162Scf00847g00211.1.mrna1/2-125   PP ***************987665555........
+Peaxi162Scf00020g02349.1.mrna1/11-130          DNEIKNYWRTHFKKKEKASSKQDKRK------
+#=GR Peaxi162Scf00020g02349.1.mrna1/11-130  PP *************9987655554443......
+Peaxi162Scf00658g00110.1.mrna1/6-118           ANDVKNYWNTHLQRKLIA--------------
+#=GR Peaxi162Scf00658g00110.1.mrna1/6-118   PP ***************975..............
+Peaxi162Scf00682g00009.1.mrna1/2-119           DNDIKNYWNTKLKKKLMG--------------
+#=GR Peaxi162Scf00682g00009.1.mrna1/2-119   PP **************9974..............
+Peaxi162Scf01464g00024.1.mrna1/8-128           DNEIKNHWHSYLKKRVAKNAENESQTQ-----
+#=GR Peaxi162Scf01464g00024.1.mrna1/8-128   PP ***************998777666554.....
+Peaxi162Scf00797g00013.1.mrna1/2-126           DNEIKNHWNTRIKKKLYTEQTRDIKE------
+#=GR Peaxi162Scf00797g00013.1.mrna1/2-126   PP ****************9887765554......
+Peaxi162Scf00125g01321.1.mrna1/19-135          DNEIKNYWRTHFKKKAKNSSANSEKS------
+#=GR Peaxi162Scf00125g01321.1.mrna1/19-135  PP ***************98777666554......
+Peaxi162Scf00575g00016.1.mrna1/2-156           DNDIKNYWNTHLKKKLKKFQAT----------
+#=GR Peaxi162Scf00575g00016.1.mrna1/2-156   PP ****************988765..........
+Peaxi162Scf00164g00216.1.mrna1/13-128          DNEIKNYWRTHFKKKVKKSIDNSEK-------
+#=GR Peaxi162Scf00164g00216.1.mrna1/13-128  PP *************999765544443.......
+Peaxi162Scf00165g00128.1.mrna1/58-151          --------------------------------
+#=GR Peaxi162Scf00165g00128.1.mrna1/58-151  PP ................................
+Peaxi162Scf00165g00128.1.mrna1/116-219         DNAIKNHWNSSLRKKL----------------
+#=GR Peaxi162Scf00165g00128.1.mrna1/116-219 PP *************997................
+Peaxi162Scf00007g00823.1.mrna1/24-137          DNEIKNYWNTRLKRRQRAGLP-----------
+#=GR Peaxi162Scf00007g00823.1.mrna1/24-137  PP ***************987655...........
+Peaxi162Scf01007g00117.1.mrna1/11-128          DNEIKNYWRTHFKKKTKNSRDKSEK-------
+#=GR Peaxi162Scf01007g00117.1.mrna1/11-128  PP *************999866555544.......
+Peaxi162Scf01194g00013.1.mrna1/27-147          DNEIKNYWRTRVQKHAKQLKCDVNSK------
+#=GR Peaxi162Scf01194g00013.1.mrna1/27-147  PP **************998887776655......
+Peaxi162Scf00526g00820.1.mrna1/38-143          DNEIKNYWNTRIKRRQR---------------
+#=GR Peaxi162Scf00526g00820.1.mrna1/38-143  PP **************987...............
+Peaxi162Scf00578g00007.1.mrna1/7-117           ANDVKNYWNTNLLTRAK---------------
+#=GR Peaxi162Scf00578g00007.1.mrna1/7-117   PP ***********987765...............
+Peaxi162Scf00978g00214.1.mrna1/35-141          DNEIKNYWNTRIKRQQRA--------------
+#=GR Peaxi162Scf00978g00214.1.mrna1/35-141  PP **************9875..............
+Peaxi162Scf01210g00002.1.mrna1/7-128           ANDVKNYWNTHLLRRSNFASPPQQHERK----
+#=GR Peaxi162Scf01210g00002.1.mrna1/7-128   PP ************9998755555555554....
+Peaxi162Scf00342g00113.1.mrna1/35-140          DNEIKNYWNTRIKRLQR---------------
+#=GR Peaxi162Scf00342g00113.1.mrna1/35-140  PP *************9876...............
+Peaxi162Scf00268g00046.1.mrna1/2-120           DNEIKNYWNTHIKRKLISHGIDPQTHRPLN--
+#=GR Peaxi162Scf00268g00046.1.mrna1/2-120   PP *************************99765..
+Peaxi162Scf01969g00021.1.mrna1/7-129           DNEIKNHWHSYLKKRVAKIAENEAKSQN----
+#=GR Peaxi162Scf01969g00021.1.mrna1/7-129   PP ***************9987777666555....
+Peaxi162Scf00578g00008.1.mrna1/7-120           ANDVKNYWNTNLLTRSK-FGP-----------
+#=GR Peaxi162Scf00578g00008.1.mrna1/7-120   PP ***********986653.444...........
+Peaxi162Scf00007g02122.1.mrna1/4-127           DNDIKNHWHTSLKKRANYESSKKYNKN-----
+#=GR Peaxi162Scf00007g02122.1.mrna1/4-127   PP *************99986666554444.....
+Peaxi162Scf00088g01621.1.mrna1/4-127           DNEVKNFWNTHLNKRSCKGKKKHNKAEEA---
+#=GR Peaxi162Scf00088g01621.1.mrna1/4-127   PP *************9998777776665554...
+Peaxi162Scf00018g00228.1.mrna1/3-127           DNEVKNHWHTSLKKRSTQEESTSSTGS-----
+#=GR Peaxi162Scf00018g00228.1.mrna1/3-127   PP ***************998888777665.....
+Peaxi162Scf00006g00098.1.mrna1/3-128           DSEIKNHWHTSLKKRSTQEESTSSTNSK----
+#=GR Peaxi162Scf00006g00098.1.mrna1/3-128   PP ***************9988887777665....
+Peaxi162Scf00007g02125.1.mrna1/4-128           DNDIKNHWHAHLKKRTKTNANSSTMEQM----
+#=GR Peaxi162Scf00007g02125.1.mrna1/4-128   PP *************999876666655544....
+Peaxi162Scf00411g00008.1.mrna1/3-116           DNEIKNYWRTHMRKKAQEQRKK----------
+#=GR Peaxi162Scf00411g00008.1.mrna1/3-116   PP **************99866655..........
+Peaxi162Scf00007g00207.1.mrna1/3-144           DNEIKNHWHTSLKKRANYGPNSSESSKKC---
+#=GR Peaxi162Scf00007g00207.1.mrna1/3-144   PP **************998666666666555...
+Peaxi162Scf00986g00227.1.mrna1/3-116           DNEIKNYWRTHMRKQAQDQRK-----------
+#=GR Peaxi162Scf00986g00227.1.mrna1/3-116   PP *************99876544...........
+Peaxi162Scf00164g00073.1.mrna1/30-147          DNEIKNYWRTRVQKHAKQLKCDVNSKQ-----
+#=GR Peaxi162Scf00164g00073.1.mrna1/30-147  PP **************9998887776654.....
+Peaxi162Scf00579g00055.1.mrna1/3-122           DNEIKNVWHTHLKKRLKNYKPPHNTKRHI---
+#=GR Peaxi162Scf00579g00055.1.mrna1/3-122   PP ****************9988887777765...
+Peaxi162Scf00515g00013.1.mrna1/7-118           DNEIKNHWRSHLRKKSLI--------------
+#=GR Peaxi162Scf00515g00013.1.mrna1/7-118   PP *************99764..............
+Peaxi162Scf00304g01018.1.mrna1/8-126           DNEIKNFFHTHLKKQFGTKVNDHVQ-------
+#=GR Peaxi162Scf00304g01018.1.mrna1/8-126   PP *************998766655544.......
+Peaxi162Scf00304g00919.1.mrna1/9-124           DNEIKNFFHTHLKKQFGTKVNDHVQ-------
+#=GR Peaxi162Scf00304g00919.1.mrna1/9-124   PP *************998766655544.......
+Peaxi162Scf00269g00088.1.mrna1/2-117           DNEIKNYWNTHIRKRLLRMGIDPVTHSP----
+#=GR Peaxi162Scf00269g00088.1.mrna1/2-117   PP ***********************99875....
+Peaxi162Scf00911g00012.1.mrna1/2-119           DNEIKNYWNTHLRKRLTKMGIDPITHKPKT--
+#=GR Peaxi162Scf00911g00012.1.mrna1/2-119   PP ***********************9998765..
+Peaxi162Scf00058g00238.1.mrna1/24-148          DNEVKNYWRTKVQKHANQLHCNVN--------
+#=GR Peaxi162Scf00058g00238.1.mrna1/24-148  PP *************99887666554........
+Peaxi162Scf00276g00412.1.mrna1/25-80           --------------------------------
+#=GR Peaxi162Scf00276g00412.1.mrna1/25-80   PP ................................
+Peaxi162Scf00276g00412.1.mrna1/44-150          DNAIKNHWNSSVKKKLDS--------------
+#=GR Peaxi162Scf00276g00412.1.mrna1/44-150  PP **************9865..............
+Peaxi162Scf00763g00441.1.mrna1/5-120           DNEIKNFWNSYLKKKLIKQGIDPNTHQPLSE-
+#=GR Peaxi162Scf00763g00441.1.mrna1/5-120   PP **************************98875.
+Peaxi162Scf00033g00251.1.mrna1/6-119           DNAIKNHWNSTLKRKCCSVSED----------
+#=GR Peaxi162Scf00033g00251.1.mrna1/6-119   PP ***************9876655..........
+Peaxi162Scf01302g00033.1.mrna1/45-159          DNAIKNHWNSTLRRRHNGKL------------
+#=GR Peaxi162Scf01302g00033.1.mrna1/45-159  PP **************987654............
+Peaxi162Scf00945g00023.1.mrna1/10-123          DNAIKNHWNSTLKRKCSSLSADE---------
+#=GR Peaxi162Scf00945g00023.1.mrna1/10-123  PP ***************98766655.........
+Peaxi162Scf00566g00051.1.mrna1/24-139          DNAVKNHWNSTLKRRYQQQKNHN---------
+#=GR Peaxi162Scf00566g00051.1.mrna1/24-139  PP **************998766554.........
+Peaxi162Scf01010g00010.1.mrna1/38-144          DNAIKNHWNSTLRRRFAGLK------------
+#=GR Peaxi162Scf01010g00010.1.mrna1/38-144  PP **************987544............
+Peaxi162Scf00377g00925.1.mrna1/3-112           DNDVKNFWSSRQKRLAKI--------------
+#=GR Peaxi162Scf00377g00925.1.mrna1/3-112   PP ***********9986543..............
+Peaxi162Scf00038g01818.1.mrna1/10-116          DNDVKNFWSSRQKRLAK---------------
+#=GR Peaxi162Scf00038g01818.1.mrna1/10-116  PP **********9998654...............
+Peaxi162Scf00284g00077.1.mrna1/8-112           DNAIKNHWNSTLRRKRH---------------
+#=GR Peaxi162Scf00284g00077.1.mrna1/8-112   PP *************9975...............
+Peaxi162Scf00929g00071.1.mrna1/31-143          DNAVKNHWNSTLKRRQQIRNN-----------
+#=GR Peaxi162Scf00929g00071.1.mrna1/31-143  PP *************99875544...........
+Peaxi162Scf00078g00024.1.mrna1/2-115           DNAVKNHWHVIMARKCRERSKIYAKR------
+#=GR Peaxi162Scf00078g00024.1.mrna1/2-115   PP ****************9888776654......
+Peaxi162Scf01068g00314.1.mrna1/82-199          DNAVKNHWHVIMARKHREQNSVYRRRK-----
+#=GR Peaxi162Scf01068g00314.1.mrna1/82-199  PP ****************98887776665.....
+Peaxi162Scf00066g01813.1.mrna1/12-125          DNAVKNHWHVLMARKQREQSKIC---------
+#=GR Peaxi162Scf00066g01813.1.mrna1/12-125  PP ***************99887655.........
+Peaxi162Scf00171g00047.1.mrna1/2-114           DNAVKNHWHVIMSRRCRERSKIYSM-------
+#=GR Peaxi162Scf00171g00047.1.mrna1/2-114   PP ****************988776655.......
+Peaxi162Scf00009g00022.1.mrna1/180-296         ENSIKNHWNATKRRQFSRRKCRT---------
+#=GR Peaxi162Scf00009g00022.1.mrna1/180-296 PP *************9998777665.........
+Peaxi162Scf01819g00004.1.mrna1/133-252         ENSIKNHWNATKRRQHSRRNKFKKQEK-----
+#=GR Peaxi162Scf01819g00004.1.mrna1/133-252 PP ************999887666555554.....
+Peaxi162Scf00540g00619.1.mrna1/110-226         ENSIKNHWNATKRRQNSRRNKNRK--------
+#=GR Peaxi162Scf00540g00619.1.mrna1/110-226 PP ***********9998876555443........
+Peaxi162Scf00160g00722.1.mrna1/2-118           DNDIKNYWNTKLKKKLFGKQRKNLKGNN----
+#=GR Peaxi162Scf00160g00722.1.mrna1/2-118   PP ****************998888766655....
+Peaxi162Scf00047g01824.1.mrna1/23-122          HNEIKNYWNTRLKRRQRAG-------------
+#=GR Peaxi162Scf00047g01824.1.mrna1/23-122  PP 6*************99865.............
+Peaxi162Scf00330g00418.1.mrna1/83-114          --------------------------------
+#=GR Peaxi162Scf00330g00418.1.mrna1/83-114  PP ................................
+Peaxi162Scf00330g00418.1.mrna1/123-219         DNSIKNHWNSSLKKKL----------------
+#=GR Peaxi162Scf00330g00418.1.mrna1/123-219 PP **************97................
+Peaxi162Scf00090g00168.1.mrna1/2-98            --------------------------------
+#=GR Peaxi162Scf00090g00168.1.mrna1/2-98    PP ................................
+Peaxi162Scf00132g01412.1.mrna1/6-113           DNEIKNHWHSYLKKRVIKKAENE---------
+#=GR Peaxi162Scf00132g01412.1.mrna1/6-113   PP ***************99887765.........
+Peaxi162Scf00222g00715.1.mrna1/2-25            --------------------------------
+#=GR Peaxi162Scf00222g00715.1.mrna1/2-25    PP ................................
+Peaxi162Scf00222g00715.1.mrna1/27-102          DNEIKNYWNSRLKKRLTKMGIDPMTHKPKT--
+#=GR Peaxi162Scf00222g00715.1.mrna1/27-102  PP *************************99875..
+Peaxi162Scf00071g00135.1.mrna1/2-45            --------------------------------
+#=GR Peaxi162Scf00071g00135.1.mrna1/2-45    PP ................................
+Peaxi162Scf00071g00135.1.mrna1/45-107          DNEIKNLWNSSIKKKLRQSGIDPNTHKPLS--
+#=GR Peaxi162Scf00071g00135.1.mrna1/45-107  PP **************************9876..
+Peaxi162Scf00222g00821.1.mrna1/2-45            --------------------------------
+#=GR Peaxi162Scf00222g00821.1.mrna1/2-45    PP ................................
+Peaxi162Scf00222g00821.1.mrna1/43-107          DNEIKNYWNSRLKKRLTKMGIDPMTHKPKT--
+#=GR Peaxi162Scf00222g00821.1.mrna1/43-107  PP *************************99875..
+Peaxi162Scf00001g00599.1.mrna1/20-122          DNDAPKF-------------------------
+#=GR Peaxi162Scf00001g00599.1.mrna1/20-122  PP **97665.........................
+Peaxi162Scf00354g00068.1.mrna1/4-89            DNDVKNYWNTKLKKKLLEAAATN---------
+#=GR Peaxi162Scf00354g00068.1.mrna1/4-89    PP ***************99776554.........
+Peaxi162Scf00165g00111.1.mrna1/3-117           AKRLGKWWEVFKEKQQREHKENNKV-------
+#=GR Peaxi162Scf00165g00111.1.mrna1/3-117   PP **************99988777665.......
+Peaxi162Scf00503g00613.1.mrna1/20-135          DNAVKNRFTTLCKKRAKHEALAKENS------
+#=GR Peaxi162Scf00503g00613.1.mrna1/20-135  PP **************998877666555......
+Peaxi162Scf00222g00521.1.mrna1/28-134          DNAVKNHWHVIMARKYREQSSAYRR-------
+#=GR Peaxi162Scf00222g00521.1.mrna1/28-134  PP ***************9988776655.......
+Peaxi162Scf01314g00012.1.mrna1/2-84            --------------------------------
+#=GR Peaxi162Scf01314g00012.1.mrna1/2-84    PP ................................
+Peaxi162Scf00683g00242.1.mrna1/348-403         --------------------------------
+#=GR Peaxi162Scf00683g00242.1.mrna1/348-403 PP ................................
+Peaxi162Scf00683g00242.1.mrna1/400-490         --------------------------------
+#=GR Peaxi162Scf00683g00242.1.mrna1/400-490 PP ................................
+Peaxi162Scf00683g00242.1.mrna1/493-565         DNQCRRRWMV----------------------
+#=GR Peaxi162Scf00683g00242.1.mrna1/493-565 PP ******9976......................
+Peaxi162Scf00944g00140.1.mrna1/2-47            --------------------------------
+#=GR Peaxi162Scf00944g00140.1.mrna1/2-47    PP ................................
+Peaxi162Scf00944g00140.1.mrna1/44-107          DNDVKNHWNTKLKKKLLAAAEITNI-------
+#=GR Peaxi162Scf00944g00140.1.mrna1/44-107  PP ***************9987766655.......
+Peaxi162Scf00009g00621.1.mrna1/3-79            DNDVKNLWNTKLKKKLSAMGIDPVTHKPFS--
+#=GR Peaxi162Scf00009g00621.1.mrna1/3-79    PP **************************9987..
+Peaxi162Scf00273g00087.1.mrna1/1-69            DNEIKNLWNTHLKKRLFSMGIDPHTHEPS---
+#=GR Peaxi162Scf00273g00087.1.mrna1/1-69    PP ************************99875...
+Peaxi162Scf00074g00355.1.mrna1/2-45            --------------------------------
+#=GR Peaxi162Scf00074g00355.1.mrna1/2-45    PP ................................
+Peaxi162Scf00074g00355.1.mrna1/42-89           DNEIKNYWNTHLLKKLKSVGIVPKPHKIFS--
+#=GR Peaxi162Scf00074g00355.1.mrna1/42-89   PP ******************999999888765..
+Peaxi162Scf00114g00127.1.mrna1/2-109           DNDIKNYWNTKLKKKLMGLMHSSNQR------
+#=GR Peaxi162Scf00114g00127.1.mrna1/2-109   PP ***************99776666554......
+Peaxi162Scf01251g00013.1.mrna1/2-44            --------------------------------
+#=GR Peaxi162Scf01251g00013.1.mrna1/2-44    PP ................................
+Peaxi162Scf01251g00013.1.mrna1/47-84           DNEIKNIWHTRLKKKMNQSQIQEKT-------
+#=GR Peaxi162Scf01251g00013.1.mrna1/47-84   PP ****************999888766.......
+Peaxi162Scf00840g00121.1.mrna1/2-51            --------------------------------
+#=GR Peaxi162Scf00840g00121.1.mrna1/2-51    PP ................................
+Peaxi162Scf00840g00121.1.mrna1/77-114          DNDVKNHWNTKLKKKLLAKNANPTS-------
+#=GR Peaxi162Scf00840g00121.1.mrna1/77-114  PP ****************988777654.......
+Peaxi162Scf00065g00016.1.mrna1/1-70            GDEVKNYWSSHLKQKLRNMGIDPMTY------
+#=GR Peaxi162Scf00065g00016.1.mrna1/1-70    PP *********************99876......
+Peaxi162Scf00295g01125.1.mrna1/2-45            --------------------------------
+#=GR Peaxi162Scf00295g01125.1.mrna1/2-45    PP ................................
+Peaxi162Scf00295g01125.1.mrna1/43-76           DNEIKNFWNTHLKKKLIQMGYDPMTHRPR---
+#=GR Peaxi162Scf00295g01125.1.mrna1/43-76   PP ***********************999875...
+Peaxi162Scf00110g00004.1.mrna1/3-72            --------------------------------
+#=GR Peaxi162Scf00110g00004.1.mrna1/3-72    PP ................................
+Peaxi162Scf00689g00121.1.mrna1/164-210         --------------------------------
+#=GR Peaxi162Scf00689g00121.1.mrna1/164-210 PP ................................
+Peaxi162Scf00689g00121.1.mrna1/211-252         ENSIKNHWNATKRRQFSRRKCR----------
+#=GR Peaxi162Scf00689g00121.1.mrna1/211-252 PP *************998877655..........
+Peaxi162Scf00089g01411.1.mrna1/2-45            --------------------------------
+#=GR Peaxi162Scf00089g01411.1.mrna1/2-45    PP ................................
+Peaxi162Scf00089g01411.1.mrna1/43-77           DNEIKNFWNSSLKKKLMKQGIDPNTHMPLS--
+#=GR Peaxi162Scf00089g01411.1.mrna1/43-77   PP *************************98876..
+Peaxi162Scf00128g00742.1.mrna1/1-45            --------------------------------
+#=GR Peaxi162Scf00128g00742.1.mrna1/1-45    PP ................................
+Peaxi162Scf00128g00742.1.mrna1/42-77           DNEIKNHWNTRIKKKLKLLGLDPLTHKPIE--
+#=GR Peaxi162Scf00128g00742.1.mrna1/42-77   PP *****************9999999998765..
+Peaxi162Scf00304g00074.1.mrna1/5-86            --------------------------------
+#=GR Peaxi162Scf00304g00074.1.mrna1/5-86    PP ................................
+Peaxi162Scf00521g00814.1.mrna1/5-83            AEEIEKYWNTRSST------------------
+#=GR Peaxi162Scf00521g00814.1.mrna1/5-83    PP **********9875..................
+Peaxi162Scf00135g00313.1.mrna1/5-98            PSQCLERYEKLL--------------------
+#=GR Peaxi162Scf00135g00313.1.mrna1/5-98    PP 877776666655....................
+Peaxi162Scf00050g00512.1.mrna1/1-38            DNDIKNYWNTRLKKKLLGKRKQSQM-------
+#=GR Peaxi162Scf00050g00512.1.mrna1/1-38    PP ****************987776655.......
+Peaxi162Scf00786g00439.1.mrna1/40-84           AEEIERFWIMRHS-------------------
+#=GR Peaxi162Scf00786g00439.1.mrna1/40-84   PP ********88766...................
+Peaxi162Scf00007g00289.1.mrna1/13-50           DNEIKNIWHTRLKKKMNQSQIQEKT-------
+#=GR Peaxi162Scf00007g00289.1.mrna1/13-50   PP ****************999888776.......
+Peaxi162Scf00700g00217.1.mrna1/1-45            --------------------------------
+#=GR Peaxi162Scf00700g00217.1.mrna1/1-45    PP ................................
+Peaxi162Scf00725g00019.1.mrna1/19-64           REDVMAHYDAL---------------------
+#=GR Peaxi162Scf00725g00019.1.mrna1/19-64   PP ****9999875.....................
+Peaxi162Scf00725g00019.1.mrna1/108-153         --------------------------------
+#=GR Peaxi162Scf00725g00019.1.mrna1/108-153 PP ................................
+Peaxi162Scf00029g00131.1.mrna1/335-378         RFHVKDTWRR----------------------
+#=GR Peaxi162Scf00029g00131.1.mrna1/335-378 PP 8999*99986......................
+Peaxi162Scf00029g00131.1.mrna1/383-469         --------------------------------
+#=GR Peaxi162Scf00029g00131.1.mrna1/383-469 PP ................................
+Peaxi162Scf00681g00435.1.mrna1/31-56           LVEVKNHYELL---------------------
+#=GR Peaxi162Scf00681g00435.1.mrna1/31-56   PP *******9865.....................
+Peaxi162Scf00681g00435.1.mrna1/111-155         --------------------------------
+#=GR Peaxi162Scf00681g00435.1.mrna1/111-155 PP ................................
+Peaxi162Scf00951g00332.1.mrna1/19-70           VLDVMNQYKELV--------------------
+#=GR Peaxi162Scf00951g00332.1.mrna1/19-70   PP ******998765....................
+Peaxi162Scf00951g00332.1.mrna1/109-154         --------------------------------
+#=GR Peaxi162Scf00951g00332.1.mrna1/109-154 PP ................................
+Peaxi162Scf00519g00059.1.mrna1/18-50           PEQIISHYDD----------------------
+#=GR Peaxi162Scf00519g00059.1.mrna1/18-50   PP ****999875......................
+Peaxi162Scf00519g00059.1.mrna1/82-126          --------------------------------
+#=GR Peaxi162Scf00519g00059.1.mrna1/82-126  PP ................................
+Peaxi162Scf00957g00330.1.mrna1/20-64           VLDVM---------------------------
+#=GR Peaxi162Scf00957g00330.1.mrna1/20-64   PP 87775...........................
+Peaxi162Scf00957g00330.1.mrna1/109-154         --------------------------------
+#=GR Peaxi162Scf00957g00330.1.mrna1/109-154 PP ................................
+Peaxi162Scf25743g00028.1.mrna1/243-285         WVHVGNAWQK----------------------
+#=GR Peaxi162Scf25743g00028.1.mrna1/243-285 PP 9999999975......................
+Peaxi162Scf25743g00028.1.mrna1/290-348         --------------------------------
+#=GR Peaxi162Scf25743g00028.1.mrna1/290-348 PP ................................
+Peaxi162Scf00141g00622.1.mrna1/32-78           VNDVIKQYRE----------------------
+#=GR Peaxi162Scf00141g00622.1.mrna1/32-78   PP ***9887765......................
+Peaxi162Scf00141g00622.1.mrna1/128-172         --------------------------------
+#=GR Peaxi162Scf00141g00622.1.mrna1/128-172 PP ................................
+Peaxi162Scf00014g00715.1.mrna1/30-74           VNDVIKQYRE----------------------
+#=GR Peaxi162Scf00014g00715.1.mrna1/30-74   PP ***9887765......................
+Peaxi162Scf00014g00715.1.mrna1/137-179         --------------------------------
+#=GR Peaxi162Scf00014g00715.1.mrna1/137-179 PP ................................
+Peaxi162Scf00526g00520.1.mrna1/11-55           LEEIIHHYEL----------------------
+#=GR Peaxi162Scf00526g00520.1.mrna1/11-55   PP ****999875......................
+Peaxi162Scf00526g00520.1.mrna1/91-132          --------------------------------
+#=GR Peaxi162Scf00526g00520.1.mrna1/91-132  PP ................................
+Peaxi162Scf01058g00154.1.mrna1/18-68           VVDVIKQY------------------------
+#=GR Peaxi162Scf01058g00154.1.mrna1/18-68   PP 99876555........................
+Peaxi162Scf01058g00154.1.mrna1/124-167         --------------------------------
+#=GR Peaxi162Scf01058g00154.1.mrna1/124-167 PP ................................
+Peaxi162Scf00013g00940.1.mrna1/28-57           IEELKQHYQML---------------------
+#=GR Peaxi162Scf00013g00940.1.mrna1/28-57   PP *******9875.....................
+Peaxi162Scf00013g00940.1.mrna1/96-156          --------------------------------
+#=GR Peaxi162Scf00013g00940.1.mrna1/96-156  PP ................................
+Peaxi162Scf00102g00926.1.mrna1/203-246         SIHVGNAWQR----------------------
+#=GR Peaxi162Scf00102g00926.1.mrna1/203-246 PP 8999***986......................
+Peaxi162Scf00102g00926.1.mrna1/322-381         --------------------------------
+#=GR Peaxi162Scf00102g00926.1.mrna1/322-381 PP ................................
+Peaxi162Scf00102g00926.1.mrna1/428-471         GVHVTDAWRR----------------------
+#=GR Peaxi162Scf00102g00926.1.mrna1/428-471 PP 9999999986......................
+Peaxi162Scf00401g00025.1.mrna1/21-69           VYDVMKQYK-----------------------
+#=GR Peaxi162Scf00401g00025.1.mrna1/21-69   PP 999977765.......................
+Peaxi162Scf00401g00025.1.mrna1/112-155         --------------------------------
+#=GR Peaxi162Scf00401g00025.1.mrna1/112-155 PP ................................
+Peaxi162Scf00366g00316.1.mrna1/62-98           VEEVRQHYEILI--------------------
+#=GR Peaxi162Scf00366g00316.1.mrna1/62-98   PP *******98766....................
+Peaxi162Scf00366g00316.1.mrna1/149-185         VEEVKQHYEILI--------------------
+#=GR Peaxi162Scf00366g00316.1.mrna1/149-185 PP *******98765....................
+Peaxi162Scf00015g00720.1.mrna1/17-69           MDELKLHYQ-----------------------
+#=GR Peaxi162Scf00015g00720.1.mrna1/17-69   PP ***999886.......................
+Peaxi162Scf00015g00720.1.mrna1/136-180         --------------------------------
+#=GR Peaxi162Scf00015g00720.1.mrna1/136-180 PP ................................
+Peaxi162Scf00334g00006.1.mrna1/33-56           LEEVKHHYDL----------------------
+#=GR Peaxi162Scf00334g00006.1.mrna1/33-56   PP ******9975......................
+Peaxi162Scf00334g00006.1.mrna1/116-158         --------------------------------
+#=GR Peaxi162Scf00334g00006.1.mrna1/116-158 PP ................................
+Peaxi162Scf00119g00028.1.mrna1/7-48            VEELKRHYQI----------------------
+#=GR Peaxi162Scf00119g00028.1.mrna1/7-48    PP ******9975......................
+Peaxi162Scf00119g00028.1.mrna1/116-162         --------------------------------
+#=GR Peaxi162Scf00119g00028.1.mrna1/116-162 PP ................................
+Peaxi162Scf01390g00030.1.mrna1/514-558         RFHVKDTWRR----------------------
+#=GR Peaxi162Scf01390g00030.1.mrna1/514-558 PP 899*****86......................
+Peaxi162Scf01390g00030.1.mrna1/563-648         --------------------------------
+#=GR Peaxi162Scf01390g00030.1.mrna1/563-648 PP ................................
+Peaxi162Scf25743g00024.1.mrna1/568-610         WVHVGNAWQK----------------------
+#=GR Peaxi162Scf25743g00024.1.mrna1/568-610 PP 9999999975......................
+Peaxi162Scf00681g00412.1.mrna1/31-57           LVEVKNHYKLLL--------------------
+#=GR Peaxi162Scf00681g00412.1.mrna1/31-57   PP *******98655....................
+Peaxi162Scf00454g00323.1.mrna1/172-220         --------------------------------
+#=GR Peaxi162Scf00454g00323.1.mrna1/172-220 PP ................................
+Peaxi162Scf01390g00031.1.mrna1/767-812         RFHVKDTWRR----------------------
+#=GR Peaxi162Scf01390g00031.1.mrna1/767-812 PP 899***9986......................
+Peaxi162Scf01390g00031.1.mrna1/817-903         --------------------------------
+#=GR Peaxi162Scf01390g00031.1.mrna1/817-903 PP ................................
+Peaxi162Scf00217g00912.1.mrna1/93-131          --------------------------------
+#=GR Peaxi162Scf00217g00912.1.mrna1/93-131  PP ................................
+Peaxi162Scf00038g01737.1.mrna1/5-33            --------------------------------
+#=GR Peaxi162Scf00038g01737.1.mrna1/5-33    PP ................................
+Peaxi162Scf00160g01038.1.mrna1/171-217         --------------------------------
+#=GR Peaxi162Scf00160g01038.1.mrna1/171-217 PP ................................
+Peaxi162Scf41047g00002.1.mrna1/204-249         WVHVGNAWQKIKL-------------------
+#=GR Peaxi162Scf41047g00002.1.mrna1/204-249 PP ********87543...................
+Peaxi162Scf00003g00125.1.mrna1/11-60           AEEVKRHYEKLVQ-------------------
+#=GR Peaxi162Scf00003g00125.1.mrna1/11-60   PP ********98877...................
+Peaxi162Scf00016g02929.1.mrna1/5-36            --------------------------------
+#=GR Peaxi162Scf00016g02929.1.mrna1/5-36    PP ................................
+Peaxi162Scf00385g00010.1.mrna1/235-282         --------------------------------
+#=GR Peaxi162Scf00385g00010.1.mrna1/235-282 PP ................................
+Peaxi162Scf00494g00102.1.mrna1/5-36            --------------------------------
+#=GR Peaxi162Scf00494g00102.1.mrna1/5-36    PP ................................
+Peaxi162Scf00152g00527.1.mrna1/5-39            --------------------------------
+#=GR Peaxi162Scf00152g00527.1.mrna1/5-39    PP ................................
+Peaxi162Scf00207g01353.1.mrna1/4-34            --------------------------------
+#=GR Peaxi162Scf00207g01353.1.mrna1/4-34    PP ................................
+Peaxi162Scf00677g00012.1.mrna1/131-164         --------------------------------
+#=GR Peaxi162Scf00677g00012.1.mrna1/131-164 PP ................................
+Peaxi162Scf00449g00319.1.mrna1/5-36            --------------------------------
+#=GR Peaxi162Scf00449g00319.1.mrna1/5-36    PP ................................
+Peaxi162Scf00123g01118.1.mrna1/408-466         --------------------------------
+#=GR Peaxi162Scf00123g01118.1.mrna1/408-466 PP ................................
+Peaxi162Scf00677g00011.1.mrna1/129-162         --------------------------------
+#=GR Peaxi162Scf00677g00011.1.mrna1/129-162 PP ................................
+Peaxi162Scf00092g01520.1.mrna1/23-69           AVQIRSHAQKFF--------------------
+#=GR Peaxi162Scf00092g01520.1.mrna1/23-69   PP *99998866555....................
+Peaxi162Scf00366g00045.1.mrna1/18-56           VEEVKQHYAVLVE-------------------
+#=GR Peaxi162Scf00366g00045.1.mrna1/18-56   PP *******988766...................
+Peaxi162Scf00102g01055.1.mrna1/242-282         WVHVGNAWQK----------------------
+#=GR Peaxi162Scf00102g01055.1.mrna1/242-282 PP 9999999975......................
+Peaxi162Scf00102g01055.1.mrna1/287-351         --------------------------------
+#=GR Peaxi162Scf00102g01055.1.mrna1/287-351 PP ................................
+Peaxi162Scf00171g00419.1.mrna1/54-110          AIQIRSHAQKFFAKVARDSGID----------
+#=GR Peaxi162Scf00171g00419.1.mrna1/54-110  PP ****999888888877766665..........
+Peaxi162Scf00358g00058.1.mrna1/40-92           AIQIRSHAQKFFAKVAR---------------
+#=GR Peaxi162Scf00358g00058.1.mrna1/40-92   PP ****9997777766554...............
+Peaxi162Scf00038g01824.1.mrna1/437-491         --------------------------------
+#=GR Peaxi162Scf00038g01824.1.mrna1/437-491 PP ................................
+Peaxi162Scf00003g02843.1.mrna1/5-36            --------------------------------
+#=GR Peaxi162Scf00003g02843.1.mrna1/5-36    PP ................................
+Peaxi162Scf00632g00012.1.mrna1/957-995         --------------------------------
+#=GR Peaxi162Scf00632g00012.1.mrna1/957-995 PP ................................
+Peaxi162Scf00124g00012.1.mrna1/10-55           IQQVKHHYQLLV--------------------
+#=GR Peaxi162Scf00124g00012.1.mrna1/10-55   PP *******98655....................
+Peaxi162Scf00931g00117.1.mrna1/24-54           EEEVKSHYEKLVE-------------------
+#=GR Peaxi162Scf00931g00117.1.mrna1/24-54   PP ********98766...................
+Peaxi162Scf01096g00316.1.mrna1/55-112          AVQIRSHAQKFFSKVVRESNNDD---------
+#=GR Peaxi162Scf01096g00316.1.mrna1/55-112  PP 99999999999998887666554.........
+Peaxi162Scf00430g00415.1.mrna1/858-896         --------------------------------
+#=GR Peaxi162Scf00430g00415.1.mrna1/858-896 PP ................................
+#=GC PP_cons                                   *********9****99988888877777665.
+#=GC RF                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

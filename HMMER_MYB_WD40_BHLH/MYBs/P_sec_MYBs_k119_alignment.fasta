@@ -1,0 +1,1144 @@
+# STOCKHOLM 1.0
+
+#=GS Psec_k119Scf2390014g0000010.1/2-129     DE [subseq from] protein AED:0.03 eAED:0.62 QI:0|0|0|1|1|1|3|0|321
+#=GS Psec_k119Scf2432305g0000010.1/2-130     DE [subseq from] protein AED:0.02 eAED:0.02 QI:216|1|1|1|1|1|3|318|288
+#=GS Psec_k119Scf2417231g0000010.1/2-129     DE [subseq from] protein AED:0.00 eAED:0.13 QI:0|0|0|1|1|1|3|0|352
+#=GS Psec_k119Scf2374962g0000010.1/2-128     DE [subseq from] protein AED:0.00 eAED:0.13 QI:0|0|0|1|1|1|3|0|347
+#=GS Psec_k119Scf2412346g0000010.1/2-130     DE [subseq from] protein AED:0.02 eAED:0.02 QI:240|1|1|1|1|1|3|236|268
+#=GS Psec_k119Scf2419965g0000010.1/1-130     DE [subseq from] protein AED:0.00 eAED:0.00 QI:292|1|1|1|1|1|3|269|421
+#=GS Psec_k119Scf2389022g0000020.1/2-128     DE [subseq from] protein AED:0.03 eAED:0.73 QI:0|0|0|1|1|1|3|0|339
+#=GS Psec_k119Scf2428461g0000010.1/2-128     DE [subseq from] protein AED:0.02 eAED:0.77 QI:0|0|0|1|1|1|3|0|371
+#=GS Psec_k119Scf2421448g0000010.1/2-127     DE [subseq from] protein AED:0.03 eAED:0.03 QI:0|0|0|1|1|1|3|0|355
+#=GS Psec_k119Scf2416623g0000020.1/2-130     DE [subseq from] protein AED:0.04 eAED:0.04 QI:181|1|1|1|1|1|3|27|283
+#=GS Psec_k119Scf2414886g0000190.1/2-130     DE [subseq from] protein AED:0.00 eAED:0.00 QI:229|1|1|1|1|1|2|477|273
+#=GS Psec_k119Scf2433055g0000010.1/2-131     DE [subseq from] protein AED:0.00 eAED:0.00 QI:151|1|1|1|1|1|2|247|262
+#=GS Psec_k119Scf2407832g0000010.1/2-130     DE [subseq from] protein AED:0.00 eAED:0.00 QI:337|1|1|1|1|1|2|433|258
+#=GS Psec_k119Scf2421033g0000010.1/2-128     DE [subseq from] protein AED:0.03 eAED:0.46 QI:0|0|0|1|1|1|3|0|341
+#=GS Psec_k119Scf2425589g0000010.1/2-128     DE [subseq from] protein AED:0.03 eAED:0.14 QI:0|0|0|1|1|1|3|0|325
+#=GS Psec_k119Scf2416361g0000020.1/2-127     DE [subseq from] protein AED:0.00 eAED:0.00 QI:196|1|1|1|1|1|3|374|184
+#=GS Psec_k119Scf2414978g0000110.1/14-141    DE [subseq from] protein AED:0.02 eAED:0.76 QI:0|0|0|1|1|1|2|0|381
+#=GS Psec_k119Scf262883g0000010.1/1-130      DE [subseq from] protein AED:0.20 eAED:0.36 QI:52|1|0.66|1|1|1|3|0|294
+#=GS Psec_k119Scf2433381g0000010.1/2-131     DE [subseq from] protein AED:0.00 eAED:0.70 QI:0|0|0|1|1|1|2|0|296
+#=GS Psec_k119Scf2386894g0000010.1/12-139    DE [subseq from] protein AED:0.10 eAED:0.10 QI:1261|1|1|1|1|1|3|343|324
+#=GS Psec_k119Scf2428950g0000010.1/2-130     DE [subseq from] protein AED:0.14 eAED:0.53 QI:0|0|0|1|1|1|3|0|161
+#=GS Psec_k119Scf2435640g0000020.1/2-130     DE [subseq from] protein AED:0.05 eAED:0.05 QI:191|1|1|1|1|1|3|296|317
+#=GS Psec_k119Scf2403504g0000010.1/2-130     DE [subseq from] protein AED:0.02 eAED:0.02 QI:102|1|1|1|1|1|3|175|427
+#=GS Psec_k119Scf2430705g0000010.1/8-136     DE [subseq from] protein AED:0.02 eAED:0.00 QI:0|0.5|0.33|1|1|1|3|88|419
+#=GS Psec_k119Scf2392922g0000010.1/2-129     DE [subseq from] protein AED:0.06 eAED:0.06 QI:211|1|1|1|1|1|3|226|313
+#=GS Psec_k119Scf2397663g0000020.1/2-130     DE [subseq from] protein AED:0.00 eAED:0.26 QI:0|0|0|1|1|1|3|0|333
+#=GS Psec_k119Scf2419405g0000110.1/2-130     DE [subseq from] protein AED:0.01 eAED:0.18 QI:0|0|0|1|0|0.5|2|0|263
+#=GS Psec_k119Scf2427329g0000010.1/2-129     DE [subseq from] protein AED:0.02 eAED:0.02 QI:193|1|1|1|1|1|3|437|280
+#=GS Psec_k119Scf2406902g0000010.1/3-127     DE [subseq from] protein AED:0.00 eAED:0.57 QI:0|0|0|1|1|0.66|3|0|202
+#=GS Psec_k119Scf2419243g0000010.1/49-177    DE [subseq from] protein AED:0.16 eAED:0.61 QI:0|0|0|0.6|1|1|5|0|456
+#=GS Psec_k119Scf2373829g0000010.1/15-141    DE [subseq from] protein AED:0.00 eAED:0.00 QI:569|1|1|1|1|1|2|186|281
+#=GS Psec_k119Scf2393697g0000010.1/2-131     DE [subseq from] protein AED:0.06 eAED:0.06 QI:0|0|0|1|1|1|2|0|329
+#=GS Psec_k119Scf2409468g0000030.1/2-130     DE [subseq from] protein AED:0.12 eAED:0.12 QI:314|1|0.66|1|1|1|3|0|353
+#=GS Psec_k119Scf2411515g0000020.1/2-129     DE [subseq from] protein AED:0.03 eAED:0.03 QI:51|1|1|1|1|1|3|39|316
+#=GS Psec_k119Scf2415437g0000080.1/93-180    DE [subseq from] protein AED:0.09 eAED:0.09 QI:0|0.87|0.77|1|0.5|0.55|9|481|576
+#=GS Psec_k119Scf2415437g0000080.1/145-248   DE [subseq from] protein AED:0.09 eAED:0.09 QI:0|0.87|0.77|1|0.5|0.55|9|481|576
+#=GS Psec_k119Scf2391299g0000020.1/5-131     DE [subseq from] protein AED:0.02 eAED:0.02 QI:164|1|1|1|1|1|3|51|333
+#=GS Psec_k119Scf2423575g0000010.1/35-122    DE [subseq from] protein AED:0.05 eAED:0.05 QI:278|1|1|1|0.90|0.83|12|181|1045
+#=GS Psec_k119Scf2423575g0000010.1/87-191    DE [subseq from] protein AED:0.05 eAED:0.05 QI:278|1|1|1|0.90|0.83|12|181|1045
+#=GS Psec_k119Scf2423609g0000010.1/1-130     DE [subseq from] protein AED:0.09 eAED:0.09 QI:161|1|1|1|1|1|3|279|321
+#=GS Psec_k119Scf2416406g0000020.1/1-130     DE [subseq from] protein AED:0.00 eAED:0.00 QI:150|1|1|1|1|1|2|362|294
+#=GS Psec_k119Scf2383591g0000010.1/1-130     DE [subseq from] protein AED:0.06 eAED:0.06 QI:99|1|1|1|1|1|3|262|308
+#=GS Psec_k119Scf2381926g0000010.1/3-129     DE [subseq from] protein AED:0.04 eAED:0.04 QI:134|1|1|1|1|1|3|302|280
+#=GS Psec_k119Scf2431997g0000110.1/3-124     DE [subseq from] protein AED:0.13 eAED:0.20 QI:0|0|0|1|1|1|3|0|351
+#=GS Psec_k119Scf2422999g0000010.1/18-143    DE [subseq from] protein AED:0.00 eAED:0.00 QI:0|1|0|1|1|1|2|0|361
+#=GS Psec_k119Scf2401007g0000040.1/72-159    DE [subseq from] protein AED:0.09 eAED:0.09 QI:0|1|1|1|0.66|0.7|10|138|603
+#=GS Psec_k119Scf2401007g0000040.1/126-232   DE [subseq from] protein AED:0.09 eAED:0.09 QI:0|1|1|1|0.66|0.7|10|138|603
+#=GS Psec_k119Scf2432755g0000020.1/2-127     DE [subseq from] protein AED:0.01 eAED:0.01 QI:0|0|0|1|1|1|3|0|314
+#=GS Psec_k119Scf2435063g0000040.1/5-132     DE [subseq from] protein AED:0.41 eAED:0.78 QI:0|0|0|1|1|1|2|0|360
+#=GS Psec_k119Scf2436442g0000040.1/3-128     DE [subseq from] protein AED:0.02 eAED:0.10 QI:0|1|0|1|1|1|2|0|333
+#=GS Psec_k119Scf2417684g0000090.1/2-126     DE [subseq from] protein AED:0.04 eAED:0.04 QI:88|1|1|1|1|1|3|279|364
+#=GS Psec_k119Scf2421323g0000010.1/2-127     DE [subseq from] protein AED:0.00 eAED:0.00 QI:211|1|1|1|1|1|3|313|341
+#=GS Psec_k119Scf2426471g0000030.1/2-130     DE [subseq from] protein AED:0.20 eAED:0.54 QI:0|0|0|1|1|1|3|0|349
+#=GS Psec_k119Scf2431678g0000020.1/2-127     DE [subseq from] protein AED:0.04 eAED:0.04 QI:317|1|1|1|1|1|3|333|337
+#=GS Psec_k119Scf2435063g0000030.1/10-138    DE [subseq from] protein AED:0.42 eAED:0.75 QI:0|0|0|1|1|1|2|0|292
+#=GS Psec_k119Scf2436581g0000010.1/2-121     DE [subseq from] protein AED:0.17 eAED:0.17 QI:279|1|1|1|1|1|4|292|314
+#=GS Psec_k119Scf2404695g0000010.1/2-123     DE [subseq from] protein AED:0.02 eAED:0.02 QI:293|1|1|1|1|1|3|258|306
+#=GS Psec_k119Scf2427249g0000010.1/2-122     DE [subseq from] protein AED:0.05 eAED:0.05 QI:10|1|1|1|1|1|3|77|284
+#=GS Psec_k119Scf2434830g0000130.1/1-129     DE [subseq from] protein AED:0.03 eAED:0.55 QI:0|0|0|1|1|1|3|0|260
+#=GS Psec_k119Scf2436209g0000010.1/2-120     DE [subseq from] protein AED:0.00 eAED:0.00 QI:0|1|0.5|1|1|1|4|155|405
+#=GS Psec_k119Scf2433734g0000070.1/2-125     DE [subseq from] protein AED:0.03 eAED:0.03 QI:17|1|0.66|1|1|1|3|77|268
+#=GS Psec_k119Scf2432528g0000030.1/1-132     DE [subseq from] protein AED:0.00 eAED:0.00 QI:55|1|1|1|1|1|2|16|285
+#=GS Psec_k119Scf2418117g0000020.1/1-130     DE [subseq from] protein AED:0.06 eAED:0.06 QI:0|0|0|1|1|1|3|0|231
+#=GS Psec_k119Scf2435225g0000050.1/3-129     DE [subseq from] protein AED:0.14 eAED:0.14 QI:142|1|1|1|0.5|1|3|121|202
+#=GS Psec_k119Scf2430424g0000010.1/3-125     DE [subseq from] protein AED:0.12 eAED:0.12 QI:122|1|1|1|0.33|0.25|4|105|350
+#=GS Psec_k119Scf2427006g0000010.1/2-120     DE [subseq from] protein AED:0.06 eAED:0.06 QI:0|1|0.33|1|1|1|3|0|354
+#=GS Psec_k119Scf2434399g0000030.1/21-138    DE [subseq from] protein AED:0.00 eAED:0.00 QI:44|1|1|1|1|1|2|383|346
+#=GS Psec_k119Scf2426520g0000060.1/1-129     DE [subseq from] protein AED:0.06 eAED:0.71 QI:0|0|0|1|1|1|3|0|282
+#=GS Psec_k119Scf2409137g0000010.1/12-139    DE [subseq from] protein AED:0.00 eAED:0.00 QI:73|1|1|1|1|1|2|729|357
+#=GS Psec_k119Scf2405584g0000020.1/1-127     DE [subseq from] protein AED:0.02 eAED:0.02 QI:0|0|0|1|1|1|3|0|289
+#=GS Psec_k119Scf2394949g0000010.1/23-148    DE [subseq from] protein AED:0.01 eAED:0.01 QI:134|1|1|1|1|1|3|281|339
+#=GS Psec_k119Scf2419119g0000010.1/11-133    DE [subseq from] protein AED:0.04 eAED:0.04 QI:217|1|1|1|1|1|3|296|295
+#=GS Psec_k119Scf2400874g0000020.1/2-130     DE [subseq from] protein AED:0.01 eAED:0.13 QI:0|0|0|1|1|1|3|0|315
+#=GS Psec_k119Scf2420980g0000090.1/2-125     DE [subseq from] protein AED:0.07 eAED:0.71 QI:0|0|0|1|1|1|3|0|287
+#=GS Psec_k119Scf2423828g0000010.1/2-127     DE [subseq from] protein AED:0.03 eAED:0.18 QI:0|0|0|1|1|1|3|0|302
+#=GS Psec_k119Scf2410777g0000010.1/5-126     DE [subseq from] protein AED:0.03 eAED:0.03 QI:269|1|1|1|0.66|0.5|4|257|254
+#=GS Psec_k119Scf2417524g0000010.1/30-152    DE [subseq from] protein AED:0.02 eAED:0.02 QI:0|1|0.66|1|1|1|3|161|325
+#=GS Psec_k119Scf2412816g0000020.1/2-129     DE [subseq from] protein AED:0.00 eAED:0.42 QI:0|0|0|1|0.33|0.25|4|0|401
+#=GS Psec_k119Scf2425053g0000020.1/2-125     DE [subseq from] protein AED:0.00 eAED:0.00 QI:53|1|1|1|1|1|3|247|330
+#=GS Psec_k119Scf2380509g0000010.1/11-130    DE [subseq from] protein AED:0.01 eAED:0.62 QI:0|0|0|1|1|0.66|3|0|241
+#=GS Psec_k119Scf2432511g0000010.1/2-119     DE [subseq from] protein AED:0.02 eAED:0.16 QI:0|0|0|1|1|1|3|0|313
+#=GS Psec_k119Scf2436577g0000010.1/8-127     DE [subseq from] protein AED:0.00 eAED:0.69 QI:0|0|0|1|1|1|3|0|281
+#=GS Psec_k119Scf2403461g0000010.1/59-183    DE [subseq from] protein AED:0.01 eAED:0.54 QI:0|0|0|1|1|1|3|0|424
+#=GS Psec_k119Scf2424849g0000050.1/910-1027  DE [subseq from] protein AED:0.08 eAED:0.07 QI:0|0.5|0.2|0.8|1|1|5|0|1175
+#=GS Psec_k119Scf2436291g0000060.1/14-130    DE [subseq from] protein AED:0.01 eAED:0.05 QI:0|0|0|1|1|1|3|0|263
+#=GS Psec_k119Scf2425290g0000010.1/13-128    DE [subseq from] protein AED:0.00 eAED:0.65 QI:0|0|0|1|1|1|3|0|253
+#=GS Psec_k119Scf2434278g0000010.1/24-137    DE [subseq from] protein AED:0.00 eAED:0.44 QI:0|0|0|1|1|1|3|0|516
+#=GS Psec_k119Scf2417751g0000020.1/61-154    DE [subseq from] protein AED:0.29 eAED:0.29 QI:107|0.75|0.77|1|0.75|0.77|9|0|569
+#=GS Psec_k119Scf2417751g0000020.1/119-222   DE [subseq from] protein AED:0.29 eAED:0.29 QI:107|0.75|0.77|1|0.75|0.77|9|0|569
+#=GS Psec_k119Scf2369416g0000010.1/2-127     DE [subseq from] protein AED:0.28 eAED:0.34 QI:0|0|0|1|1|1|5|0|224
+#=GS Psec_k119Scf2425677g0000030.1/27-147    DE [subseq from] protein AED:0.00 eAED:0.00 QI:89|1|1|1|1|1|3|233|293
+#=GS Psec_k119Scf2433087g0000050.1/2-126     DE [subseq from] protein AED:0.04 eAED:0.04 QI:544|1|1|1|1|1|5|188|359
+#=GS Psec_k119Scf2417084g0000060.1/37-142    DE [subseq from] protein AED:0.11 eAED:0.11 QI:350|0.75|0.6|0.8|0.75|0.8|5|0|494
+#=GS Psec_k119Scf2367010g0000010.1/23-132    DE [subseq from] protein AED:0.01 eAED:0.05 QI:0|0|0|1|1|1|4|0|441
+#=GS Psec_k119Scf2432900g0000020.1/35-141    DE [subseq from] protein AED:0.17 eAED:0.17 QI:1012|0.33|0.25|1|1|0.75|4|0|495
+#=GS Psec_k119Scf2421816g0000020.1/6-124     DE [subseq from] protein AED:0.00 eAED:0.69 QI:0|0|0|1|1|1|3|0|284
+#=GS Psec_k119Scf2376442g0000010.1/66-153    DE [subseq from] protein AED:0.07 eAED:0.03 QI:0|0.71|0.6|0.73|1|1|15|0|1090
+#=GS Psec_k119Scf2376442g0000010.1/118-223   DE [subseq from] protein AED:0.07 eAED:0.03 QI:0|0.71|0.6|0.73|1|1|15|0|1090
+#=GS Psec_k119Scf2423612g0000010.1/25-143    DE [subseq from] protein AED:0.31 eAED:0.27 QI:0|0|0|0.75|0.66|0.5|4|0|251
+#=GS Psec_k119Scf2435132g0000090.1/2-126     DE [subseq from] protein AED:0.02 eAED:0.19 QI:0|0|0|1|1|1|3|0|261
+#=GS Psec_k119Scf2393709g0000010.1/35-140    DE [subseq from] protein AED:0.11 eAED:0.11 QI:260|0.75|0.8|1|0.5|0.6|5|122|537
+#=GS Psec_k119Scf2425964g0000030.1/4-127     DE [subseq from] protein AED:0.00 eAED:0.35 QI:0|0|0|1|1|1|3|0|212
+#=GS Psec_k119Scf2417298g0000030.1/8-126     DE [subseq from] protein AED:0.02 eAED:0.19 QI:0|0|0|1|1|1|3|0|248
+#=GS Psec_k119Scf2423612g0000020.1/3-127     DE [subseq from] protein AED:0.25 eAED:0.25 QI:0|0|0|1|1|1|3|0|250
+#=GS Psec_k119Scf2408290g0000010.1/3-128     DE [subseq from] protein AED:0.02 eAED:0.02 QI:68|1|1|1|1|1|3|162|246
+#=GS Psec_k119Scf2421662g0000010.1/4-128     DE [subseq from] protein AED:0.09 eAED:0.32 QI:0|0|0|0.75|1|1|4|0|240
+#=GS Psec_k119Scf2415280g0000010.1/8-127     DE [subseq from] protein AED:0.01 eAED:0.01 QI:0|1|0.66|1|1|1|3|263|240
+#=GS Psec_k119Scf2407911g0000040.1/3-116     DE [subseq from] protein AED:0.05 eAED:0.05 QI:170|1|1|1|1|1|3|396|247
+#=GS Psec_k119Scf2388900g0000010.1/3-144     DE [subseq from] protein AED:0.00 eAED:0.61 QI:0|0|0|1|1|1|3|0|263
+#=GS Psec_k119Scf2411540g0000010.1/7-134     DE [subseq from] protein AED:0.03 eAED:0.61 QI:0|0|0|0.75|0.33|0.5|4|0|270
+#=GS Psec_k119Scf2423872g0000010.1/7-134     DE [subseq from] protein AED:0.03 eAED:0.61 QI:0|0|0|0.75|0.33|0.5|4|0|270
+#=GS Psec_k119Scf2405153g0000020.1/20-136    DE [subseq from] protein AED:0.02 eAED:0.66 QI:0|0|0|1|1|1|3|0|261
+#=GS Psec_k119Scf2396743g0000020.1/7-117     DE [subseq from] protein AED:0.01 eAED:0.09 QI:0|0|0|1|1|1|4|0|222
+#=GS Psec_k119Scf2411246g0000010.1/6-88      DE [subseq from] protein AED:0.24 eAED:0.24 QI:54|0.66|0.5|1|0.66|0.5|4|0|309
+#=GS Psec_k119Scf2411246g0000010.1/137-167   DE [subseq from] protein AED:0.24 eAED:0.24 QI:54|0.66|0.5|1|0.66|0.5|4|0|309
+#=GS Psec_k119Scf2408320g0000040.1/5-118     DE [subseq from] protein AED:0.02 eAED:0.03 QI:0|0|0|1|1|1|3|0|239
+#=GS Psec_k119Scf2425244g0000010.1/3-118     DE [subseq from] protein AED:0.15 eAED:0.48 QI:0|0|0|1|1|1|3|0|278
+#=GS Psec_k119Scf2415810g0000040.1/24-148    DE [subseq from] protein AED:0.07 eAED:0.41 QI:0|0|0|1|1|1|3|0|289
+#=GS Psec_k119Scf044174g0000010.1/6-119      DE [subseq from] protein AED:0.00 eAED:0.00 QI:0|-1|0|1|-1|1|1|0|303
+#=GS Psec_k119Scf2423641g0000030.1/10-123    DE [subseq from] protein AED:0.00 eAED:0.00 QI:0|-1|0|1|-1|1|1|0|345
+#=GS Psec_k119Scf2416710g0000090.1/39-148    DE [subseq from] protein AED:0.00 eAED:0.00 QI:8|1|1|1|1|1|2|400|384
+#=GS Psec_k119Scf2405143g0000010.1/45-159    DE [subseq from] protein AED:0.00 eAED:0.00 QI:120|1|1|1|0|1|2|194|375
+#=GS Psec_k119Scf2426813g0000020.1/24-139    DE [subseq from] protein AED:0.00 eAED:0.00 QI:0|-1|0|1|-1|1|1|0|252
+#=GS Psec_k119Scf2411021g0000010.1/4-121     DE [subseq from] protein AED:0.14 eAED:0.43 QI:0|0|0|0.6|1|1|5|0|243
+#=GS Psec_k119Scf2390855g0000010.1/6-114     DE [subseq from] protein AED:0.07 eAED:0.30 QI:0|0|0|1|1|1|2|0|142
+#=GS Psec_k119Scf2384101g0000010.1/3-113     DE [subseq from] protein AED:0.13 eAED:0.40 QI:0|0|0|0.66|1|1|3|0|173
+#=GS Psec_k119Scf2431924g0000010.1/8-112     DE [subseq from] protein AED:0.00 eAED:-0.00 QI:0|-1|0|1|-1|1|1|0|257
+#=GS Psec_k119Scf2386678g0000010.1/35-147    DE [subseq from] protein AED:0.02 eAED:-0.02 QI:0|-1|0|1|-1|1|1|0|197
+#=GS Psec_k119Scf2432972g0000010.1/56-173    DE [subseq from] protein AED:0.06 eAED:0.07 QI:10|1|0.66|1|1|1|3|0|348
+#=GS Psec_k119Scf2395979g0000010.1/12-125    DE [subseq from] protein AED:0.07 eAED:-0.04 QI:0|0|0|0.66|1|1|3|0|351
+#=GS Psec_k119Scf2397836g0000010.1/2-115     DE [subseq from] protein AED:0.00 eAED:0.23 QI:53|0.5|0.33|1|1|1|3|0|267
+#=GS Psec_k119Scf2383703g0000010.1/80-196    DE [subseq from] protein AED:0.16 eAED:0.11 QI:0|0|0|0.66|1|1|3|0|426
+#=GS Psec_k119Scf2424310g0000030.1/2-114     DE [subseq from] protein AED:0.00 eAED:0.00 QI:350|1|1|1|1|1|3|213|255
+#=GS Psec_k119Scf2433771g0000120.1/2-133     DE [subseq from] protein AED:0.00 eAED:0.13 QI:0|0|0|1|1|1|3|0|364
+#=GS Psec_k119Scf2378002g0000010.1/179-295   DE [subseq from] protein AED:0.01 eAED:-0.01 QI:0|0|0|1|1|1|3|0|405
+#=GS Psec_k119Scf2431643g0000100.1/12-92     DE [subseq from] protein AED:0.10 eAED:0.10 QI:0|0.5|0|0.66|1|1|3|0|283
+#=GS Psec_k119Scf2269082g0000010.1/133-252   DE [subseq from] protein AED:0.00 eAED:-0.00 QI:0|0|0|1|1|1|3|0|471
+#=GS Psec_k119Scf2412519g0000010.1/115-231   DE [subseq from] protein AED:0.01 eAED:-0.00 QI:0|0|0|1|1|1|3|0|465
+#=GS Psec_k119Scf2428891g0000030.1/163-279   DE [subseq from] protein AED:0.01 eAED:0.01 QI:0|0|0|1|1|1|3|0|403
+#=GS Psec_k119Scf2431941g0000020.1/2-89      DE [subseq from] protein AED:0.67 eAED:0.67 QI:0|0|0|0.33|1|1|3|0|103
+#=GS Psec_k119Scf2434578g0000010.1/3-89      DE [subseq from] protein AED:0.26 eAED:0.25 QI:0|0|0|0.5|1|1|2|0|89
+#=GS Psec_k119Scf2426128g0000070.1/2-89      DE [subseq from] protein AED:0.00 eAED:0.00 QI:491|1|1|1|1|1|2|3941|89
+#=GS Psec_k119Scf2377861g0000010.1/27-109    DE [subseq from] protein AED:0.14 eAED:0.55 QI:0|0|0|0.66|1|1|3|0|220
+#=GS Psec_k119Scf2427565g0000010.1/412-481   DE [subseq from] protein AED:0.08 eAED:0.18 QI:102|1|0.77|1|1|1|9|0|1004
+#=GS Psec_k119Scf2427565g0000010.1/493-584   DE [subseq from] protein AED:0.08 eAED:0.18 QI:102|1|0.77|1|1|1|9|0|1004
+#=GS Psec_k119Scf2427565g0000010.1/587-659   DE [subseq from] protein AED:0.08 eAED:0.18 QI:102|1|0.77|1|1|1|9|0|1004
+#=GS Psec_k119Scf2425578g0000010.1/7-89      DE [subseq from] protein AED:0.26 eAED:0.24 QI:0|0|0|0.5|1|1|2|0|89
+#=GS Psec_k119Scf2427384g0000020.1/3-117     DE [subseq from] protein AED:0.20 eAED:0.20 QI:0|-1|0|1|-1|1|1|0|361
+#=GS Psec_k119Scf2429023g0000010.1/7-88      DE [subseq from] protein AED:0.44 eAED:0.66 QI:0|0|0|1|1|1|2|0|111
+#=GS Psec_k119Scf2425244g0000020.1/3-75      DE [subseq from] protein AED:0.25 eAED:0.25 QI:0|0|0|1|1|1|2|0|79
+#=GS Psec_k119Scf2427254g0000030.1/20-135    DE [subseq from] protein AED:0.25 eAED:0.25 QI:318|0.90|0.75|1|0.90|1|12|745|487
+#=GS Psec_k119Scf2412787g0000010.1/5-60      DE [subseq from] protein AED:0.32 eAED:0.32 QI:0|0.6|0.54|0.63|0.7|0.81|11|992|260
+#=GS Psec_k119Scf2412787g0000010.1/23-80     DE [subseq from] protein AED:0.32 eAED:0.32 QI:0|0.6|0.54|0.63|0.7|0.81|11|992|260
+#=GS Psec_k119Scf2412787g0000010.1/101-143   DE [subseq from] protein AED:0.32 eAED:0.32 QI:0|0.6|0.54|0.63|0.7|0.81|11|992|260
+#=GS Psec_k119Scf2380651g0000010.1/3-82      DE [subseq from] protein AED:0.11 eAED:0.02 QI:0|0|0|0.8|0.25|0.4|5|0|211
+#=GS Psec_k119Scf2429346g0000010.1/106-181   DE [subseq from] protein AED:0.22 eAED:0.27 QI:0|0|0|0.8|0.75|0.8|5|0|318
+#=GS Psec_k119Scf2426976g0000010.1/2-46      DE [subseq from] protein AED:0.12 eAED:0.11 QI:0|0|0|1|0|0|2|0|231
+#=GS Psec_k119Scf2426976g0000010.1/71-108    DE [subseq from] protein AED:0.12 eAED:0.11 QI:0|0|0|1|0|0|2|0|231
+#=GS Psec_k119Scf2426435g0000030.1/5-83      DE [subseq from] protein AED:0.00 eAED:0.00 QI:140|1|1|1|1|1|3|398|85
+#=GS Psec_k119Scf2415240g0000010.1/5-86      DE [subseq from] protein AED:0.04 eAED:0.13 QI:0|0|0|1|1|1|2|0|752
+#=GS Psec_k119Scf2401438g0000010.1/1-51      DE [subseq from] protein AED:0.34 eAED:0.34 QI:191|0.2|0.16|0.5|0.6|0.5|6|0|438
+#=GS Psec_k119Scf2432015g0000010.1/5-110     DE [subseq from] protein AED:0.02 eAED:-0.02 QI:0|0|0|0.8|0.5|0.6|5|0|983
+#=GS Psec_k119Scf2390225g0000010.1/142-186   DE [subseq from] protein AED:0.29 eAED:0.29 QI:242|0.85|1|1|1|1|8|259|199
+#=GS Psec_k119Scf2432688g0000010.1/14-49     DE [subseq from] protein AED:0.14 eAED:1.00 QI:0|-1|0|1|-1|1|1|0|216
+#=GS Psec_k119Scf2419174g0000030.1/10-47     DE [subseq from] protein AED:0.02 eAED:0.02 QI:0|0|0|0.5|1|1|2|0|234
+#=GS Psec_k119Scf2414524g0000010.1/2-40      DE [subseq from] protein AED:0.00 eAED:-0.00 QI:0|-1|0|1|-1|1|1|0|195
+#=GS Psec_k119Scf2401858g0000010.1/131-175   DE [subseq from] protein AED:0.42 eAED:0.40 QI:0|0|0|1|1|1|3|0|383
+#=GS Psec_k119Scf2401858g0000010.1/180-265   DE [subseq from] protein AED:0.42 eAED:0.40 QI:0|0|0|1|1|1|3|0|383
+#=GS Psec_k119Scf2388673g0000020.1/1-36      DE [subseq from] protein AED:0.03 eAED:0.03 QI:0|-1|0|1|-1|1|1|0|193
+#=GS Psec_k119Scf2387420g0000010.1/19-64     DE [subseq from] protein AED:0.00 eAED:0.00 QI:97|1|1|1|1|1|2|245|210
+#=GS Psec_k119Scf2387420g0000010.1/108-153   DE [subseq from] protein AED:0.00 eAED:0.00 QI:97|1|1|1|1|1|2|245|210
+#=GS Psec_k119Scf2430892g0000010.1/31-56     DE [subseq from] protein AED:0.16 eAED:0.16 QI:312|1|1|1|0.5|0.33|3|361|266
+#=GS Psec_k119Scf2430892g0000010.1/111-155   DE [subseq from] protein AED:0.16 eAED:0.16 QI:312|1|1|1|0.5|0.33|3|361|266
+#=GS Psec_k119Scf2408935g0000030.1/19-70     DE [subseq from] protein AED:0.00 eAED:0.00 QI:593|1|1|1|1|1|2|124|285
+#=GS Psec_k119Scf2408935g0000030.1/109-154   DE [subseq from] protein AED:0.00 eAED:0.00 QI:593|1|1|1|1|1|2|124|285
+#=GS Psec_k119Scf2426129g0000010.1/376-419   DE [subseq from] protein AED:0.06 eAED:0.06 QI:95|0|0.66|0.66|1|1|3|204|585
+#=GS Psec_k119Scf2426129g0000010.1/424-510   DE [subseq from] protein AED:0.06 eAED:0.06 QI:95|0|0.66|0.66|1|1|3|204|585
+#=GS Psec_k119Scf2373847g0000050.1/18-50     DE [subseq from] protein AED:0.00 eAED:0.00 QI:121|1|1|1|1|1|2|389|183
+#=GS Psec_k119Scf2373847g0000050.1/82-126    DE [subseq from] protein AED:0.00 eAED:0.00 QI:121|1|1|1|1|1|2|389|183
+#=GS Psec_k119Scf2417796g0000010.1/355-400   DE [subseq from] protein AED:0.17 eAED:0.16 QI:0|0|0|0.8|0|0|5|0|787
+#=GS Psec_k119Scf2417796g0000010.1/579-629   DE [subseq from] protein AED:0.17 eAED:0.16 QI:0|0|0|0.8|0|0|5|0|787
+#=GS Psec_k119Scf2376839g0000010.1/20-64     DE [subseq from] protein AED:0.17 eAED:0.17 QI:234|1|1|1|0.5|0.33|3|223|246
+#=GS Psec_k119Scf2376839g0000010.1/109-154   DE [subseq from] protein AED:0.17 eAED:0.17 QI:234|1|1|1|0.5|0.33|3|223|246
+#=GS Psec_k119Scf2428511g0000010.1/20-56     DE [subseq from] protein AED:0.44 eAED:0.44 QI:0|0|0|0.66|0.5|1|3|0|207
+#=GS Psec_k119Scf2428511g0000010.1/168-200   DE [subseq from] protein AED:0.44 eAED:0.44 QI:0|0|0|0.66|0.5|1|3|0|207
+#=GS Psec_k119Scf2427160g0000010.1/32-78     DE [subseq from] protein AED:0.02 eAED:0.50 QI:0|0|0|1|1|1|2|0|296
+#=GS Psec_k119Scf2427160g0000010.1/128-172   DE [subseq from] protein AED:0.02 eAED:0.50 QI:0|0|0|1|1|1|2|0|296
+#=GS Psec_k119Scf2409905g0000020.1/30-74     DE [subseq from] protein AED:0.00 eAED:0.00 QI:323|1|1|1|1|1|2|589|287
+#=GS Psec_k119Scf2409905g0000020.1/137-179   DE [subseq from] protein AED:0.00 eAED:0.00 QI:323|1|1|1|1|1|2|589|287
+#=GS Psec_k119Scf2418022g0000030.1/11-55     DE [subseq from] protein AED:0.09 eAED:0.09 QI:219|1|0.66|1|0.5|0.33|3|0|495
+#=GS Psec_k119Scf2418022g0000030.1/91-132    DE [subseq from] protein AED:0.09 eAED:0.09 QI:219|1|0.66|1|0.5|0.33|3|0|495
+#=GS Psec_k119Scf2386576g0000010.1/18-68     DE [subseq from] protein AED:0.00 eAED:0.00 QI:948|1|1|1|1|1|2|398|306
+#=GS Psec_k119Scf2386576g0000010.1/124-167   DE [subseq from] protein AED:0.00 eAED:0.00 QI:948|1|1|1|1|1|2|398|306
+#=GS Psec_k119Scf2367085g0000010.1/21-69     DE [subseq from] protein AED:0.00 eAED:0.00 QI:659|1|1|1|1|1|2|283|284
+#=GS Psec_k119Scf2367085g0000010.1/112-155   DE [subseq from] protein AED:0.00 eAED:0.00 QI:659|1|1|1|1|1|2|283|284
+#=GS Psec_k119Scf2416305g0000030.1/60-94     DE [subseq from] protein AED:0.40 eAED:0.40 QI:154|1|1|1|0|0.5|2|14|206
+#=GS Psec_k119Scf2416305g0000030.1/133-193   DE [subseq from] protein AED:0.40 eAED:0.40 QI:154|1|1|1|0|0.5|2|14|206
+#=GS Psec_k119Scf2413122g0000010.1/33-56     DE [subseq from] protein AED:0.08 eAED:0.08 QI:378|1|1|1|1|1|2|316|297
+#=GS Psec_k119Scf2413122g0000010.1/116-158   DE [subseq from] protein AED:0.08 eAED:0.08 QI:378|1|1|1|1|1|2|316|297
+#=GS Psec_k119Scf2387181g0000020.1/444-489   DE [subseq from] protein AED:0.08 eAED:0.18 QI:0|-1|0|1|-1|1|1|0|586
+#=GS Psec_k119Scf2387181g0000020.1/494-580   DE [subseq from] protein AED:0.08 eAED:0.18 QI:0|-1|0|1|-1|1|1|0|586
+#=GS Psec_k119Scf2401575g0000010.1/6-47      DE [subseq from] protein AED:0.00 eAED:0.00 QI:105|1|1|1|1|1|2|340|287
+#=GS Psec_k119Scf2401575g0000010.1/115-161   DE [subseq from] protein AED:0.00 eAED:0.00 QI:105|1|1|1|1|1|2|340|287
+#=GS Psec_k119Scf2401858g0000020.1/878-929   DE [subseq from] protein AED:0.20 eAED:0.20 QI:99|0.87|0.82|0.94|1|1|17|0|1020
+#=GS Psec_k119Scf2401858g0000020.1/928-1014  DE [subseq from] protein AED:0.20 eAED:0.20 QI:99|0.87|0.82|0.94|1|1|17|0|1020
+#=GS Psec_k119Scf2420638g0000010.1/1-31      DE [subseq from] protein AED:0.02 eAED:-0.02 QI:334|1|0.5|1|0|0.5|2|0|85
+#=GS Psec_k119Scf2387522g0000050.1/1-26      DE [subseq from] protein AED:0.09 eAED:0.10 QI:0|0|0|0.4|0|0|5|0|235
+#=GS Psec_k119Scf2436669g0000020.1/199-247   DE [subseq from] protein AED:0.14 eAED:0.14 QI:163|0.8|0.83|1|0.8|0.83|6|356|606
+#=GS Psec_k119Scf2433517g0000040.1/193-239   DE [subseq from] protein AED:0.19 eAED:0.19 QI:39|1|1|1|1|1|6|313|590
+#=GS Psec_k119Scf2435654g0000010.1/4-36      DE [subseq from] protein AED:0.00 eAED:0.46 QI:0|0|0|1|1|1|3|0|144
+#=GS Psec_k119Scf2431997g0000190.1/5-33      DE [subseq from] protein AED:0.01 eAED:0.01 QI:192|0.8|0.83|1|0.8|0.83|6|380|289
+#=GS Psec_k119Scf2402092g0000010.1/11-60     DE [subseq from] protein AED:0.01 eAED:0.01 QI:0|-1|0|1|-1|1|1|0|82
+#=GS Psec_k119Scf2386832g0000010.1/5-36      DE [subseq from] protein AED:0.13 eAED:0.12 QI:67|0.8|0.83|1|0.8|0.83|6|303|286
+#=GS Psec_k119Scf2431520g0000010.1/235-282   DE [subseq from] protein AED:0.00 eAED:0.00 QI:54|1|1|1|1|1|6|433|480
+#=GS Psec_k119Scf2378163g0000010.1/5-36      DE [subseq from] protein AED:0.05 eAED:0.09 QI:0|0|0|1|1|1|5|0|287
+#=GS Psec_k119Scf2370354g0000010.1/5-39      DE [subseq from] protein AED:0.03 eAED:0.03 QI:268|0.66|0.71|0.85|0.83|0.71|7|46|384
+#=GS Psec_k119Scf2397707g0000010.1/131-164   DE [subseq from] protein AED:0.00 eAED:0.50 QI:0|0|0|1|1|1|2|0|284
+#=GS Psec_k119Scf2433415g0000010.1/5-36      DE [subseq from] protein AED:0.10 eAED:0.10 QI:198|1|1|1|0.8|0.66|6|365|295
+#=GS Psec_k119Scf2426442g0000010.1/6-27      DE [subseq from] protein AED:0.27 eAED:0.29 QI:0|0|0|1|1|1|2|0|156
+#=GS Psec_k119Scf2422970g0000040.1/54-110    DE [subseq from] protein AED:0.03 eAED:0.03 QI:71|1|1|1|1|1|6|440|468
+#=GS Psec_k119Scf2380840g0000010.1/24-68     DE [subseq from] protein AED:0.31 eAED:0.44 QI:117|0.25|0.2|0.8|1|1|5|0|97
+#=GS Psec_k119Scf2415888g0000010.1/54-92     DE [subseq from] protein AED:0.11 eAED:0.20 QI:0|0|0|1|1|1|2|0|114
+#=GS Psec_k119Scf2424670g0000010.1/495-549   DE [subseq from] protein AED:0.25 eAED:0.25 QI:334|1|0.77|1|0.75|0.66|9|233|615
+#=GS Psec_k119Scf2426145g0000010.1/16-61     DE [subseq from] protein AED:0.03 eAED:-0.03 QI:0|-1|0|1|-1|1|1|0|103
+#=GS Psec_k119Scf2436549g0000050.1/22-54     DE [subseq from] protein AED:0.10 eAED:0.10 QI:0|0.6|0.33|0.83|1|1|6|0|357
+#=GS Psec_k119Scf2418193g0000020.1/50-100    DE [subseq from] protein AED:0.20 eAED:0.20 QI:228|0.8|0.66|1|1|1|6|653|466
+#=GS Psec_k119Scf2434279g0000010.1/1096-1134 DE [subseq from] protein AED:0.04 eAED:0.04 QI:0|0.96|0.93|1|0.86|0.96|30|684|1481
+
+Psec_k119Scf2390014g0000010.1/2-129             -GRSPCC.DETG-LKKGPWTPEE.......DQKLINYI..K..KHGHG.................SWRALPK.LAG................LNRCGK...SCRLRWTN..YLR.PDIKR........G.KFSQEEEQ....T....I....LN....L....HA.ILGN..............KWSAIATHLP.GRTDN
+#=GR Psec_k119Scf2390014g0000010.1/2-129     PP .689999.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432305g0000010.1/2-130             -GRSPCC.EKAH-TNKGAWTKEE.......DQRLINYI..R..AHGEG.................CWRSLPK.SAG................LLRCGK...SCRLRWIN..YLR.PDLKR........G.NFTEEEDD....L....I....IK....L....HS.LLGN..............KWSVIAGRLP.GRTDN
+#=GR Psec_k119Scf2432305g0000010.1/2-130     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2417231g0000010.1/2-129             -GRSPCC.DESG-LKKGPWTPEE.......DQKLTNYI..N..KHGHG.................SWRALPK.LAG................LNRCGK...SCRLRWTN..YLR.PDIKR........G.KFSQEEEQ....T....I....LN....L....HA.VLGN..............KWSAIATHLP.GRTDN
+#=GR Psec_k119Scf2417231g0000010.1/2-129     PP .689999.9998.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2374962g0000010.1/2-128             -GRSPCC.DENG-LKKGPWTPEE.......DKKLVDYI..D..KHGHG.................SWRALPK.LAG................LNRCGK...SCRLRWTN..YLR.PDIKR........G.KFSEEEEQ....T....I....LH....L....HS.ILGN..............KWSAIATHLP.GRTDN
+#=GR Psec_k119Scf2374962g0000010.1/2-128     PP .689999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2412346g0000010.1/2-130             -GRSPCC.EKAH-TNKGAWTKEE.......DQRLINYI..R..THGEG.................CWRSLPK.AAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.NFTEEEDE....L....I....IK....L....HS.LLGN..............KWSVIAGRLP.GRTDN
+#=GR Psec_k119Scf2412346g0000010.1/2-130     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2419965g0000010.1/1-130             MGRSPCC.DKVG-LKKGPWTPEE.......DQKLLAYI..E..EHGHG.................SWRALPA.KAG................LQRCGK...SCRLRWTN..YLR.PDIKR........G.KFTLQEEQ....T....I....IQ....L....HA.LLGN..............RWSAIATHLP.KRTDN
+#=GR Psec_k119Scf2419965g0000010.1/1-130     PP 56899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2389022g0000020.1/2-128             -GRTPCC.DKNG-LKKGPWTAEE.......DQKLIDYI..Q..KHGSG.................NWRTLPK.NAG................LQRCGK...SCRLRWSN..YLR.PDIKR........G.KFSFEEEE....T....I....IQ....L....HS.ILGN..............KWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2389022g0000020.1/2-128     PP .688999.9998.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2428461g0000010.1/2-128             -GRAPCC.DKNG-LKKGPWTPEE.......DQKLIDYI..K..EHGYG.................NWRTLPK.NAG................LQRCGK...SCRLRWTN..YLR.PDIKR........G.RFSFEEEE....T....I....IQ....L....HS.VLGN..............KWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2428461g0000010.1/2-128     PP .68999*.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2421448g0000010.1/2-127             -GRTPCC.EKNG-LKKGPWTQEE.......DQKLIDYI..Q..KHGYG.................NWRVLPK.SAG................LQRCGK...SCRLRWTN..YLR.PDIKR........G.RFSFEEEE....T....I....IQ....L....HS.ILGN..............KWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2421448g0000010.1/2-127     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2416623g0000020.1/2-130             -GRSPCC.EKEH-TNKGAWTKEE.......DERLTKYI..K..EHGEG.................CWRTLPK.AAG................LLRCGK...SCRLRWIN..YLR.PDLKR........G.NFTEEEDE....L....I....IN....L....HS.LLGN..............KWSLIAARLP.GRTDN
+#=GR Psec_k119Scf2416623g0000020.1/2-130     PP .689999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2414886g0000190.1/2-130             -GRSPCC.EKAH-TNKGAWTKEE.......DERLIAYI..R..THGEG.................CWRSLPK.AAG................LLRCGK...SCRLRWIN..YLR.PDLKR........G.NFTDEEDE....L....I....IK....L....HS.LLGN..............KWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2414886g0000190.1/2-130     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2433055g0000010.1/2-131             -GRSPCC.EKAH-TNKGAWTKEE.......DERLVAYI..R..AHGEG.................CWRSLPK.AAG................LLRCGK...SCRLRWIN..YLR.PDLKR........G.NFTEEEDE....L....I....IK....L....HS.LLGN..............KWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2433055g0000010.1/2-131     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2407832g0000010.1/2-130             -GRSPCC.EKAH-TNKGAWTKEE.......DERLIAYI..K..AHGEG.................CWRSLPK.AAG................LLRCGK...SCRLRWIN..YLR.PDLKR........G.NFTEDEDE....L....I....IK....L....HS.LLGN..............KWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2407832g0000010.1/2-130     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2421033g0000010.1/2-128             -GRSPCC.DKNG-LKKGPWTPEE.......DHKLIQYI..Q..VHGPG.................NWRNLPK.NAG................LQRCGK...SCRLRWTN..YLR.PDIRR........G.RFSFEEEE....T....I....IQ....L....HS.VLGN..............KWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2421033g0000010.1/2-128     PP .68999*.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425589g0000010.1/2-128             -GRSPCC.DKNG-LKKGPWTPEE.......DLKLIQYI..Q..VHGPG.................NWRTLPK.NAG................LQRCGK...SCRLRWTN..YLR.PDIKR........G.RFSFDEEE....T....I....IQ....L....HS.VLGN..............KWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2425589g0000010.1/2-128     PP .68999*.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2416361g0000020.1/2-127             --RKACC.DNKEEMHRGAWSKQE.......DQKLIDYI..T..KHGAG.................CWRNLPK.AAG................LLRCGK...SCRLRWMN..YLS.PNLKR........G.NFSEDEED....L....I....IK....L....HA.LLGN..............RWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2416361g0000020.1/2-127     PP ..789**.***************.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2414978g0000110.1/14-141            --RSAES.DDMSGLKKGPWTPEE.......DQQLLDYI..H..KNGHG.................NWRALPK.LAG................LNRCGK...SCRLRWTN..YLR.PDIKR........G.KFSEDEER....L....I....IK....L....HS.LLGN..............KWSAIATRLP.GRTDN
+#=GR Psec_k119Scf2414978g0000110.1/14-141    PP ..66677.78888**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf262883g0000010.1/1-130              MGRSPCC.DKVG-LKKGPWTPEE.......DQKLLAYI..E..QHSHG.................SWRALPI.KAG................LQRCGK...SCRLRWTN..YLR.PDIKR........G.KFTQQEEQ....T....I....IQ....L....HA.LLGN..............RWSAIATHLS.KRTDN
+#=GR Psec_k119Scf262883g0000010.1/1-130      PP 56899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2433381g0000010.1/2-131             -GRYPCC.KLDNDLKKGPWTAEE.......DEKLKEYI..Q..GHGHG.................NWQLVPK.RAG................LNRCGK...SCRLRWTN..YLR.PDIIR........G.GFSDDEEQ....M....I....IN....L....HS.VLGN..............KWSRIAAHLP.GRTDN
+#=GR Psec_k119Scf2433381g0000010.1/2-131     PP .5789**.***************.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2386894g0000010.1/12-139            -GRTPCC.DKKG-LKKGPWTPEE.......DEKLVEYI..K..KHGHT.................SWRSLPN.LAG................LDRCGK...SCRLRWTN..YLR.PDIKR........G.PFSQEEEK....L....V....IQ....L....HG.ILGN..............RWAAIASQLP.GRTDN
+#=GR Psec_k119Scf2386894g0000010.1/12-139    PP .68999*.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2428950g0000010.1/2-130             -GKSKCC.DKEG-LKKGPWTPEE.......DQKLLSCI..E..EHGCG.................SWRALPA.KAG................LQRCGK...SCRLRWIN..YLR.PDIKR........G.KFSLQEER....T....I....IQ....L....HA.LLGN..............RWSAMAAYLP.SRTDN
+#=GR Psec_k119Scf2428950g0000010.1/2-130     PP .578899.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2435640g0000020.1/2-130             -GRHSCC.YKQK-LRKGLWSPEE.......DEKLIKHI..T..KYGHG.................CWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.TFSQEEEN....S....I....IE....L....HA.LLGN..............KWSQIAARLP.GRTDN
+#=GR Psec_k119Scf2435640g0000020.1/2-130     PP .588899.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2403504g0000010.1/2-130             -GRHSCC.YKQK-LRKGLWSPEE.......DEKLVKHI..T..KYGHG.................CWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.TFSQEEEN....L....I....VE....L....HA.VLGN..............KWSQIAARLP.GRTDN
+#=GR Psec_k119Scf2403504g0000010.1/2-130     PP .578899.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2430705g0000010.1/8-136             -GRHSCC.YKQK-LRKGLWSPEE.......DEKLINHI..T..KYGHG.................CWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.TFSQEEEN....L....I....IE....L....HA.VLGN..............KWSQIAARLP.GRTDN
+#=GR Psec_k119Scf2430705g0000010.1/8-136     PP .588899.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2392922g0000010.1/2-129             -GRRPCC.EKKG-LKKGPWTPDE.......DDKLIEYI..K..KNGHG.................SWRSLPK.LAG................LLRCGK...SCRLRWTN..YLR.PDIKR........G.PFSHEEEK....L....V....IQ....L....HG.ILGN..............RWAAIAAQLP.GRTDN
+#=GR Psec_k119Scf2392922g0000010.1/2-129     PP .688999.9998.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2397663g0000020.1/2-130             -GRIPCC.EKEN-VKRGQWTPEE.......DHKLSSYI..A..QHGTR.................NWRLIPK.HAG................LQRCGK...SCRLRWTN..YLR.PDLKH........G.QFSEAEEQ....T....I....VT....L....HS.VLGN..............RWSVIAAQLP.GRTDN
+#=GR Psec_k119Scf2397663g0000020.1/2-130     PP .577899.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2419405g0000110.1/2-130             -GRAPCC.VKEG-LRKGPWSAKE.......DSLLTNYI..N..QHGEG.................QWRSLPK.NAG................LLRCGK...SCRLRWMN..YLR.PGIKR........G.NFSEDEDD....L....I....VR....L....HS.LLGN..............RWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2419405g0000110.1/2-130     PP .688999.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2427329g0000010.1/2-129             -GRAPCC.EKMG-LKKGPWTPEE.......DQILVSYI..E..KNGHG.................NWRALPK.LAG................LLRCGK...SCRLRWTN..YLR.PDIKR........G.NFTREEED....T....I....IQ....L....HE.MLGN..............RWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2427329g0000010.1/2-129     PP .688999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2406902g0000010.1/3-127             --RAPCC.EKMG-LKRGPWTSEE.......DQILISFI..Q..RYGHE.................NWRALPR.QAG................LLRCGK...SCRLRWIN..YLR.PDIKR........G.NFSEEEEE....T....I....IE....M....HQ.VLGN..............RWSAIASRLP.GRTDN
+#=GR Psec_k119Scf2406902g0000010.1/3-127     PP ..78999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2419243g0000010.1/49-177            -GRSPCC.EKLG-LKKGPWTPEE.......DQKLMACI..E..KHGCG.................SWRALPA.KAG................LKRCGK...SCRLRWIN..YLR.PDIKR........G.KFSLQEEQ....T....I....IQ....L....HA.LLGN..............RWSAIATHLA.NRTDN
+#=GR Psec_k119Scf2419243g0000010.1/49-177    PP .589999.9998.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2373829g0000010.1/15-141            ---TPCC.SKVG-LKRGPWTPEE.......DEILTNYI..N..KEGEG.................RWRTLPK.KAG................LLRCGK...SCRLRWMN..YLR.PSVKR........G.HIAPDEED....L....I....LR....L....HR.LLGN..............RWSLIAGRIP.GRTDN
+#=GR Psec_k119Scf2373829g0000010.1/15-141    PP ...5789.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2393697g0000010.1/2-131             -GRYPCC.KDDEDLKKGPWAPDE.......DEKLMDYI..N..KHGHT.................NWQLLPK.KAG................LNRCGK...SCRLRWSN..YLK.PDIKR........G.KFSIEEEE....M....I....IN....L....HS.LLGN..............KWSRIAAHLP.GRTDN
+#=GR Psec_k119Scf2393697g0000010.1/2-131     PP .5789**.***************.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2409468g0000030.1/2-130             -GRHACC.VKQK-LRKGLWSPEE.......DEKLCNYI..T..KFGVG.................SWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.MFSQDEED....M....I....IS....L....HQ.VLGN..............RWAQIAVQLP.GRTDN
+#=GR Psec_k119Scf2409468g0000030.1/2-130     PP .578888.8877.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2411515g0000020.1/2-129             -GRAPCC.DKEG-LKKGPWAPEE.......DEKLIEYI..K..NNGHN.................GWRSLPK.LAG................LLRCGK...SCRLRWTN..YLR.PDIKR........G.PFSEEEEK....L....I....IQ....F....HG.ILGN..............RWAAIAAQLP.GRTDN
+#=GR Psec_k119Scf2411515g0000020.1/2-129     PP .6899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2415437g0000080.1/93-180            -------.-----RAKGGWTPEE.......DNTLRRAV..A..TYRGK.................SWKKIAE.FFT................-DRSEV...QCLHRWQK..VLN.PELVK........G.PWTQEEDD....K....I....IE....L....VA.KYGP.............iKWSVIAKSLP.GR---
+#=GR Psec_k119Scf2415437g0000080.1/93-180    PP .............5799******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.***8.............8**********.*9...
+Psec_k119Scf2415437g0000080.1/145-248           -------.-----LVKGPWTQEE.......DDKIIELV..A..KYGPI.................KWSVIAK.SLP................-GRIGK...QCRERWHN..HLN.PNIRK........D.AWTLEEEL....A....L....VN....A....HR.VYGN..............KWAEIAKVLP.GRTDN
+#=GR Psec_k119Scf2415437g0000080.1/145-248   PP .............579*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2391299g0000020.1/5-131             ----SSF.VKEK-LRKGLWSPEE.......DEKLYNYI..T..KFGVG.................CWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.MFSQEEED....M....I....IS....L....HQ.VLGN..............RWAQIAAQLP.GRTDN
+#=GR Psec_k119Scf2391299g0000020.1/5-131     PP ....444.5555.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2423575g0000010.1/35-122            -------.-----STKGQWTPEE.......DEILRKAV..Q..RFKGK.................NWKKIAE.CFK................-DRTDV...QCLHRWQK..VLN.PELVK........G.PWSKEEDE....V....I....VE....L....VK.KYGP.............kKWSTIAQHLP.GR---
+#=GR Psec_k119Scf2423575g0000010.1/35-122    PP .............689*******.......********..*..**999.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.**96.............59*********.*9...
+Psec_k119Scf2423575g0000010.1/87-191            -------.-----LVKGPWSKEE.......DEVIVELV..K..KYGPK.................KWSTIAQ.HLP................-GRIGK...QCRERWHN..HLN.PSINK........E.AWTQEEEL....T....L....IR....A....HQ.IYGN..............KWAELTKYLP.GRTDN
+#=GR Psec_k119Scf2423575g0000010.1/87-191    PP .............579*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2423609g0000010.1/1-130             MGRQPCC.DKVG-LKKGPWTADE.......DKKLINFI..L..SNGQC.................CWRAVPK.LAG................LLRCGK...SCRLRWTN..YLR.PDLKR........G.LLSEYEEK....M....V....ID....L....HA.QLGN..............RWSKIASHLP.GRTDN
+#=GR Psec_k119Scf2423609g0000010.1/1-130     PP 56899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2416406g0000020.1/1-130             MGRQPCC.DKLG-VKKGPWTAEE.......DKKLISFI..L..TNGQC.................CWRAVPK.LAG................LRRCGK...SCRLRWTN..YLR.PDLKR........G.LLSDAEEK....L....V....ID....L....HS.RLGN..............RWSKIAARLP.GRTDN
+#=GR Psec_k119Scf2416406g0000020.1/1-130     PP 56899**.*999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2383591g0000010.1/1-130             MGRQPCC.DKAG-VKKGPWSAEE.......DKKLINFI..L..NNGQC.................CWRALPR.LAG................LTRCGK...SCRLRWTN..YLR.PDLKR........G.LLSGYEET....M....V....IE....L....HA.QLGN..............RWSKIASHLP.GRTDN
+#=GR Psec_k119Scf2383591g0000010.1/1-130     PP 56899**.*999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2381926g0000010.1/3-129             --RAPCC.EKMG-LKKGPWTPNE.......DQILISYI..R..KNGHG.................NWRALPK.QAG................LLRCGK...SCRLRWTN..YLR.PDIKR........G.NFTKEEED....T....I....IQ....S....HE.MLGN..............RWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2381926g0000010.1/3-129     PP ..78999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2431997g0000110.1/3-124             --HHSCC.NKQK-VKRGLWSPEE.......DEKLIKYI..T..TYGHG.................CWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.SFSHQEAA....L....I....IE....L....HS.ILGN..............RWAQIAKHLP.GRTDN
+#=GR Psec_k119Scf2431997g0000110.1/3-124     PP ..56777.7766.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2422999g0000010.1/18-143            ---HHCC.SKQK-VKRGLWSPEE.......DEKLVRHI..T..THGHG.................CWSSVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLRR........G.SFTEQEER....T....I....ID....V....HR.ILGN..............RWAQIAKHLP.GRTDN
+#=GR Psec_k119Scf2422999g0000010.1/18-143    PP ...5777.7777.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2401007g0000040.1/72-159            -------.-----SSQAGWTEEE.......DYLLSEVV..K..RYNGR.................NWKKIAE.CMS................-GRTDV...QCLHRWQK..VLN.PELVK........G.PWTKEEDD....V....I....VE....L....VE.KYGC.............kKWSLIAKSLP.GR---
+#=GR Psec_k119Scf2401007g0000040.1/72-159    PP .............56788*****.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.***6.............59*********.*9...
+Psec_k119Scf2401007g0000040.1/126-232           -------.-------KGPWTKEE.......DDVIVELV..E..KYGCK.................KWSLIAK.SLP................-GRIGK...QCRERWHN..HLD.PTIKR........D.AWTEQEES....V....L....LH....Y....HQ.IYGN..............KWADIARFLP.GRTDN
+#=GR Psec_k119Scf2401007g0000040.1/126-232   PP ...............79******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432755g0000020.1/2-127             -GRRPCC.SKEG-LNKGAWTPME.......DKILIDYI..K..VHGEG.................KWRNLPK.KAG................LKRCGK...SCRLRWLN..YLR.PDIKR........G.NITRDEED....L....I....IR....L....HK.LLGN..............RWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2432755g0000020.1/2-127     PP .688999.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2435063g0000040.1/5-132             ----PCCkDDDDNLKKGPWTEDE.......DEKLIDYI..K..KNGHT.................NWQSLAR.KAG................LNRCGK...SCRLRWNN..YLR.PDIKR........G.RFSPEEEE....I....I....IN....L....HS.DLGN..............KWSKIAAHLP.GRTDN
+#=GR Psec_k119Scf2435063g0000040.1/5-132     PP ....555155678**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2436442g0000040.1/3-128             ---HHCC.SKQK-VKRGLWSPEE.......DEKLIRYI..S..NHGHN.................CWSSVPK.LTG................LQRCGK...SCRLRWIN..YLR.PDVKR........G.SFSEAEER....T....I....ID....V....HR.ILGN..............RWAQIAKHLP.GRTDN
+#=GR Psec_k119Scf2436442g0000040.1/3-128     PP ...5677.7777.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2417684g0000090.1/2-126             -GRPPCC.DKIG-VKKGPWTPEE.......DIILVSYI..Q..EHGPG.................NWRAVPT.NTG................LLRCSK...SCRLRWTN..YLR.PGIKR........G.NFSEHEEK....M....I....IH....L....QA.LLGN..............RWAAIASYLP.QRTDN
+#=GR Psec_k119Scf2417684g0000090.1/2-126     PP .57899*.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2421323g0000010.1/2-127             -GRPPCC.DKIG-VKKGPWTPEE.......DIILVSYI..Q..QHGPG.................NWRAVPT.NTG................LLRCSK...SCRLRWTN..YLR.PGIKR........G.NFTEHEEK....M....I....IH....L....QA.LLGN..............RWAAIASYLP.QRTDN
+#=GR Psec_k119Scf2421323g0000010.1/2-127     PP .57899*.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2426471g0000030.1/2-130             -GRPPCC.DKTN-VKRGPWTAEE.......DAKILAYV..A..SHGIG.................NWTLVPQ.KAG................LNRCGK...SCRLRWTN..YLR.PDLKH........D.NFTPQEEE....S....I....LE....F....HK.TVGS..............RWSLIAKQLP.GRTDN
+#=GR Psec_k119Scf2426471g0000030.1/2-130     PP .578999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2431678g0000020.1/2-127             -GRPPCC.DKIG-VKKGPWTPEE.......DIILVSYI..Q..EHGPG.................NWRAVPT.NTG................LLRCSK...SCRLRWTN..YLR.PGIKR........G.NFTEHEEK....M....I....IH....L....QA.LLGN..............RWAAIASYLP.QRTDN
+#=GR Psec_k119Scf2431678g0000020.1/2-127     PP .57899*.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2435063g0000030.1/10-138            -GRSPCC.TNNN-LNKGAWTKEE.......DEILGNYV..K..IHGAA.................KWNILCK.KAG................LNRCGK...SCRLRWTN..YLR.PDIKR........G.NFSEEEDS....L....I....IN....L....HS.SLGN..............KWSKIASQLP.GRTDN
+#=GR Psec_k119Scf2435063g0000030.1/10-138    PP .588999.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2436581g0000010.1/2-121             -GRPPCC.DKVG-VKKGPWTPEE.......DIMLVSYV..Q..EHGPG.................NWRAVPT.KTG................LRRCSK...SCRLRWTN..YLR.PGIKR........G.NFTDQEEK....M....I....IQ....L....QA.LLGN..............KWAAIASYLP.ERTDN
+#=GR Psec_k119Scf2436581g0000010.1/2-121     PP .578999.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2404695g0000010.1/2-123             -GRPPCC.DKIG-VKKGPWTPEE.......DIMLVSYV..Q..EHGPG.................NWRAVPN.STG................LRRCSK...SCRLRWTN..YLR.PGIKR........G.SFTDQEEK....M....I....IQ....L....QA.LLGN..............KWAAIASYLP.ERTDN
+#=GR Psec_k119Scf2404695g0000010.1/2-123     PP .57899*.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2427249g0000010.1/2-122             -GRPPCC.DKIG-IKKGPWTPEE.......DIILVSYI..Q..EHGPG.................NWRSVPT.NTG................LMRCSK...SCRLRWTN..YLR.PGIKR........G.NFTSHEEG....M....I....IH....L....QA.LLGN..............KWAAIASYLP.QRTDN
+#=GR Psec_k119Scf2427249g0000010.1/2-122     PP .57899*.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2434830g0000130.1/1-129             MGRQPCC.DRVG-LKRGPWTIEE.......DHKLVNFL..L..NNGIQ.................CWRTVPK.LAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.TLSEDEED....Q....I....IQ....L....HA.RLGN..............RWSKIASNFP.GRTDN
+#=GR Psec_k119Scf2434830g0000130.1/1-129     PP 568999*.*999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2436209g0000010.1/2-120             -GRAPCC.EKVG-LKRGRWTAEE.......DETLTNYI..L..TNGEG.................SWRSLPK.NAG................LLRCGK...SCRLRWIN..YLR.SDLKR........G.NITSEEEN....I....I....IK....L....HA.TLGN..............RWSLIAGHLP.GRTDN
+#=GR Psec_k119Scf2436209g0000010.1/2-120     PP .6899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2433734g0000070.1/2-125             -GRTPCC.EKLG-LNRGPWSKKE.......DDILINYI..D..KHGHP.................NWRQLPK.LAG................LLRCGK...SCRLRWTN..YLR.PEIKR........G.NFTPEEED....T....I....IK....L....HQ.VLGN..............RWSVIAAKLP.GRTDN
+#=GR Psec_k119Scf2433734g0000070.1/2-125     PP .688999.9998.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432528g0000030.1/1-132             MGRKPCC.DKVG-VKKGPWTTEE.......DKKLISFLvtN..NIGQC.................CWRSVPK.LAG................LRRCGK...SCRLRWTN..YLR.PDLKR........G.LLTEAEEN....L....V....ID....L....HS.CLGN..............RWSKIAARLP.GRTDN
+#=GR Psec_k119Scf2432528g0000030.1/1-132     PP 56899**.**99.**********.......******98334..56999.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2418117g0000020.1/1-130             MGRQPCC.DKIG-LKRGPWTIEE.......DHKLMNFI..L..NNGIQ.................CWRLVPK.LAG................LMRCGK...SCRLRWIN..YLR.PDLKR........G.ALTEAEED....M....I....IK....L....HS.QLGN..............RWSKIAAHFP.GRTDN
+#=GR Psec_k119Scf2418117g0000020.1/1-130     PP 56899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2435225g0000050.1/3-129             --KRTCN.SQDVEVRKGPWTMEE.......DLILINYI..A..NHGEG.................VWNSLAR.SAG................LKRTGK...SCRLRWLN..YLR.PDVRR........G.NITPEEQL....L....I....ME....L....HA.KWGN..............RWSKIAKHLP.GRTDN
+#=GR Psec_k119Scf2435225g0000050.1/3-129     PP ..67888.99999**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2430424g0000010.1/3-125             --RAPCC.EKVG-IKRGRWTAEE.......DELLLKYI..Q..ANGEG.................SWRSLPK.NAG................LLRCGK...SCRLRWTN..YLR.PNLKR........G.KFTSEEDE....T....I....FK....L....QC.SLGN..............RWSLMASYLP.GRTDN
+#=GR Psec_k119Scf2430424g0000010.1/3-125     PP ..78999.9999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2427006g0000010.1/2-120             -GRAPCC.EKVG-LKRGRWTAEE.......DEILTKYI..H..ANGEG.................SWRSLPK.NAG................LLRCGK...SCRLRWIN..YLK.TDLKR........G.NITPEEEA....I....I....IK....L....RA.TLGN..............RWSLIAEHLP.GRTDN
+#=GR Psec_k119Scf2427006g0000010.1/2-120     PP .6899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2434399g0000030.1/21-138            ------N.NANMKLRKGLWSPEE.......DEKLMHYM..L..TNGQG.................CWSDVAR.NAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.AFSPQEEE....L....I....IH....L....HS.LLGN..............RWSQIAARMP.GRTDN
+#=GR Psec_k119Scf2434399g0000030.1/21-138    PP ......5.66788**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2426520g0000060.1/1-129             MGRQPCC.DKVG-LKRGPWTIEE.......DHKLLNFI..L..NNGIQ.................CWRIVPK.HAG................LLRCGK...SCRLRWIN..YLR.PDLKR........G.PLSEAEEN....Q....I....IQ....L....HA.RLGN..............RWSKIASYFP.GRTDN
+#=GR Psec_k119Scf2426520g0000060.1/1-129     PP 56899**.**99.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2409137g0000010.1/12-139            --EKGNN.NNKAKLRKGLWSPEE.......DEKLMNYM..L..TNGQG.................CWSDIAR.NAG................LQRCGK...SCRLRWIN..YLR.PDLKR........G.AFSPQEEE....L....I....VH....L....HS.ILGN..............RWSQIAARLP.GRTDN
+#=GR Psec_k119Scf2409137g0000010.1/12-139    PP ..55667.78888**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2405584g0000020.1/1-127             MGRKPCC.SKVG-MRKGAWTAAE.......DKLLTNYI..E..LNGEG.................NWRSLPM.KAG................LLRCGK...SCRLRWVN..YLR.PGIKR........G.NFSPEEDD....L....I....IR....L....HT.LLGG..............RWSLIAGRLS.GRTDN
+#=GR Psec_k119Scf2405584g0000020.1/1-127     PP 56899**.*999.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2394949g0000010.1/23-148            --NQQQH.DEDMDLRRGPWTVEE.......DFALMNYI..A..HHGEG.................RWNSLAR.CAG................LKRTGK...SCRLRWLN..YLR.PDVRR........G.NITLEEQL....L....I....LE....L....HS.RWGN..............RWSKIAQHLP.GRTDN
+#=GR Psec_k119Scf2394949g0000010.1/23-148    PP ..56788.99999**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2419119g0000010.1/11-133            -----SH.EDEFELRRGPWTLEE.......DNLLIHYI..S..SHGEG.................RWNALAK.CAG................LKRTGK...SCRLRWLN..YLK.PDIKR........G.NLTPQEQL....L....I....LE....L....HS.KWGN..............RWSKIAQHLP.GRTDN
+#=GR Psec_k119Scf2419119g0000010.1/11-133    PP .....45.566679*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2400874g0000020.1/2-130             -GRAPCC.DKAN-VKRGPWSPEE.......DAKLKAYI..E..LHGTG................gNWITLPQ.KVG................LKRCGK...SCRLRWLN..YLR.PNIKH........G.EFTEEEDN....I....I....CS....L....YI.SIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2400874g0000020.1/2-130     PP .689999.9988.**********.......********..*..****9................9*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2420980g0000090.1/2-125             -GRAPCC.DKEN-VKRGPWSPEE.......DATLKSYI..E..KHGIG................gNWIALPQ.KAG................LRRCGK...SCRLRWLN..YLR.PNIKH........G.EFSDEEER....I....I....CS....L....YA.NIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2420980g0000090.1/2-125     PP .68999*.*999.**********.......********..*..***98................8*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2423828g0000010.1/2-127             -GRAPCC.DKAN-VKRGPWSPEE.......DAKLKEFI..E..KYGTG................gNWIALPQ.KAG................LKRCGK...SCRLRWLN..YLR.PNIKH........G.DFSDEEDR....I....I....CS....L....YT.NIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2423828g0000010.1/2-127     PP .689999.9988.**********.......********..*..****9................9*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2410777g0000010.1/5-126             ------N.ASTSGVRKGAWTEEE.......DLLLRECI..E..KYGEG.................KWHLVPV.RAG................LNRCRK...SCRLRWLN..YLR.PHIKR........G.DFSLDEVE....L....I....LR....L....HK.LLGN..............RWSLIAGRLP.GRTAN
+#=GR Psec_k119Scf2410777g0000010.1/5-126     PP ......4.55667**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2417524g0000010.1/30-152            -----RE.EDIMDLRRGPWTVEE.......DFTLINFI..A..HHGEG.................RWNSLAR.CAG................LKRTGK...SCRLRWLN..YLR.PDVRR........G.NITLEEQL....L....I....LE....L....HS.RWGN..............RWSKIAQHLP.GRTDN
+#=GR Psec_k119Scf2417524g0000010.1/30-152    PP .....56.77899**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2412816g0000020.1/2-129             -GRAPCC.DKNS-VKKGPWSPEE.......DAKLKAYI..E..QHGTC................gNWIALPQ.KIG................LKRCGK...SCRLRWLN..YLR.PNIKH........G.GFSEEEDN....I....I....LS....L....YI.SIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2412816g0000020.1/2-129     PP .688999.9988.**********.......********..*..****8................8*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425053g0000020.1/2-125             -GRAPCC.DKAN-VKKGPWSPEE.......DAKLKEYI..E..KSGTG................gNWIALPH.KAG................LRRCGK...SCRLRWLN..YLR.PNIKH........G.EFSDEEDR....V....I....CT....L....YA.SIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2425053g0000020.1/2-125     PP .689999.9988.**********.......********..*..****9................9*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2380509g0000010.1/11-130            -------.SDQQEWRKGPWTPEE.......DKLLSEYV..N..LHGEG.................RWSSVSR.CAG................LNRTGK...SCRLRWVN..YLR.PGLKR........G.HITPQEEG....I....I....IE....L....HA.LWGN..............KWSTIARYLP.GRTDN
+#=GR Psec_k119Scf2380509g0000010.1/11-130    PP ........556779*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432511g0000010.1/2-119             -GRAPCC.DKAN-VKRGPWSPEE.......DAKLKDFI..H..KYGTG................gNWIALPQ.KAG................LKRCGK...SCRLRWLN..YLR.PNIKH........G.DFSDEEDR....I....I....CS....L....YS.TIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2432511g0000010.1/2-119     PP .689999.9988.**********.......********..*..****9................9*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2436577g0000010.1/8-127             -------.KTKQKHKKGLWSPDE.......DDKLRNYI..I..NHGHG.................CWSSVPI.NAG................LQRNGK...SCRLRWIN..YLR.PGLKR........G.AFSLEEED....T....I....LT....L....HA.MFGN..............KWSQIAQHLP.GRTDN
+#=GR Psec_k119Scf2436577g0000010.1/8-127     PP ........556779*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2403461g0000010.1/59-183            -GRAPCC.DKAS-VKKGPWSPEE.......DARLKAYI..E..EHGTG................nNWIALPQ.KIG................LKRCGK...SCRLRWLN..YLR.PNIRH........G.GFTEEEDN....I....I....CS....L....YI.SIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2403461g0000010.1/59-183    PP .589999.9988.**********.......********..*..****9................89******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2424849g0000050.1/910-1027          ------D.D-DIGLRRGPWTVEE.......DTLLVHYI..S..HHGEG.................RWNILAK.RAG................LKRTGK...SCRLRWLN..YLK.PDVKR........G.NLTPQEQL....L....I....LE....L....HS.KIGN..............RWSKIAQYLP.GRTDN
+#=GR Psec_k119Scf2424849g0000050.1/910-1027  PP ......3.3.4459*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2436291g0000060.1/14-130            -------.---EGWRKGPWTAEE.......DKLLIEYV..K..LHGEG.................RWNSVAR.LAG................LKRNGK...SCRLRWVN..YLR.PDLKR........G.QITPHEER....I....I....LE....L....HA.RWGN..............RWSTIARSLP.GRTDN
+#=GR Psec_k119Scf2436291g0000060.1/14-130    PP ...........4589********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425290g0000010.1/13-128            -------.---DEWRKGPWTAEE.......DRLLIEYV..N..LHGEG.................RWNSVAR.LAG................LKRNGK...SCRLRWVN..YLR.PDLKR........G.QITPYEER....I....I....LE....L....HA.IWGN..............RWSTIARSLP.GRTDN
+#=GR Psec_k119Scf2425290g0000010.1/13-128    PP ...........5689********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2434278g0000010.1/24-137            -------.-SRQVLKKGPWTAAE.......DSILMEYV..K..KHGEG.................NWNAVQR.NSG................LMRCGK...SCRLRWAN..HLR.PNLKK........G.AFTVEEER....I....I....IE....L....HA.KLGN..............KWARMAAQLP.GRTDN
+#=GR Psec_k119Scf2434278g0000010.1/24-137    PP .........56789*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2417751g0000020.1/61-154            -------.------AKGGWTPEEikspfpqDDTLRRAV..A..AYRGK.................CWKKIAE.FFP................-DRSEV...QCLHRWQK..VLN.PELVK........G.PWNREEDE....K....I....IE....L....VA.KYGP.............tKWSVIARSLP.GR---
+#=GR Psec_k119Scf2417751g0000020.1/61-154    PP ..............678888886666666699******..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.**96.............6**********.*9...
+Psec_k119Scf2417751g0000020.1/119-222           -------.-----LVKGPWNREE.......DEKIIELV..A..KYGPT.................KWSVIAR.SLP................-GRIGK...QCRERWHN..HLD.PTIKK........D.AWTLEEER....A....L....MD....A....HR.IHGN..............KWAEIAKVLP.GRTDN
+#=GR Psec_k119Scf2417751g0000020.1/119-222   PP .............579*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2369416g0000010.1/2-127             -GRAPCC.DRSS-VKKGPWSPEE.......DAKLKAYI..E..QNGTG................gNWIALPQ.KIG................LKRCRK...SCRLRWLN..YLR.PNIKH........G.GFSEEEDR....N....I....CS....L....YI.SIGS..............RWSIIAAQLP.GRTDN
+#=GR Psec_k119Scf2369416g0000010.1/2-127     PP .688999.9988.**********.......********..*..****9................9*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425677g0000030.1/27-147            ------E.EDDMDFKRGSWTVEE.......DFTLINHI..A..LHGEG.................RWNSLAR.SSG................LKRTGK...SCRLRWLN..YLR.PDVRR........G.NITLEEQL....L....I....LE....L....HS.RWGN..............RWSKIAQHLP.GRTDN
+#=GR Psec_k119Scf2425677g0000030.1/27-147    PP ......5.67789**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2433087g0000050.1/2-126             -GKQPCC.DNVG-HNRGPWTVEE.......DHKLTNFI..L..NNGIQ.................NWRHVPK.LAG................LVRCGK...SCRLRWMN..HLR.PDLKK........G.AFTEDEEY....M....L....IK....L....QS.QLGN..............RWSKIAAHFP.GRTDN
+#=GR Psec_k119Scf2433087g0000050.1/2-126     PP .578999.9999.9*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2417084g0000060.1/37-142            -------.-----LKKGPWTSAE.......DAILVDYV..T..KHGEG.................NWNAVQK.HSG................LARCGK...SCRLRWAN..HLR.PDLKK........G.AFTPEEER....R....I....IE....L....HA.KMGN..............KWARMAAELP.GRTDN
+#=GR Psec_k119Scf2417084g0000060.1/37-142    PP .............69********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2367010g0000010.1/23-132            -------.---HVLKKGPWTAAE.......DAILMEYV..K..KHGEG.................NWNAVQR.NSG................LMRCGK...SCRLRWAN..HLR.PNLKK........G.AFSLEEER....L....I....VE....L....HA.KLGN..............KWARMAAQMP.GRTDN
+#=GR Psec_k119Scf2367010g0000010.1/23-132    PP ...........5689********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432900g0000020.1/35-141            -------.-----LKKGPWTKAE.......DAILVDYI..T..RHGEG.................NWSAVRK.HSG................LARCGK...SCRLRWAN..HLR.PDLRK........G.AFTPEEER....L....I....IE....L....HA.KMGN..............KWARMAAELP.GRTDN
+#=GR Psec_k119Scf2432900g0000020.1/35-141    PP .............79********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2421816g0000020.1/6-124             -----MD.KPKQKHKRGLWSPDE.......DQKLKDYI..L..RHGHG.................CWSSVPI.NAG................LQRNGK...SCRLRWIN..YLR.PGLKR........G.TFSIEEEE....T....V....LT....L....HG.VFGN..............KWSQIAQHLP.GRTDN
+#=GR Psec_k119Scf2421816g0000020.1/6-124     PP .....45.566779*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2376442g0000010.1/66-153            -------.-----RRSRQWNAEE.......DEILRQAV..Q..QFKGK.................SWKKIAE.CFN................-DRTDV...QCLHRWQK..VLD.PELVK........G.SWTKEEDE....I....L....IE....L....VN.TYGA.............kKWSTVAQHLA.GR---
+#=GR Psec_k119Scf2376442g0000010.1/66-153    PP .............57789*****.......********..*..*9999.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.***8.............68*********.*9...
+Psec_k119Scf2376442g0000010.1/118-223           -------.-----LVKGSWTKEE.......DEILIELV..N..TYGAK.................KWSTVAQ.HLA................-GRIGK...QCRERWHN..HLN.PAINK........E.AWTQEEEL....A....L....IR....A....HQ.IYGN..............KWAELSKVLL.GRTDN
+#=GR Psec_k119Scf2376442g0000010.1/118-223   PP .............579*******.......********..*..*****.................*******.**9.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2423612g0000010.1/25-143            ---TPSI.DKSG-MKRGSWSEEE.......DNKLRSYV..E..RYGHP.................NWRQLPR.YAG................LMRCGK...SCRLRWMN..YLR.PGLKK........G.KYSHEEEQ....L....I....IK....L....HN.QLGN..............RWSTIAEKLP.GRSDN
+#=GR Psec_k119Scf2423612g0000010.1/25-143    PP ...5566.6666.9*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2435132g0000090.1/2-126             -GRAPCC.DKTK-VKRGPWSPDE.......DNTLKNFV..E..KNGTG................gNWIALPQ.KAG................LRRCGK...SCRLRWLN..YLR.PDINH........G.AFTEEEDN....I....I....LT....L....YS.QIGS..............RWSVIAANLQ.GRTDN
+#=GR Psec_k119Scf2435132g0000090.1/2-126     PP .68999*.9998.**********.......********..*..****9................9*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2393709g0000010.1/35-140            -------.-----LKKGPWTSAE.......DAILVEYV..M..KHGEG.................NWNAVQK.HSG................LARCGK...SCRLRWAN..HLR.PDLKK........G.AFTLEEER....R....I....IE....L....HA.KMGN..............KWARMAAELP.GRTDN
+#=GR Psec_k119Scf2393709g0000010.1/35-140    PP .............79********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425964g0000030.1/4-127             ------K.EVKARMKRGFWKPEE.......DLILKNCV..E..THGEG.................NWATISE.KSG................LMRSGK...SCRLRWKN..YLR.PNIKR........G.MMSEDEKD....L....I....IR....L....HK.LLGN..............RWSLIAGRLP.GRTDN
+#=GR Psec_k119Scf2425964g0000030.1/4-127     PP ......4.556679*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2417298g0000030.1/8-126             -------.--KQGWRKGPWTSEE.......DRLLIEYV..N..LHGEG.................RWNSVAK.VAG................LKRNGK...SCRLRWVN..YLR.PDLKK........G.QITSHEEK....L....I....LE....L....HA.RYGN..............RWSTIARNLP.GRSDN
+#=GR Psec_k119Scf2417298g0000030.1/8-126     PP ..........5569*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2423612g0000020.1/3-127             --RTPSV.DKNG-VKRGAWTEEE.......DNKLRAYV..E..RFGHW.................NWRQLPK.YAG................LMRCGK...SCRLRWMN..YLR.PGLKK........G.NYSNEEGQ....L....I....IK....L....HN.ELGN..............RWSAIAEKLP.GRSDN
+#=GR Psec_k119Scf2423612g0000020.1/3-127     PP ..56667.7776.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2408290g0000010.1/3-128             --RTRCY.DK-SGLKKGTWTPEE.......DRKLAAYV..T..RYGCW.................NWRQLPK.FAG................LARCGK...SCRLRWLN..YLQ.PNIKR........G.NYTKEEDQ....I....I....MM....L....HA.EIGN..............KWSAIAAHLP.GRSDS
+#=GR Psec_k119Scf2408290g0000010.1/3-128     PP ..44555.55.55**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2421662g0000010.1/4-128             ---TPSI.DKNG-MKRGAWSDEE.......DNKLRAYV..E..RFGHP.................NWRQLPR.YAG................LMRCGK...SCRLRWMN..NLR.PGLKK........G.NYSHEEEQ....L....I....IK....L....HD.QLGN..............RWSTIAAKLP.GRSDN
+#=GR Psec_k119Scf2421662g0000010.1/4-128     PP ...5566.6666.9*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2415280g0000010.1/8-127             --QKRKM.AQEEIIRRGPWTEQE.......DFQLVFYV..N..LFGDR.................RWDFLAK.VSG................LKRTGK...SCRLRWVN..YLN.PGLKR........G.KMTPQEER....L....I....LE....L....HS.KYGN..............RWSKIARKLP.GRTDN
+#=GR Psec_k119Scf2415280g0000010.1/8-127     PP ..56678.88999**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2407911g0000040.1/3-116             -------.--QEEVRRGPWTEQE.......DLQLVFYV..K..LFGDR.................RWDFLAK.VSG................LKRTGK...SCRLRWVN..YLN.PDLKR........G.KMTPQEER....L....V....LE....L....HA.KWGN..............RWSRIARKIP.GRTDN
+#=GR Psec_k119Scf2407911g0000040.1/3-116     PP ..........4679*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2388900g0000010.1/3-144             --RTPCC.DENG-RKKGTWTPEE.......DRKLAAYV..T..KYGCW.................NWRQLPK.YAGenfctiy.tniapregLARCGK...SCRLRWMN..YLR.PNVKR........G.NYTKEEDE....I....I....LK....L....HA.ELGN..............RWSAIAAQLP.GRSDN
+#=GR Psec_k119Scf2388900g0000010.1/3-144     PP ..78999.9988.9*********.......********..*..*****.................*******.**********.**************...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2411540g0000010.1/7-134             -------.TSSGVLRKGSWTEEE.......DILLRKCI..E..KYGEG.................KWHQVPV.RAG................LNRCRK...SCRLRWMN..YLR.PHIKR........G.DFSPDEVD....L....I....FR....L....HK.LLGNrqvhvltisllyivRWSLIAGRLP.GRTAN
+#=GR Psec_k119Scf2411540g0000010.1/7-134     PP ........566789*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****************************.*****
+Psec_k119Scf2423872g0000010.1/7-134             -------.TSSGVLRKGSWTEEE.......DILLRKCI..E..KYGEG.................KWHQVPV.RAG................LNRCRK...SCRLRWMN..YLR.PHIKR........G.DFSPDEVD....L....I....FR....L....HK.LLGNrqvhvltisllyivRWSLIAGRLP.GRTAN
+#=GR Psec_k119Scf2423872g0000010.1/7-134     PP ........566789*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****************************.*****
+Psec_k119Scf2405153g0000020.1/20-136            -------.--GMNSNKGAWSPEE.......DQKLISYI..M..KYRIW.................NWNQIPK.FAG................LSRTGK...SCRLRWVN..YLR.PDLKR........G.PFSMEEVE....T....I....IR....M....YQ.SLGN..............RWSAISKELP.GRTDN
+#=GR Psec_k119Scf2405153g0000020.1/20-136    PP ..........45689********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2396743g0000020.1/7-117             -------.MQEEELRKGSWHEEE.......DERLASIV..A..ILGER.................RWDALAK.ASG................LKRSGK...SCRLRWMN..YLR.PNLKH........G.YITADEEH....L....I....VK....L....QK.QLGN..............KWSKIAKQLP.GRTDN
+#=GR Psec_k119Scf2396743g0000020.1/7-117     PP ........56778**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2411246g0000010.1/6-88              ------P.KSSGLVRKGAWTEEE.......DVLLRKCI..E..KFGEG.................KWHQVPV.RAG................LNRCRK...SCRLRWLN..YLR.PHIKR........G.DFSEDEVD....L....I....LR....L....HK.LLGN..............R---------.-----
+#=GR Psec_k119Scf2411246g0000010.1/6-88      PP ......5.667789*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............8...............
+Psec_k119Scf2411246g0000010.1/137-167           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............TWSLIAGRLP.GRTAN
+#=GR Psec_k119Scf2411246g0000010.1/137-167   PP ........................................................................................................................................................................................8*********.*****
+Psec_k119Scf2408320g0000040.1/5-118             -------.-----SKKGPWSPEE.......DQKLTSYI..M..KYRIW.................NWNQMPK.FAG................LSRTGK...SCRLRWVN..YLR.PDLKR........G.PFSMEEVE....T....V....IR....M....YQ.SLGN..............RWSAISKELP.GRTDN
+#=GR Psec_k119Scf2408320g0000040.1/5-118     PP .............69********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425244g0000010.1/3-118             -------.----EIKKGAWSPEE.......DQKLKAYI..K..KYGIW.................NWSQMPK.FAG................LSRTGK...SCRLRWMN..YLS.PDVKR........G.PFSIDEVE....I....V....IK....T....YQ.ELGN..............RWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2425244g0000010.1/3-118     PP ............689********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2415810g0000040.1/24-148            -------.-DNIEMRKGPWTLDE.......DSILIHYI..S..LLGQG.................RWDSLAQ.FAG................LKRSGK...SCRLRWLN..YLS.PNLRR........G.KFTPQEQL....L....I....LL....L....HF.RFGNrndy......ylcfRWAKIAEHLP.GRTDN
+#=GR Psec_k119Scf2415810g0000040.1/24-148    PP .........45569*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.********......**************.*****
+Psec_k119Scf044174g0000010.1/6-119              -------.-ESLDRIKGPWSPEE.......DELLQRLV..D..QHGPR.................NWSLISK.SVP................-GRSGK...SCRLRWCN..QLS.PQVEH........R.AFTPEEDE....T....I....IR....A....HA.KFGN..............KWATIARLLS.GRTDN
+#=GR Psec_k119Scf044174g0000010.1/6-119      PP .........4455789*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2423641g0000030.1/10-123            -------.--HIDRVKGPWSPEE.......DELLTQLV..N..KHGPR.................NWSLISK.SIP................-GRSGK...SCRLRWCN..QLS.PQVEH........R.AFTMEEDE....T....I....IR....A....HA.RFGN..............KWATIARLLN.GRTDN
+#=GR Psec_k119Scf2423641g0000030.1/10-123    PP ..........445789*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2416710g0000090.1/39-148            -------.------VKGPWSQDE.......DTVLSELV..S..KFGAR.................NWSLIAR.GIP................-GRSGK...SCRLRWCN..QLD.PSVKR........K.PFTEEEDN....I....I....IQ....A....HA.VHGN..............RWASIAKLLP.GRTDN
+#=GR Psec_k119Scf2416710g0000090.1/39-148    PP ..............59*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2405143g0000010.1/45-159            -----NK.RTSGERVKGPWSPEE.......DAILSKLV..S..NFGAR.................NWSLIAR.GIP................-GRSGK...SCRLRWCN..QLD.PSVKR........K.PFSDEEDR....L....I....LQ....A....HA.IHGN..............KWASIARLLP.GRTDN
+#=GR Psec_k119Scf2405143g0000010.1/45-159    PP .....55.6667789********.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2426813g0000020.1/24-139            -------.LNKAERIKGPWSAEE.......DKILTKLV..E..RYGAR.................NWSLISK.YIK................-GRSGK...SCRLRWCN..QLS.PNVQH........R.PFSHAEDE....I....I....LA....A....HA.KYGN..............RWATIARLLP.GRTDN
+#=GR Psec_k119Scf2426813g0000020.1/24-139    PP ........4555688********.......********..*..*****.................*******.**9.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2411021g0000010.1/4-121             ---TP-C.RDEYGRKKGTWTPEE.......DRKLAAYV..T..KNGYN.................-------.LKS................LARCGK...SCRLRWMN..YLR.PNVKR........G.NYTNEEDG....I....I....LK....L....HT.QLGN..............RWSAIAAHLP.GRSDN
+#=GR Psec_k119Scf2411021g0000010.1/4-121     PP ...45.4.555669*********.......********..*..***96.........................667................88****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2390855g0000010.1/6-114             -------.-----IKKGPWKEEE.......DAVLIKHV..K..KYGPR.................DWSSIRS.KGL................LHRTGK...SCRLRWVN..KLR.PNLKN........GvKFSAEEET....T....V....IE....L....QA.QFGN..............KWARIATYLP.GRTDN
+#=GR Psec_k119Scf2390855g0000010.1/6-114     PP .............79********.......********..*..*****.................*******.***................******...********..***.****9........867*******....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2384101g0000010.1/3-113             -------.---EIIKKGPWKEEE.......DAVLIKHV..K..KYGPR.................DWSSIRS.KGL................LQRTGK...SCRLRWVN..KLR.PNLKS........GvKFSAEEER....T....V....IE....L....QA.QFGN..............KWARIATYLP.GRTDN
+#=GR Psec_k119Scf2384101g0000010.1/3-113     PP ...........5689********.......********..*..*****.................*******.***................******...********..***.****9........857*******....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2431924g0000010.1/8-112             -------.-----KIKGSWSPEE.......DNMLIKLV..D..QHGPR.................NWSLIST.GIP................-GRSGK...SCRLRWCN..QLS.PTVQH........R.PFTPSEDA....I....I....LQ....A....HA.LHGN..............RWATIARLLP.GRTDN
+#=GR Psec_k119Scf2431924g0000010.1/8-112     PP .............579*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2386678g0000010.1/35-147            -------.-NKPERIKGPWSAEE.......DKILTRFV..E..RYGAK.................NWSLISK.YIK................-GRSGK...SCRLRWCN..QLS.PEVEH........R.PFSPAEDD....T....I....LA....A....HA.KYGN..............RWATIARLLH.GRTDN
+#=GR Psec_k119Scf2386678g0000010.1/35-147    PP .........4455789*******.......********..*..*****.................*******.**9.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432972g0000010.1/56-173            -------.--TKLCARGHWRPHE.......DAKLKELV..A..QYGPQ.................NWNLIAE.KLE................-GRSGK...SCRLRWFN..QLD.PRINR........R.AFSEEEEE....R....L....LT....A....HK.MYGN..............KWAMIARLFP.GRTDN
+#=GR Psec_k119Scf2432972g0000010.1/56-173    PP ..........45689********.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2395979g0000010.1/12-125            -------.--RSSCPRGHWRPAE.......DERLRQLV..E..QYGPQ.................NWNSIAE.KLQ................-GRSGK...SCRLRWFN..QLD.PRINR........R.PFTEDEEE....R....L....LA....A....HT.VHGN..............KWALISRLFP.GRTDN
+#=GR Psec_k119Scf2395979g0000010.1/12-125    PP ..........566899*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2397836g0000010.1/2-115             -------.-----CSRGHWRPHE.......DQKLRELV..E..KYGPH.................NWNAIAE.KLQ................-GRSGK...SCRLRWFN..QLD.PRINR........N.PFTEEEEE....R....L....LS....A....HR.IHGN..............RWAIIARLFP.GRTDN
+#=GR Psec_k119Scf2397836g0000010.1/2-115     PP .............679*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2383703g0000010.1/80-196            -------.-QSKLCARGHWRPAE.......DAKLKELV..A..IYGPQ.................NWNLIAD.KLE................-GRSGK...SCRLRWFN..QLD.PRINR........R.AFTEEEEE....R....L....MA....A....HR.LYGN..............KWAMIARLFP.GRTDN
+#=GR Psec_k119Scf2383703g0000010.1/80-196    PP .........556689********.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2424310g0000030.1/2-114             -------.-----CSRGHWRPHE.......DEKLRELV..A..KYGPH.................NWNAIAE.NLQ................-GRSGK...SCRLRWYN..QLD.PRINR........S.PFTEEEEE....R....L....LA....S....HR.IHGN..............RWAIIARLFP.GRTDN
+#=GR Psec_k119Scf2424310g0000030.1/2-114     PP .............679*******.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2433771g0000120.1/2-133             -GRPPCC.SDNVHNRRCIWTTEE.......DANTSTFV..SnsKHGLG.................NWTAMSK.KSG................NGKCGR...SQKVRWSN..RLK.PDLKE........D.NFTLQEEE....L....I....IK....L....HA.TIGS..............RWSIIAQQLP.GKTDN
+#=GR Psec_k119Scf2433771g0000120.1/2-133     PP .57899*.**999**********.......********..73368889.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2378002g0000010.1/179-295           ------G.KKKSKSAKGQWTTEE.......DRLLIHLV..E..KFGVR.................KWSQIAQ.MLK................-GRIGK...QCRERWYN..HLR.PDIKK........D.LWTEEEDR....I....L....IE....A....HA.EVGN..............KWTEIAKRLP.GRTEN
+#=GR Psec_k119Scf2378002g0000010.1/179-295   PP ......5.6778899********.......********..*..*****.................*******.*99.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2431643g0000100.1/12-92             -------.---------------.......--------..-..-----.................------S.KAG................LLRCGK...SCRLRWIN..YLR.PDVKR........G.NFTPQEEA....T....I....VK....L....HQ.SFGN..............KWSKIASYLP.GRTDN
+#=GR Psec_k119Scf2431643g0000100.1/12-92     PP .......................................................................6.899................******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2269082g0000010.1/133-252           -------.SSTTVLVKGQWTEEE.......DRKLVKLV..K..QFGMR.................RWAQIAE.NMV................-GRAGK...QCRERWHN..HLR.PDIKK........D.AWSEQEEL....I....L....VE....A....HQ.QIGN..............KWAEIAKKIP.GRTEN
+#=GR Psec_k119Scf2269082g0000010.1/133-252   PP ........5666789********.......********..*..*****.................*******.**9.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2412519g0000010.1/115-231           -------.YSTTNLIKGQWTDEE.......DRKLLRLV..K..QFGVR.................KWAQIAE.KME................-ARGGK...QCRERWHN..HLR.PDIKK........D.SWSEEEEL....M....L....VE....A....HK.QLGN..............RWAEIAKRIP.GRTEN
+#=GR Psec_k119Scf2412519g0000010.1/115-231   PP ........4566799********.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2428891g0000030.1/163-279           -----RG.RKKSKSAKGQWTIEE.......DRILIHLV..E..KFGIR.................KWSQIAQ.MLK................-GRIGK...QCRERWHN..HLR.PDIKK........D.LWTEDEDR....I....L....IK....A....HA.EVGN..............KWAEIAKRLP.GRTEN
+#=GR Psec_k119Scf2428891g0000030.1/163-279   PP .....45.6778899********.......********..*..*****.................*******.*99.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2431941g0000020.1/2-89              -GKSKCC.DKEG-LKKGPWTPEE.......DQKLLSCI..E..EHGCG.................SWRALPA.KAG................LQRCGK...SCRLRWIN..YLR.PDIKR........G.KFSLQEER....T....I....IQ....L....HA.LLGN..............RY--------.-----
+#=GR Psec_k119Scf2431941g0000020.1/2-89      PP .578899.9988.**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............97..............
+Psec_k119Scf2434578g0000010.1/3-89              --RSPIT.SDKSGLKKGPWTPEE.......DLKLIQYI..E..VHGPG.................NWRSLPK.NAG................LQRCGK...SCRLRWTN..YLR.PDIKR........G.RFSFEEEE....T....I....IQ....L....HS.VLGN..............K---------.-----
+#=GR Psec_k119Scf2434578g0000010.1/3-89      PP ..66777.88889**********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............8...............
+Psec_k119Scf2426128g0000070.1/2-89              -DKKPCN.SQDAEVRKGPWTMEE.......DLILINYI..A..NHGEG.................VWNSLAK.SAG................LKRTGK...SCRLRWLN..YLR.PDVRR........G.NITPEEQL....L....I....ME....L....HA.KWGN..............R---------.-----
+#=GR Psec_k119Scf2426128g0000070.1/2-89      PP .478999.9**************.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............8...............
+Psec_k119Scf2377861g0000010.1/27-109            -------.---------------.......--------..-..-----.................-------.-NR................LKRNGK...SCRLRWVN..YLR.PDLKK........G.QITPHEEK....L....I....LE....L....HA.RYGN..............KWSTIARDLP.GRTDN
+#=GR Psec_k119Scf2377861g0000010.1/27-109    PP ..........................................................................45................9*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2427565g0000010.1/412-481           -------.---------------.......--------..-..----V.................NWDQVAS.MYL................PGRSGA...ECQSRWLN..WED.PLIKH........E.GWDTVEEK...sL....L....HA....V....QQ.KEMS..............DWIGIAASLGvCRTPF
+#=GR Psec_k119Scf2427565g0000010.1/412-481   PP ...............................................5.................9******.**9................9*****...********..***.*****........*.*9665555...05....5....56....7....78.8889..............9*****9995246655
+Psec_k119Scf2427565g0000010.1/493-584           -------.---ASIIRRDWTEEE.......DIRLCSLV..E..TFGES.................NWQVVAS.FME................-GRTGT...QCSNRWIK..SLH.PARKR.......sG.KWSADEDK....R....L...kVA....V....ML.FYPK..............TWRNIGQSVP.WRT--
+#=GR Psec_k119Scf2427565g0000010.1/493-584   PP ...........4577899*****.......********..*..*****.................*******.***.................*****...********..***.**998.......57.8**99998....6....6...366....6....66.7788..............7777777777.776..
+Psec_k119Scf2427565g0000010.1/587-659           -------.---------------.......--------..-..-----.................-WKKIAQ.FVP................-GRTHV...QCRERWVN..SLD.PSLKL........D.EWTEEEDL....K....L....KS....A....ID.EHGY..............SWSKVAACVP.PRTDN
+#=GR Psec_k119Scf2427565g0000010.1/587-659   PP ..................................................................999999.999.................9****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2425578g0000010.1/7-89              ------E.SPKKKHRKGLWSPDE.......DHKLKNYI..L..EHGHG.................CWSSVPI.NAG................LQRNGK...SCRLRWIN..YLR.PGLKR........G.AFSIEEEE....T....I....MT....L....HG.MIGN..............K---------.-----
+#=GR Psec_k119Scf2425578g0000010.1/7-89      PP ......5.567789*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............8...............
+Psec_k119Scf2427384g0000020.1/3-117             -------.------ERQRWRSEE.......DALLRAYV..R..QYGPK.................EWHLVSQ.RMNt..............pLNRDAK...SCLERWKN..YLK.PGIKK........G.SLTEDEQR....L....V....IQ....L....QA.KHGN..............KWKKIAAEVP.GRTAK
+#=GR Psec_k119Scf2427384g0000020.1/3-117     PP ..............6899*****.......********..*..*****.................*******.9988..............8******...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2429023g0000010.1/7-88              -------.TSSGVLRKGAWAEEE.......DILLRKCI..E..KYGEG.................KWHQVPV.RAG................LNRCRK...SCRLRWLN..YLR.PHIKR........G.DFCPEEVD....L....I....QR....L....HK.LLGN..............R---------.-----
+#=GR Psec_k119Scf2429023g0000010.1/7-88      PP ........567789*********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............9...............
+Psec_k119Scf2425244g0000020.1/3-75              -------.---------------.......--------..-..-----.................-------.-AE................LSRMEK...SCRLRWVN..YLH.PDVKR........G.PFSMEEVK....M....V....IK....T....YQ.ELGN..............KWSAIAARLP.GRTDN
+#=GR Psec_k119Scf2425244g0000020.1/3-75      PP ..........................................................................78................9*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2427254g0000030.1/20-135            -------.---KERHIVSWSQEE.......DDILREQI..R..IHGTD.................NWTIIAS.KFK................-DKTTR...QCRRRWFT..YLN.SDFKK........G.GWSPEEDM....L....L....CE....A....QK.IFGN..............RWTEIAKVVS.GRTDN
+#=GR Psec_k119Scf2427254g0000030.1/20-135    PP ...........4566789*****.......********..*..*****.................*******.***.................*****...********..***.*****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2412787g0000010.1/5-60              -------.---------------.......--------..-..-----.................-------.---................-DRTDV...QCLHRWQK..VLD.PEFVK........G.SWSKEEDE....I....L....IE....L....VK.TYGT.............kKWSTVAQHLA.GRVG-
+#=GR Psec_k119Scf2412787g0000010.1/5-60      PP .............................................................................................78999...9999****..***.*****........*.********....*....*....**....9....99.9998.............68*******99.9965.
+Psec_k119Scf2412787g0000010.1/23-80             -------.-----FVKGSWSKEE.......DEILIELV..K..TYGTK.................KWSTVAQ.HLA................-GRVGK...QCRESSFDllMLR.SQITK........G.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2412787g0000010.1/23-80     PP .............679*******.......********..*..*****.................*******.**9.................*****...***9876622456.66666........6.......................................................................
+Psec_k119Scf2412787g0000010.1/101-143           -------.---------------.......--------..-..-----.................-------.---................------...----RWHN..HLN.PSINR........E.AWTQEEEL....A....L....IR....A....HQ.IYGN..............KWAELSKFLV.E----
+#=GR Psec_k119Scf2412787g0000010.1/101-143   PP .........................................................................................................9***..***.*****........*.********....*....*....**....*....**.****..............*****99886.5....
+Psec_k119Scf2380651g0000010.1/3-82              -------.--EQGQRRGQWLEEE.......DERLAMIV..A..SLGER.................RWDALSK.ASG................LRRSGK...SCRLRWLN..YLR.PNLNH........G.HITEDEER....L....I....IQ....L....QK.QLGN..............K---------.-----
+#=GR Psec_k119Scf2380651g0000010.1/3-82      PP ..........45589********.......********..*..*****.................*******.***................******...********..***.*****........*.********....*....*....**....*....**.****..............9...............
+Psec_k119Scf2429346g0000010.1/106-181           -------.---------------.......--------..-..-----.................-------.KYC................LLRCGK...SCCLRWTN..YLR.PDIKR........G.PFSEDEEK....L....I....IQ....L....HG.ILGN..............----------.-RTDN
+#=GR Psec_k119Scf2429346g0000010.1/106-181   PP .........................................................................455................89****...********..***.*****........*.********....*....*....**....*....**.***9..........................7***
+Psec_k119Scf2426976g0000010.1/2-46              -GRTPCC.DKNK-VKRGQWSPDE.......DEILKNYL..L..KHGTG................gNWITLPL.RAG................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2426976g0000010.1/2-46      PP .688999.9988.**********.......********..*..****9................9*****99.887............................................................................................................................
+Psec_k119Scf2426976g0000010.1/71-108            -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............RWSIIASKLP.GRTDN
+#=GR Psec_k119Scf2426976g0000010.1/71-108    PP ........................................................................................................................................................................................9*********.*****
+Psec_k119Scf2426435g0000030.1/5-83              -------.---------------.......--------..-..--GQ-.................SSSSVNT.PAD................-SQDVV...APRMLVSG..-KT.SKVAE........I.EFSEEEED....L....I....IR....M....YN.LVGE..............RWSLIAGRIP.GRSAE
+#=GR Psec_k119Scf2426435g0000030.1/5-83      PP .............................................55..................3677888.888.................78888...88888777...78.9****........*.********....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2415240g0000010.1/5-86              -------.-----IKGGVWKNTE.......DEVLKALV..M..KYGKN.................HWARISS.LLV................-HKTAK...QCKARWYE..WLD.PSIKK........I.ERTRKEDE....K....L....LH....L....AK.LMPS..............QWRTIAP---.-----
+#=GR Psec_k119Scf2415240g0000010.1/5-86      PP .............57799*****.......********..*..*****.................******9.998.................*****...********..***.*****........*.********....*....*....**....*....**.****..............*****96.........
+Psec_k119Scf2401438g0000010.1/1-51              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....M....I....MK....L....HA.EIGN..............KRSVIAAHLP.GRSDN
+#=GR Psec_k119Scf2401438g0000010.1/1-51      PP ..............................................................................................................................................6....9....9*....*....**.****..............**********.*****
+Psec_k119Scf2432015g0000010.1/5-110             -------.-----IKGGVWKNTE.......DEILKAAV..M..KYGKN.................QWARISS.LLV................-RKSAK...QCKARWYE..WLD.PSIKKasiqildqT.EWTREEDE....K....L....LH....L....AK.LMPT..............QWRTIAPI-V.GRTPS
+#=GR Psec_k119Scf2432015g0000010.1/5-110     PP .............67899*****.......********..*..*****.................******9.998.................*****...********..***.***98322222224.68******....*....*....**....*....**.****..............******75.5.89987
+Psec_k119Scf2390225g0000010.1/142-186           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.SMTKQEED....L....I....YR....M....HK.LVGD..............RWGLIAGRIP.GRTAE
+#=GR Psec_k119Scf2390225g0000010.1/142-186   PP ..................................................................................................................................689*****....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2432688g0000010.1/14-49             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............RWSVIASNLQ.GRTDN
+#=GR Psec_k119Scf2432688g0000010.1/14-49     PP ........................................................................................................................................................................................9*********.*****
+Psec_k119Scf2419174g0000030.1/10-47             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............-WAHIASHLP.GRTDN
+#=GR Psec_k119Scf2419174g0000030.1/10-47     PP .........................................................................................................................................................................................*********.*****
+Psec_k119Scf2414524g0000010.1/2-40              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----IAGRLP.GRTDN
+#=GR Psec_k119Scf2414524g0000010.1/2-40      PP ............................................................................................................................................................................................9*****.*****
+Psec_k119Scf2401858g0000010.1/131-175           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.--SEK........R.KWTEEEYE....M....V....RK....Y....HE.VHGN..............KWKDLADELG.KH-RF
+#=GR Psec_k119Scf2401858g0000010.1/131-175   PP .....................................................................................................................679........9.********....*....*....**....*....**.****..............*********6.65.89
+Psec_k119Scf2401858g0000010.1/180-265           -------.----NRNKGQWTQEE.......YQTLFDLV..N..TDLRL.................KLSEEKK.SKHgmlrdniawtaisgnlSTRTDA...NCCLKWYD..QLTsPMVSK........G.EWADTDDY....R....L....I-....-....--.----..............----------.-----
+#=GR Psec_k119Scf2401858g0000010.1/180-265   PP ............5689*******.......****9999..8..76555.................4444444.333455555555555555559****...********..*964899**........*.**999887....7....7....6...............................................
+Psec_k119Scf2388673g0000020.1/1-36              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----MAQHLP.GRTDN
+#=GR Psec_k119Scf2388673g0000020.1/1-36      PP ............................................................................................................................................................................................79****.*****
+Psec_k119Scf2387420g0000010.1/19-64             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.-WTRLEDK....L....F....EQ....A....LV.MYPEnd..........ieRWSKIARHVP.GKTRE
+#=GR Psec_k119Scf2387420g0000010.1/19-64     PP ...................................................................................................................................4444444....4....4....44....4....44.444445..........55**********.*****
+Psec_k119Scf2387420g0000010.1/108-153           -----KS.HDVERKKGTPWTEEE.......HRLFLIGL..D..KYGKG.................DWRSISR.NVV................VTRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2387420g0000010.1/108-153   PP .....44.5555567789*****.......********..*..*****.................*******.*99................88876.......................................................................................................
+Psec_k119Scf2430892g0000010.1/31-56             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.--AD..............RWENIAADVP.GKTLV
+#=GR Psec_k119Scf2430892g0000010.1/31-56     PP ........................................................................................................................................................................45..............**********.*****
+Psec_k119Scf2430892g0000010.1/111-155           ------R.SEQERRKGIAWTEDE.......HRLFLLGL..E..KYGKG.................DWRSISR.NFV................VTRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2430892g0000010.1/111-155   PP ......3.4445456679*****.......********..*..*****.................*******.999................88875.......................................................................................................
+Psec_k119Scf2408935g0000030.1/19-70             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.--SKS........R.EWTKEENK....MfesaI....AI....Y....DE.NTPN..............RWFKVAAMIP.GKSVL
+#=GR Psec_k119Scf2408935g0000030.1/19-70     PP .....................................................................................................................678........8.99999987....622225....55....6....67.8899..............**********.*****
+Psec_k119Scf2408935g0000030.1/109-154           -----KS.SDQERKKGVPWTEEE.......HRRFLMGL..E..KYGKG.................DWRNISR.KLV................ISRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2408935g0000030.1/109-154   PP .....33.3444466679*****.......********..*..*****.................*******.*99................99875.......................................................................................................
+Psec_k119Scf2426129g0000010.1/376-419           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.---ET........R.KWTEEEYE....M....V....RK....F....HR.EHGP..............KWKVLADELG.KH-RF
+#=GR Psec_k119Scf2426129g0000010.1/376-419   PP ......................................................................................................................56........8.9*******....*....*....**....*....**.****..............*********6.65.89
+Psec_k119Scf2426129g0000010.1/424-510           -------.----NQKKGQWTQEE.......YQTLFDLV..N..TDLRLklsedkkskygmlrdniPWSAISD.KLS................-TRTAP...SCCLKWYD..QLTsPMVAK........G.EWADADDY....H....L....ID....-....--.----..............----------.-----
+#=GR Psec_k119Scf2426129g0000010.1/424-510   PP ............56899999999.......99999999..8..65443111123333444455555777777.777.................*****...********..*964899**........*.**998887....7....7....65..............................................
+Psec_k119Scf2373847g0000050.1/18-50             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....L....VL....Y....PE.QIAD..............RWQLIADHVP.GKTPE
+#=GR Psec_k119Scf2373847g0000050.1/18-50     PP ...................................................................................................................................................4....44....5....56.7788..............**********.*****
+Psec_k119Scf2373847g0000050.1/82-126            -----NC.EI-ERKKGTPWTEEE.......HRLFLIGL..E..KYGKG.................DWRSISR.NVV................VTRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2373847g0000050.1/82-126    PP .....33.33.4467889*****.......********..*..*****.................*******.999................88875.......................................................................................................
+Psec_k119Scf2417796g0000010.1/355-400           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.---EK........R.KWTDEEYE....M....V....RK....F....HG.EHGP..............KWRVLADELG.KH-SI
+#=GR Psec_k119Scf2417796g0000010.1/355-400   PP ......................................................................................................................67........8.9*******....*....*....**....*....**.****..............*********7.76.89
+Psec_k119Scf2417796g0000010.1/579-629           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.---ER........R.RYTEEEFE....M....I....RK....Y....HR.EHGP..............KWKVLADEL-.GRHGV
+#=GR Psec_k119Scf2417796g0000010.1/579-629   PP ......................................................................................................................58........8.99******....*....*....**....*....**.****..............********9..8999*
+Psec_k119Scf2376839g0000010.1/20-64             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.--SKS........T.EWTKEENK....RfesaL....AI....Y....DE.KTPN..............RWSQISAMIP.GKSVL
+#=GR Psec_k119Scf2376839g0000010.1/20-64     PP .....................................................................................................................577........7.88888876....511114....44....5....67.8899..............**********.*9987
+Psec_k119Scf2376839g0000010.1/109-154           ---SRSC.DQER-KKGVPWTEEE.......HRRFLMGL..E..KYGKG.................DWRNISK.NFV................ISKT--...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2376839g0000010.1/109-154   PP ...5566.6665.6888******.......********..*..*****.................*******.998................7765........................................................................................................
+Psec_k119Scf2428511g0000010.1/20-56             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....A....L....AV....Y....DK.DTPD..............RWQNIAEYVG.GKSVE
+#=GR Psec_k119Scf2428511g0000010.1/20-56     PP ..............................................................................................................................................4....4....55....5....67.7889..............**********.*****
+Psec_k119Scf2428511g0000010.1/168-200           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....AV....Y....DK.DRPD..............RWQNIAKYVG.GKSAE
+#=GR Psec_k119Scf2428511g0000010.1/168-200   PP ........................................................................................................................................................44....4....55.6678..............**********.*****
+Psec_k119Scf2427160g0000010.1/32-78             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........T.KWTPEENK....R....FedalAL....F....DK.DTPD..............KWYNVAAMIP.GKTVN
+#=GR Psec_k119Scf2427160g0000010.1/32-78     PP ................................................................................................................................5.67777765....5....4000044....4....55.6677..............**********.*****
+Psec_k119Scf2427160g0000010.1/128-172           -----NR.SDHERKKGVPWTEEE.......HRQFLLGL..K..KYGKG.................DWRNISR.NFV................TTRT--...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2427160g0000010.1/128-172   PP .....34.4445456779*****.......********..*..*****.................*******.998................7776........................................................................................................
+Psec_k119Scf2409905g0000020.1/30-74             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.-WTAEENK....M....F....ED....AlalfDK.DTPD..............RWCNVAAMIP.GKTVN
+#=GR Psec_k119Scf2409905g0000020.1/30-74     PP ...................................................................................................................................6667766....5....5....44....4000045.5677..............**********.*****
+Psec_k119Scf2409905g0000020.1/137-179           -------.SEHERKKGVPWTEEE.......HRQFLLGL..K..KYGKG.................DWRNISR.NFV................TTRT--...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2409905g0000020.1/137-179   PP ........3444456679*****.......********..*..*****.................*******.998................7776........................................................................................................
+Psec_k119Scf2418022g0000030.1/11-55             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.-FWTKEED....K....I....FEnglaI....YS.GDDN..............QWMKIAAALP.GKSLE
+#=GR Psec_k119Scf2418022g0000030.1/11-55     PP ...................................................................................................................................4444555....5....5....4422114....44.4458..............**********.*****
+Psec_k119Scf2418022g0000030.1/91-132            -------.--VERRRGVAWTEEE.......HRAFLRGL..E..KYGRG.................DWRSISR.HCV................LSRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2418022g0000030.1/91-132    PP ..........34456679*****.......********..*..*****.................*******.***................99986.......................................................................................................
+Psec_k119Scf2386576g0000010.1/18-68             -------.---------------.......--------..-..-----.................-------.---................------...--------..--D.ENSKS........T.KWTPAENK....A....F....EN....A....LA.LFDKdt..........pdRWQKVAEMVP.GKTVV
+#=GR Psec_k119Scf2386576g0000010.1/18-68     PP .................................................................................................................5.67788........8.88888877....6....6....55....5....54.443333..........33**********.***99
+Psec_k119Scf2386576g0000010.1/124-167           -------.QEQERKKGIPWTEEE.......HKLFLMGL..K..KYGKG.................DWRNISR.NFV................ITRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2386576g0000010.1/124-167   PP ........4445456679*****.......********..*..*****.................*******.*99................88875.......................................................................................................
+Psec_k119Scf2367085g0000010.1/21-69             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.--SKS........N.EWTQEENKkfesA....L....AI....Y....DE.RTPN..............RWFKVAALIP.GKSVY
+#=GR Psec_k119Scf2367085g0000010.1/21-69     PP .....................................................................................................................577........7.8888887611113....4....55....5....67.8999..............**********.**999
+Psec_k119Scf2367085g0000010.1/112-155           -----SC.DQER-KKGVPWTEEE.......HRRFLMGL..E..KHGKG.................DWRNISR.NFV................ISKT--...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2367085g0000010.1/112-155   PP .....45.5555.6788******.......********..*..*****.................******9.987................7665........................................................................................................
+Psec_k119Scf2416305g0000030.1/60-94             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.IMHSiey.......snkeQWQKIALMVP.SKTIE
+#=GR Psec_k119Scf2416305g0000030.1/60-94     PP ......................................................................................................................................................................3222233.......33569*********.*****
+Psec_k119Scf2416305g0000030.1/133-193           -------.-NQERRKGLPWTAEE.......HRLFLLGL..E..EFGKG.................DWRSISR.NFV................ISRTPSqvaSHAQKYFN..RLE.SNS--........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2416305g0000030.1/133-193   PP .........444456679*****.......********..*..*****.................*******.***................99987511144566777..777.665..................................................................................
+Psec_k119Scf2413122g0000010.1/33-56             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.---D..............RWEKIASDVP.GKNLE
+#=GR Psec_k119Scf2413122g0000010.1/33-56     PP .........................................................................................................................................................................5..............**********.*****
+Psec_k119Scf2413122g0000010.1/116-158           -------.-DQERRKGIAWTEDE.......HRLFLLGL..D..KYGKG.................DWRSISR.NFV................VTRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2413122g0000010.1/116-158   PP .........334456679*****.......********..*..*****.................*******.999................88875.......................................................................................................
+Psec_k119Scf2387181g0000020.1/444-489           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-RSEK........R.KWTEEEYE....M....V....RK....Y....HE.VHGN..............KWKDLADELG.KH-RF
+#=GR Psec_k119Scf2387181g0000020.1/444-489   PP ....................................................................................................................5679........9.********....*....*....**....*....**.****..............*********6.65.89
+Psec_k119Scf2387181g0000020.1/494-580           -------.----NRNKGQWTQEE.......YQTLFDLV..N..TDLRL.................KLSEEKK.SKHgmlrdniawtaisgnlSTRTDA...NCCLKWYD..QLTsPMVSK........G.EWADTDDY....R....L....ID....-....--.----..............----------.-----
+#=GR Psec_k119Scf2387181g0000020.1/494-580   PP ............56899******.......****9999..8..76555.................4444444.333455555555555555559****...********..*964899**........*.**999887....7....7....75..............................................
+Psec_k119Scf2401575g0000010.1/6-47              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.-WSREEEK....A....F....EN....A....IAiHWIE..............DWQKIASMVP.SKTVE
+#=GR Psec_k119Scf2401575g0000010.1/6-47      PP ...................................................................................................................................6777777....7....6....65....5....4415778..............9*********.*****
+Psec_k119Scf2401575g0000010.1/115-161           ----SSK.SEQERRKGIPWTEEE.......HRLFLLGL..D..KFGKG.................DWRSISR.NYV................ISRTP-...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2401575g0000010.1/115-161   PP ....344.5555566679*****.......********..*..*****.................*******.999................88875.......................................................................................................
+Psec_k119Scf2401858g0000020.1/878-929           -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-RSEK........R.KWTEEEYE....M....V....RK....Y....HE.VHGN..............KWKDLADELG.KH-RF
+#=GR Psec_k119Scf2401858g0000020.1/878-929   PP ....................................................................................................................5679........9.9*******....*....*....**....*....**.****..............*********6.65.89
+Psec_k119Scf2401858g0000020.1/928-1014          -------.----NRNKGQWTQEE.......YQTLFDLV..N..TDLRL.................KLSEEKK.SKHgmlrdniawtaisgnlSTRTDA...NCCLKWYD..QLTsPMVSK........G.EWADTDDY....R....L....ID....-....--.----..............----------.-----
+#=GR Psec_k119Scf2401858g0000020.1/928-1014  PP ............46899******.......*9999999..8..76555.................4444443.333455555555555555559****...********..*964899**........*.**999887....7....7....75..............................................
+Psec_k119Scf2420638g0000010.1/1-31              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............--------MP.WRTGD
+#=GR Psec_k119Scf2420638g0000010.1/1-31      PP ................................................................................................................................................................................................58.8****
+Psec_k119Scf2387522g0000050.1/1-26              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-RTDN
+#=GR Psec_k119Scf2387522g0000050.1/1-26      PP ....................................................................................................................................................................................................9***
+Psec_k119Scf2436669g0000020.1/199-247           -------.-----RKRKPWSDAE.......DMELIAAV..Q..KCGEG.................NWANILKgDFK................GDRTTS...QLSQRWAT..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2436669g0000020.1/199-247   PP .............6899******.......********..*..*****.................**999872456................688888...88888865...........................................................................................
+Psec_k119Scf2433517g0000040.1/193-239           -------.-----RKRKPWSTAE.......DMELIAAV..Q..KCGEG.................NWANIVKgDFK................GDRTPS...QLSQRW--..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2433517g0000040.1/193-239   PP .............6899******.......********..*..*****.................**998762344................566666...666666.............................................................................................
+Psec_k119Scf2435654g0000010.1/4-36              -------.------QKTKWTSEE.......EEALKAGV..T..KHGVG.................KWKNILK.DPE................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2435654g0000010.1/4-36      PP ..............799******.......********..*..*****.................*****98.765............................................................................................................................
+Psec_k119Scf2431997g0000190.1/5-33              -------.-------KVKWTREE.......EEALKAGI..A..KHGTG.................KWKTILN.---................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2431997g0000190.1/5-33      PP ...............789*****.......********..*..*****.................***9975................................................................................................................................
+Psec_k119Scf2402092g0000010.1/11-60             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........G.SWTAKENK....A....F....EK....A....LA.VYDKdt..........cdRWSNVAKAVG.GKTAE
+#=GR Psec_k119Scf2402092g0000010.1/11-60     PP ................................................................................................................................6.77777776....6....6....55....5....55.544444..........44**********.*****
+Psec_k119Scf2386832g0000010.1/5-36              -------.-------KQKWTSEE.......EEALRAGV..A..KHGAG.................KWKNIQR.DPE................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2386832g0000010.1/5-36      PP ...............899*****.......********..*..*****.................*****99.876............................................................................................................................
+Psec_k119Scf2431520g0000010.1/235-282           -------.---NEEAKTDWTYKE.......TLQLLEAL..M..HYGDD.................-WKKVAE.HVG................GGRTAK...DCVARFV-..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2431520g0000010.1/235-282   PP ...........446899******.......********..*..***95..................******.***................******...**99976............................................................................................
+Psec_k119Scf2378163g0000010.1/5-36              -------.-------KQKWTPEE.......EAALKAGV..L..KHGPG.................KWRTILK.DPE................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2378163g0000010.1/5-36      PP ...............899*****.......********..*..*****.................*****98.765............................................................................................................................
+Psec_k119Scf2370354g0000010.1/5-39              -------.-------KQKWTSEE.......EAALKAGI..L..KHGPG.................KWRTILK.DPE................FSR---...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2370354g0000010.1/5-39      PP ...............899*****.......********..*..*****.................*****99.877................555.........................................................................................................
+Psec_k119Scf2397707g0000010.1/131-164           -------.-----RKGIPWTEEE.......HQLFLMGL..N..TFGKG.................DWKNISR.VYV................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2397707g0000010.1/131-164   PP .............45569*****.......********..*..*****.................****998.665............................................................................................................................
+Psec_k119Scf2433415g0000010.1/5-36              -------.-------KQKWTSEE.......EAALKAGV..A..KYGVG.................KWSTILK.DPE................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2433415g0000010.1/5-36      PP ...............899*****.......********..*..*****.................*****98.766............................................................................................................................
+Psec_k119Scf2426442g0000010.1/6-27              -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.KFSAEEER....T....V....IE....L....QA.QFGN..............KWA-------.-----
+#=GR Psec_k119Scf2426442g0000010.1/6-27      PP ..................................................................................................................................8*******....*....*....**....*....**.****..............**7.............
+Psec_k119Scf2422970g0000040.1/54-110            -------.---------------.......--------..-..-----.................-------.---................------...--------..---.---QR........E.KWTEEEHQ....R....F....VE....A....LK.LYGR..............SWRQIEEHVG.TKTAI
+#=GR Psec_k119Scf2422970g0000040.1/54-110    PP ......................................................................................................................68........9.9*******....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2380840g0000010.1/24-68             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.---QR........E.RWTEEEHN....R....F....LE....A....LK.LYGR..............AWQRIEEHIG.TKTAV
+#=GR Psec_k119Scf2380840g0000010.1/24-68     PP ......................................................................................................................68........8.99******....*....*....**....*....**.****..............**********.*9999
+Psec_k119Scf2415888g0000010.1/54-92             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.------EQ....A....L....AV....Y....DK.DTPD..............RWQNIAKYVG.GKSVE
+#=GR Psec_k119Scf2415888g0000010.1/54-92     PP ........................................................................................................................................45....5....5....56....6....78.8899..............**********.*****
+Psec_k119Scf2424670g0000010.1/495-549           -------.-----KHHRPWTINE.......VVKLVEGV..A..RYGAG.................RWSEIKR.HAFa.............scPYRTSV...DLKDKWRN..LLK.A----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2424670g0000010.1/495-549   PP .............46789*****.......********..*..*****.................*******.9973.............33457777...77777777..776.5....................................................................................
+Psec_k119Scf2426145g0000010.1/16-61             -------.---------------.......--------..-..-----.................-------.---................------...--------..---.-----........-.-WTREEDK....I....F....EN...aI....AE.RLGEd............qEWGQIASRIP.NKTIQ
+#=GR Psec_k119Scf2426145g0000010.1/16-61     PP ...................................................................................................................................5667766....6....6....54...25....67.89988............89*********.*****
+Psec_k119Scf2436549g0000050.1/22-54             -------.------PKQKWTSEE.......EAALKAGI..I..KYGPG.................KWLTILK.DPE................------...--------..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2436549g0000050.1/22-54     PP ..............689******.......********..*..*****.................***9998.766............................................................................................................................
+Psec_k119Scf2418193g0000020.1/50-100            -------.---------------.......--------..-..-----.................-------.---................------...--------..---.---QR........E.KWTEEEHK....R....F....VE....A....LK.LYGR..............AWGQIEEHVG.TKTAI
+#=GR Psec_k119Scf2418193g0000020.1/50-100    PP ......................................................................................................................68........9.9*******....*....*....**....*....**.****..............**********.*****
+Psec_k119Scf2434279g0000010.1/1096-1134         -------.---------VWKEEH.......DLLLLQAV..L..KHGYG.................RWQAIVD.DKE................LRIQEI...ICK-----..---.-----........-.--------....-....-....--....-....--.----..............----------.-----
+#=GR Psec_k119Scf2434279g0000010.1/1096-1134 PP .................6*****.......********..*..*****.................******9.999................887776...666................................................................................................
+#=GC PP_cons                                    5678888.88777999*******.......********..*..*****.................*******.*99................******...********..***.*****........*.********....*....9....99....*....**.****..............**********.*****
+#=GC RF                                         xxxxxxx.xxxxxxxxxxxxxxx.......xxxxxxxx..x..xxxxx.................xxxxxxx.xxx................xxxxxx...xxxxxxxx..xxx.xxxxx........x.xxxxxxxx....x....x....xx....x....xx.xxxx..............xxxxxxxxxx.xxxxx
+
+Psec_k119Scf2390014g0000010.1/2-129             EIKNFWNTH.LKKKLIQMGYDPMTHRPR---
+#=GR Psec_k119Scf2390014g0000010.1/2-129     PP *********.************999875...
+Psec_k119Scf2432305g0000010.1/2-130             EIKNYWNTH.IKRKLISQGIDPQTHRPLN--
+#=GR Psec_k119Scf2432305g0000010.1/2-130     PP *********.**************99765..
+Psec_k119Scf2417231g0000010.1/2-129             EIKNFWNTH.LKKKLIQMGYDPMTHRPR---
+#=GR Psec_k119Scf2417231g0000010.1/2-129     PP *********.************999875...
+Psec_k119Scf2374962g0000010.1/2-128             EIKNFWNTH.LKKKLIQMGYDPMTHRP----
+#=GR Psec_k119Scf2374962g0000010.1/2-128     PP *********.************99986....
+Psec_k119Scf2412346g0000010.1/2-130             EIKNYWNTH.IKRKLISRGLDPQTHRPLN--
+#=GR Psec_k119Scf2412346g0000010.1/2-130     PP *********.**************99875..
+Psec_k119Scf2419965g0000010.1/1-130             EIKNYWNTH.LKKRLVKMGIDPVTHKPKN--
+#=GR Psec_k119Scf2419965g0000010.1/1-130     PP *********.**************99765..
+Psec_k119Scf2389022g0000020.1/2-128             EIKNYWNTN.IRKKLLRMGIDPVTHSP----
+#=GR Psec_k119Scf2389022g0000020.1/2-128     PP *********.************99875....
+Psec_k119Scf2428461g0000010.1/2-128             EIKNYWNTH.IRKRLLRMGIDPVTHSP----
+#=GR Psec_k119Scf2428461g0000010.1/2-128     PP *********.***********999875....
+Psec_k119Scf2421448g0000010.1/2-127             EIKNYWNTH.IRKKLLRMGIDPVTHT-----
+#=GR Psec_k119Scf2421448g0000010.1/2-127     PP *********.***********99987.....
+Psec_k119Scf2416623g0000020.1/2-130             EIKNYWNTH.IKRKLLNRGIDPHTHHPIS--
+#=GR Psec_k119Scf2416623g0000020.1/2-130     PP *********.**************99876..
+Psec_k119Scf2414886g0000190.1/2-130             EIKNYWNTH.IRRKLMSRGIDPTTHRAIN--
+#=GR Psec_k119Scf2414886g0000190.1/2-130     PP *********.**************99876..
+Psec_k119Scf2433055g0000010.1/2-131             EIKNYWNTH.IRRKLLSRGIDPTTHRPINE-
+#=GR Psec_k119Scf2433055g0000010.1/2-131     PP *********.***************98875.
+Psec_k119Scf2407832g0000010.1/2-130             EIKNYWNTH.IRRKLLSRGIDPTTHRIMN--
+#=GR Psec_k119Scf2407832g0000010.1/2-130     PP *********.*************998765..
+Psec_k119Scf2421033g0000010.1/2-128             EIKNYWNTH.IRKRLLRMGIDPVTHSP----
+#=GR Psec_k119Scf2421033g0000010.1/2-128     PP *********.************99875....
+Psec_k119Scf2425589g0000010.1/2-128             EIKNYWNTH.IRKRLLRNGIDPVTHSP----
+#=GR Psec_k119Scf2425589g0000010.1/2-128     PP *********.***********999875....
+Psec_k119Scf2416361g0000020.1/2-127             EVKNYWNSH.LRRKLIKMGIDPKNHR-----
+#=GR Psec_k119Scf2416361g0000020.1/2-127     PP *********.************9986.....
+Psec_k119Scf2414978g0000110.1/14-141            EIKNYWNTH.LRKKLLQMGIDPVTHRPR---
+#=GR Psec_k119Scf2414978g0000110.1/14-141    PP *********.************999876...
+Psec_k119Scf262883g0000010.1/1-130              EIKNYWNTH.LKKRLTKMGIDPVTHKPMN--
+#=GR Psec_k119Scf262883g0000010.1/1-130      PP *********.***************9886..
+Psec_k119Scf2433381g0000010.1/2-131             EIKNFWNTH.LKKKLLKAGIDPVTHQPIN--
+#=GR Psec_k119Scf2433381g0000010.1/2-131     PP *********.**************99875..
+Psec_k119Scf2386894g0000010.1/12-139            EIKNLWNTH.LKKRLLSTGIDPQTHQPS---
+#=GR Psec_k119Scf2386894g0000010.1/12-139    PP *********.**************9876...
+Psec_k119Scf2428950g0000010.1/2-130             EIKNYWNSR.LKKRLTKMGIDPMTHKPKT--
+#=GR Psec_k119Scf2428950g0000010.1/2-130     PP *********.**************99875..
+Psec_k119Scf2435640g0000020.1/2-130             EIKNLWNSS.IKKKLRQSGIDPNTHKPLS--
+#=GR Psec_k119Scf2435640g0000020.1/2-130     PP *********.***************9876..
+Psec_k119Scf2403504g0000010.1/2-130             EIKNLWNSS.IKKKLRQKGIDPNTHKPLS--
+#=GR Psec_k119Scf2403504g0000010.1/2-130     PP *********.***************9876..
+Psec_k119Scf2430705g0000010.1/8-136             EIKNLWNSS.IKKKLRQRGIDPNIHKPLS--
+#=GR Psec_k119Scf2430705g0000010.1/8-136     PP *********.************9999876..
+Psec_k119Scf2392922g0000010.1/2-129             EIKNLWNTH.LKKRLLSMGIDPQTHEPA---
+#=GR Psec_k119Scf2392922g0000010.1/2-129     PP *********.**************9876...
+Psec_k119Scf2397663g0000020.1/2-130             DVKNHWNTK.LKKKLSGMGIDPVTHKPFS--
+#=GR Psec_k119Scf2397663g0000020.1/2-130     PP *********.***************9876..
+Psec_k119Scf2419405g0000110.1/2-130             EIKNYWNTH.LLKKLKSVGIVPKPHKIFS--
+#=GR Psec_k119Scf2419405g0000110.1/2-130     PP *********.*******999999888765..
+Psec_k119Scf2427329g0000010.1/2-129             EIKNVWHTH.LKKRLKNYQPPQNSKRHS---
+#=GR Psec_k119Scf2427329g0000010.1/2-129     PP *********.*****9887776666554...
+Psec_k119Scf2406902g0000010.1/3-127             EIKNFWHTH.LKKKLEHNDLRATTTA-----
+#=GR Psec_k119Scf2406902g0000010.1/3-127     PP *********.*****98777666554.....
+Psec_k119Scf2419243g0000010.1/49-177            EIKNYWNTH.LRKRLTKMGIDPITHKPKT--
+#=GR Psec_k119Scf2419243g0000010.1/49-177    PP *********.************9998765..
+Psec_k119Scf2373829g0000010.1/15-141            EIKNYWNTH.LSKKLISHGIDPRTHKPLK--
+#=GR Psec_k119Scf2373829g0000010.1/15-141    PP *********.***************9876..
+Psec_k119Scf2393697g0000010.1/2-131             EIKNFYNTH.LRKKLLRLGIDPRTHKPIS--
+#=GR Psec_k119Scf2393697g0000010.1/2-131     PP *********.**************99875..
+Psec_k119Scf2409468g0000030.1/2-130             EIKNFWNSS.LKKKLMKQGIDPNTHMPLS--
+#=GR Psec_k119Scf2409468g0000030.1/2-130     PP *********.**************98776..
+Psec_k119Scf2411515g0000020.1/2-129             EIKNLWNTH.LKKRLFSMGIDPHIHEPS---
+#=GR Psec_k119Scf2411515g0000020.1/2-129     PP *********.***********9998765...
+Psec_k119Scf2415437g0000080.1/93-180            ---------.---------------------
+#=GR Psec_k119Scf2415437g0000080.1/93-180    PP ...............................
+Psec_k119Scf2415437g0000080.1/145-248           SIKNHWNSS.LKKKL----------------
+#=GR Psec_k119Scf2415437g0000080.1/145-248   PP *********.***97................
+Psec_k119Scf2391299g0000020.1/5-131             EIKNFWNSY.LKKKLIKQGIDPNTHQPLSE-
+#=GR Psec_k119Scf2391299g0000020.1/5-131     PP *********.***************98875.
+Psec_k119Scf2423575g0000010.1/35-122            ---------.---------------------
+#=GR Psec_k119Scf2423575g0000010.1/35-122    PP ...............................
+Psec_k119Scf2423575g0000010.1/87-191            SIKNHWNSS.VKKKLD---------------
+#=GR Psec_k119Scf2423575g0000010.1/87-191    PP *********.***986...............
+Psec_k119Scf2423609g0000010.1/1-130             EIKNHWNTH.IKKKLKKMGIDPVTHKPLS--
+#=GR Psec_k119Scf2423609g0000010.1/1-130     PP *********.**************99875..
+Psec_k119Scf2416406g0000020.1/1-130             EIKNHWNTH.IKKKLLKMGIDPVTHEPLK--
+#=GR Psec_k119Scf2416406g0000020.1/1-130     PP *********.**************99876..
+Psec_k119Scf2383591g0000010.1/1-130             EIKNHWNTH.IKKKLKKMGIDPVTHKPIT--
+#=GR Psec_k119Scf2383591g0000010.1/1-130     PP *********.**************99876..
+Psec_k119Scf2381926g0000010.1/3-129             EIKNVWHTH.LKKRLKNYKPPHNTKRHI---
+#=GR Psec_k119Scf2381926g0000010.1/3-129     PP *********.*****9988887777765...
+Psec_k119Scf2431997g0000110.1/3-124             EVKNFWNSS.IKKKLLSHGTLSD--------
+#=GR Psec_k119Scf2431997g0000110.1/3-124     PP *********.*****98877655........
+Psec_k119Scf2422999g0000010.1/18-143            EVKNFWNSC.IKKKLIAQGLDPNTHNLL---
+#=GR Psec_k119Scf2422999g0000010.1/18-143    PP *********.************999865...
+Psec_k119Scf2401007g0000040.1/72-159            ---------.---------------------
+#=GR Psec_k119Scf2401007g0000040.1/72-159    PP ...............................
+Psec_k119Scf2401007g0000040.1/126-232           AIKNHWNSS.AKKRLSLKIQ-----------
+#=GR Psec_k119Scf2401007g0000040.1/126-232   PP *********.***9975444...........
+Psec_k119Scf2432755g0000020.1/2-127             EIKNYWNTN.IGKKLQHQRAAANSGH-----
+#=GR Psec_k119Scf2432755g0000020.1/2-127     PP *********.****998877766554.....
+Psec_k119Scf2435063g0000040.1/5-132             EIKNFYNTH.LRKKLLRLGIDPKTHKPIS--
+#=GR Psec_k119Scf2435063g0000040.1/5-132     PP *********.***************9876..
+Psec_k119Scf2436442g0000040.1/3-128             EVKNFWNSC.IKKKPISQGLDPNTHNLL---
+#=GR Psec_k119Scf2436442g0000040.1/3-128     PP *********.************999865...
+Psec_k119Scf2417684g0000090.1/2-126             DIKNYWNTH.LKKKLNKKMEG-HDHE-----
+#=GR Psec_k119Scf2417684g0000090.1/2-126     PP *********.****9865544.4444.....
+Psec_k119Scf2421323g0000010.1/2-127             DIKNYWNTH.LRKKLKKLQGNDDENS-----
+#=GR Psec_k119Scf2421323g0000010.1/2-127     PP *********.****998665554444.....
+Psec_k119Scf2426471g0000030.1/2-130             DVKNYWNTK.LKKKLVNMGIDPVTHKPFS--
+#=GR Psec_k119Scf2426471g0000030.1/2-130     PP *********.***************9987..
+Psec_k119Scf2431678g0000020.1/2-127             DIKNYWNTH.LQKKLKKLQGHDDQNN-----
+#=GR Psec_k119Scf2431678g0000020.1/2-127     PP *********.****997665544443.....
+Psec_k119Scf2435063g0000030.1/10-138            EIKNHWNTK.IRKKLNKLGIDPQTHKQIT--
+#=GR Psec_k119Scf2435063g0000030.1/10-138    PP *********.***************9876..
+Psec_k119Scf2436581g0000010.1/2-121             DIKNYWNTH.LKKKLKKLQE-----------
+#=GR Psec_k119Scf2436581g0000010.1/2-121     PP *********.****987654...........
+Psec_k119Scf2404695g0000010.1/2-123             DIKNYWNTH.LKKKLKKLEAAS---------
+#=GR Psec_k119Scf2404695g0000010.1/2-123     PP *********.****98766554.........
+Psec_k119Scf2427249g0000010.1/2-122             DIKNYWNTH.LKKKLKKFQAT----------
+#=GR Psec_k119Scf2427249g0000010.1/2-122     PP *********.*****988765..........
+Psec_k119Scf2434830g0000130.1/1-129             EIKNHWNTR.IKKRLKHMGIDPLTHKPL---
+#=GR Psec_k119Scf2434830g0000130.1/1-129     PP *********.************999876...
+Psec_k119Scf2436209g0000010.1/2-120             EIKNYWNSH.LSRKVESLR------------
+#=GR Psec_k119Scf2436209g0000010.1/2-120     PP *********.***987654............
+Psec_k119Scf2433734g0000070.1/2-125             EIKNIWHTR.LKKKMNQSQIQEKT-------
+#=GR Psec_k119Scf2433734g0000070.1/2-125     PP *********.*****999888766.......
+Psec_k119Scf2432528g0000030.1/1-132             EIKNHWNTH.IKKKLLKMGIDPVTHEPLN--
+#=GR Psec_k119Scf2432528g0000030.1/1-132     PP *********.**************99876..
+Psec_k119Scf2418117g0000020.1/1-130             EIKNHWNTR.IKKKLKLLGLDPLTHKPIE--
+#=GR Psec_k119Scf2418117g0000020.1/1-130     PP *********.******9999999998765..
+Psec_k119Scf2435225g0000050.1/3-129             EIKNYWRTR.IQKYINKQADQNMKKQS----
+#=GR Psec_k119Scf2435225g0000050.1/3-129     PP *********.**999877666655543....
+Psec_k119Scf2430424g0000010.1/3-125             EIKNYWNSH.LRRRIYTFGMKKKP-------
+#=GR Psec_k119Scf2430424g0000010.1/3-125     PP *********.*****999888765.......
+Psec_k119Scf2427006g0000010.1/2-120             EIKNYWNSH.LSRKVESLR------------
+#=GR Psec_k119Scf2427006g0000010.1/2-120     PP *********.***987554............
+Psec_k119Scf2434399g0000030.1/21-138            EIKNFWNST.LKKRLKNSSSSS---------
+#=GR Psec_k119Scf2434399g0000030.1/21-138    PP *********.****98776554.........
+Psec_k119Scf2426520g0000060.1/1-129             EIKNHWNTR.TKKRLKLLGIDPLTHQPI---
+#=GR Psec_k119Scf2426520g0000060.1/1-129     PP *********.******999999999876...
+Psec_k119Scf2409137g0000010.1/12-139            EIKNFWNST.IKKRLKNNNNNNNNSSNN---
+#=GR Psec_k119Scf2409137g0000010.1/12-139    PP *********.*****9888877766654...
+Psec_k119Scf2405584g0000020.1/1-127             EIKNYWNTY.LLKKLKAAGIEPKAKT-----
+#=GR Psec_k119Scf2405584g0000020.1/1-127     PP *********.******9999988765.....
+Psec_k119Scf2394949g0000010.1/23-148            EIKNYWRTR.VQKHAKQLKCDVNSKQ-----
+#=GR Psec_k119Scf2394949g0000010.1/23-148    PP *********.***9998887776654.....
+Psec_k119Scf2419119g0000010.1/11-133            EIKNYWRTR.VQKQARQLKVDSNSKK-----
+#=GR Psec_k119Scf2419119g0000010.1/11-133    PP *********.****998888877665.....
+Psec_k119Scf2400874g0000020.1/2-130             DIKNYWNTR.LKKKLLGKQRKDHRHHKL---
+#=GR Psec_k119Scf2400874g0000020.1/2-130     PP *********.******999998888876...
+Psec_k119Scf2420980g0000090.1/2-125             DIKNYWNTK.LKKKLMALDLSSQ--------
+#=GR Psec_k119Scf2420980g0000090.1/2-125     PP *********.****987665554........
+Psec_k119Scf2423828g0000010.1/2-127             DIKNYWNTK.LKKKLMGLMHSSNQR------
+#=GR Psec_k119Scf2423828g0000010.1/2-127     PP *********.****99776666554......
+Psec_k119Scf2410777g0000010.1/5-126             DVKNYWNTH.LRKKLIVPHDQKQESK-----
+#=GR Psec_k119Scf2410777g0000010.1/5-126     PP *********.****986555554443.....
+Psec_k119Scf2417524g0000010.1/30-152            EIKNYWRTR.VQKHAKQLKCDVNSKQ-----
+#=GR Psec_k119Scf2417524g0000010.1/30-152    PP *********.***9998887776654.....
+Psec_k119Scf2412816g0000020.1/2-129             DIKNYWNTK.LKKKLFGKQRKNLKGNN----
+#=GR Psec_k119Scf2412816g0000020.1/2-129     PP *********.*****998888766655....
+Psec_k119Scf2425053g0000020.1/2-125             DIKNYWNTK.LKKKLMGLVSTSQ--------
+#=GR Psec_k119Scf2425053g0000020.1/2-125     PP *********.****987665555........
+Psec_k119Scf2380509g0000010.1/11-130            EIKNYWRTH.FKKKEKASSKQDKRK------
+#=GR Psec_k119Scf2380509g0000010.1/11-130    PP *********.**9987655554443......
+Psec_k119Scf2432511g0000010.1/2-119             DIKNYWNTK.LKKKLMG--------------
+#=GR Psec_k119Scf2432511g0000010.1/2-119     PP *********.***9974..............
+Psec_k119Scf2436577g0000010.1/8-127             EIKNHWHSY.LKKRVAKNAENESQT------
+#=GR Psec_k119Scf2436577g0000010.1/8-127     PP *********.****99877766554......
+Psec_k119Scf2403461g0000010.1/59-183            DIKNYWNTR.LKKKLLGKRKQSQM-------
+#=GR Psec_k119Scf2403461g0000010.1/59-183    PP *********.*****987776654.......
+Psec_k119Scf2424849g0000050.1/910-1027          EIKNYWRTR.VQKQARHLKIDCN--------
+#=GR Psec_k119Scf2424849g0000050.1/910-1027  PP *********.****998877765........
+Psec_k119Scf2436291g0000060.1/14-130            EIKNYWRTH.FKKKAKNSSANSEKS------
+#=GR Psec_k119Scf2436291g0000060.1/14-130    PP *********.****98777666554......
+Psec_k119Scf2425290g0000010.1/13-128            EIKNYWRTH.FKKKVKKSIDNSEK-------
+#=GR Psec_k119Scf2425290g0000010.1/13-128    PP *********.**999765544443.......
+Psec_k119Scf2434278g0000010.1/24-137            EIKNYWNTR.LKRRQRAGLP-----------
+#=GR Psec_k119Scf2434278g0000010.1/24-137    PP *********.****987655...........
+Psec_k119Scf2417751g0000020.1/61-154            ---------.---------------------
+#=GR Psec_k119Scf2417751g0000020.1/61-154    PP ...............................
+Psec_k119Scf2417751g0000020.1/119-222           AIKNHWNSS.LRKKL----------------
+#=GR Psec_k119Scf2417751g0000020.1/119-222   PP *********.**997................
+Psec_k119Scf2369416g0000010.1/2-127             DIKNYWNTR.LKKKLFGKQRQKQGS------
+#=GR Psec_k119Scf2369416g0000010.1/2-127     PP *********.*****9888776654......
+Psec_k119Scf2425677g0000030.1/27-147            EIKNYWRTR.VQKHAKQLKCDVNSK------
+#=GR Psec_k119Scf2425677g0000030.1/27-147    PP *********.***998887776655......
+Psec_k119Scf2433087g0000050.1/2-126             EIKNHWNTR.IKKKLYTEQTRDIKE------
+#=GR Psec_k119Scf2433087g0000050.1/2-126     PP *********.****99887765544......
+Psec_k119Scf2417084g0000060.1/37-142            EIKNYWNTR.IKRRQR---------------
+#=GR Psec_k119Scf2417084g0000060.1/37-142    PP *********.***987...............
+Psec_k119Scf2367010g0000010.1/23-132            EIKNYWNTR.LKRRQRAG-------------
+#=GR Psec_k119Scf2367010g0000010.1/23-132    PP *********.***99865.............
+Psec_k119Scf2432900g0000020.1/35-141            EIKNYWNTR.IKRRQRA--------------
+#=GR Psec_k119Scf2432900g0000020.1/35-141    PP *********.***9975..............
+Psec_k119Scf2421816g0000020.1/6-124             EIKNHWHSY.LKKRVIKKAENE---------
+#=GR Psec_k119Scf2421816g0000020.1/6-124     PP *********.****99887765.........
+Psec_k119Scf2376442g0000010.1/66-153            ---------.---------------------
+#=GR Psec_k119Scf2376442g0000010.1/66-153    PP ...............................
+Psec_k119Scf2376442g0000010.1/118-223           AIKNHWNSS.VKKKLDS--------------
+#=GR Psec_k119Scf2376442g0000010.1/118-223   PP *********.***9865..............
+Psec_k119Scf2423612g0000010.1/25-143            DIKNHWHAH.LKKRSKSNTNS----------
+#=GR Psec_k119Scf2423612g0000010.1/25-143    PP *********.**998765544..........
+Psec_k119Scf2435132g0000090.1/2-126             DVKNHWNTK.LKKKLLAAAEITNI-------
+#=GR Psec_k119Scf2435132g0000090.1/2-126     PP *********.****9987766655.......
+Psec_k119Scf2393709g0000010.1/35-140            EIKNYWNTR.IKRLQR---------------
+#=GR Psec_k119Scf2393709g0000010.1/35-140    PP *********.**9876...............
+Psec_k119Scf2425964g0000030.1/4-127             EVKNFWNTH.LNKRSCKGKKKHNKAEEA---
+#=GR Psec_k119Scf2425964g0000030.1/4-127     PP *********.**9998777776665554...
+Psec_k119Scf2417298g0000030.1/8-126             EIKNYWRTH.FKEKTKNSRDKSEKSK-----
+#=GR Psec_k119Scf2417298g0000030.1/8-126     PP *********.**99876666555544.....
+Psec_k119Scf2423612g0000020.1/3-127             DIKNQWHSH.LKKRAKTNSYSSTLME-----
+#=GR Psec_k119Scf2423612g0000020.1/3-127     PP *********.***9987776665555.....
+Psec_k119Scf2408290g0000010.1/3-128             EIKNHWHTS.LKKRSTQEESTSSTNSK----
+#=GR Psec_k119Scf2408290g0000010.1/3-128     PP *********.****9988887777665....
+Psec_k119Scf2421662g0000010.1/4-128             DIKNHWHAH.LKKRTKTNANSSTMEQM----
+#=GR Psec_k119Scf2421662g0000010.1/4-128     PP *********.**999876666655544....
+Psec_k119Scf2415280g0000010.1/8-127             EIKNYWRTH.MRKQAQDQRK-----------
+#=GR Psec_k119Scf2415280g0000010.1/8-127     PP *********.**99876544...........
+Psec_k119Scf2407911g0000040.1/3-116             EIKNYWRTH.MRKKAQEQRKK----------
+#=GR Psec_k119Scf2407911g0000040.1/3-116     PP *********.***99866655..........
+Psec_k119Scf2388900g0000010.1/3-144             EIKNHWHTS.LKKRANYGPNSSESSKKC---
+#=GR Psec_k119Scf2388900g0000010.1/3-144     PP *********.***998666666666555...
+Psec_k119Scf2411540g0000010.1/7-134             DVKNYWNTN.LLTRSK-FGP-----------
+#=GR Psec_k119Scf2411540g0000010.1/7-134     PP *********.986653.444...........
+Psec_k119Scf2423872g0000010.1/7-134             DVKNYWNTN.LLTRSK-FGP-----------
+#=GR Psec_k119Scf2423872g0000010.1/7-134     PP *********.986653.444...........
+Psec_k119Scf2405153g0000020.1/20-136            EIKNFFHTH.LKKQFGTKVNDHVQ-------
+#=GR Psec_k119Scf2405153g0000020.1/20-136    PP *********.**998766555444.......
+Psec_k119Scf2396743g0000020.1/7-117             EIKNHWRSH.LRKKPL---------------
+#=GR Psec_k119Scf2396743g0000020.1/7-117     PP *********.**9965...............
+Psec_k119Scf2411246g0000010.1/6-88              ---------.---------------------
+#=GR Psec_k119Scf2411246g0000010.1/6-88      PP ...............................
+Psec_k119Scf2411246g0000010.1/137-167           DVKNYWNTH.LQRKLIA--------------
+#=GR Psec_k119Scf2411246g0000010.1/137-167   PP *********.****975..............
+Psec_k119Scf2408320g0000040.1/5-118             EIKNFFHTH.LKKQFGTKVNDHVQ-------
+#=GR Psec_k119Scf2408320g0000040.1/5-118     PP *********.**998766665544.......
+Psec_k119Scf2425244g0000010.1/3-118             EVKNFCHTH.LKKHMSLKNDHALMK------
+#=GR Psec_k119Scf2425244g0000010.1/3-118     PP *********.**9987665554444......
+Psec_k119Scf2415810g0000040.1/24-148            EVKNYWRTK.VQKHANQLHCNVN--------
+#=GR Psec_k119Scf2415810g0000040.1/24-148    PP *********.**99887666554........
+Psec_k119Scf044174g0000010.1/6-119              AIKNHWNST.LKRKCCSVSED----------
+#=GR Psec_k119Scf044174g0000010.1/6-119      PP *********.****9876655..........
+Psec_k119Scf2423641g0000030.1/10-123            AIKNHWNST.LKRKCSSLSADE---------
+#=GR Psec_k119Scf2423641g0000030.1/10-123    PP *********.****98766655.........
+Psec_k119Scf2416710g0000090.1/39-148            AIKNHWNST.LRRRLAGLKRVN---------
+#=GR Psec_k119Scf2416710g0000090.1/39-148    PP *********.****98666555.........
+Psec_k119Scf2405143g0000010.1/45-159            AIKNHWNST.LRRRHNGKL------------
+#=GR Psec_k119Scf2405143g0000010.1/45-159    PP *********.***987654............
+Psec_k119Scf2426813g0000020.1/24-139            AVKNHWNST.LKRRYQQQKNQN---------
+#=GR Psec_k119Scf2426813g0000020.1/24-139    PP *********.***998766554.........
+Psec_k119Scf2411021g0000010.1/4-121             DIKNHWHTS.LKKRANYESTKKYNKNR----
+#=GR Psec_k119Scf2411021g0000010.1/4-121     PP *********.***99877766655544....
+Psec_k119Scf2390855g0000010.1/6-114             DVKNFWSSR.QKRLTKIL-------------
+#=GR Psec_k119Scf2390855g0000010.1/6-114     PP *********.99865433.............
+Psec_k119Scf2384101g0000010.1/3-113             DVKNFWSSR.QKRLAKIL-------------
+#=GR Psec_k119Scf2384101g0000010.1/3-113     PP ********9.99865433.............
+Psec_k119Scf2431924g0000010.1/8-112             AIKNHWNST.LRRKRH---------------
+#=GR Psec_k119Scf2431924g0000010.1/8-112     PP *********.**9975...............
+Psec_k119Scf2386678g0000010.1/35-147            AVKNHWNST.LKRRQQIRNN-----------
+#=GR Psec_k119Scf2386678g0000010.1/35-147    PP *********.**99875544...........
+Psec_k119Scf2432972g0000010.1/56-173            AVKNHWHVI.MARKHREQNSVYRRRK-----
+#=GR Psec_k119Scf2432972g0000010.1/56-173    PP *********.*****98887776665.....
+Psec_k119Scf2395979g0000010.1/12-125            AVKNHWHVL.MARKQREQSKIC---------
+#=GR Psec_k119Scf2395979g0000010.1/12-125    PP *********.****99887655.........
+Psec_k119Scf2397836g0000010.1/2-115             AVKNHWHVI.MARKCRERSKIYAKR------
+#=GR Psec_k119Scf2397836g0000010.1/2-115     PP *********.*****9888776654......
+Psec_k119Scf2383703g0000010.1/80-196            AVKNHWHVI.MARKYREQSSAYRR-------
+#=GR Psec_k119Scf2383703g0000010.1/80-196    PP *********.****9988776655.......
+Psec_k119Scf2424310g0000030.1/2-114             AVKNHWHVI.MSRRCRERSKIYSM-------
+#=GR Psec_k119Scf2424310g0000030.1/2-114     PP *********.*****988776655.......
+Psec_k119Scf2433771g0000120.1/2-133             DVKNLWNTK.LKKKLSAMGIDPVTHKPFS--
+#=GR Psec_k119Scf2433771g0000120.1/2-133     PP *********.***************9987..
+Psec_k119Scf2378002g0000010.1/179-295           SIKNHWNAT.KRRQFSRRKCRT---------
+#=GR Psec_k119Scf2378002g0000010.1/179-295   PP *********.**9998777665.........
+Psec_k119Scf2431643g0000100.1/12-92             EIKNVWNTH.LKKRLMKKIDG----------
+#=GR Psec_k119Scf2431643g0000100.1/12-92     PP *********.****9865443..........
+Psec_k119Scf2269082g0000010.1/133-252           SIKNHWNAT.KRRQHSRRNKFKKQEK-----
+#=GR Psec_k119Scf2269082g0000010.1/133-252   PP *********.*999887666555554.....
+Psec_k119Scf2412519g0000010.1/115-231           SIKNHWNAT.KRRQNSRRNKNRK--------
+#=GR Psec_k119Scf2412519g0000010.1/115-231   PP *********.9998876555443........
+Psec_k119Scf2428891g0000030.1/163-279           SIKNHWNAT.KRRQFSRRKCR----------
+#=GR Psec_k119Scf2428891g0000030.1/163-279   PP *********.**998877655..........
+Psec_k119Scf2431941g0000020.1/2-89              ---------.---------------------
+#=GR Psec_k119Scf2431941g0000020.1/2-89      PP ...............................
+Psec_k119Scf2434578g0000010.1/3-89              ---------.---------------------
+#=GR Psec_k119Scf2434578g0000010.1/3-89      PP ...............................
+Psec_k119Scf2426128g0000070.1/2-89              ---------.---------------------
+#=GR Psec_k119Scf2426128g0000070.1/2-89      PP ...............................
+Psec_k119Scf2377861g0000010.1/27-109            EIKNYWRTH.FKKKTRNSRDKFKKS------
+#=GR Psec_k119Scf2377861g0000010.1/27-109    PP *********.****99887777665......
+Psec_k119Scf2427565g0000010.1/412-481           ---------.---------------------
+#=GR Psec_k119Scf2427565g0000010.1/412-481   PP ...............................
+Psec_k119Scf2427565g0000010.1/493-584           ---------.---------------------
+#=GR Psec_k119Scf2427565g0000010.1/493-584   PP ...............................
+Psec_k119Scf2427565g0000010.1/587-659           QCRRRWMV-.---------------------
+#=GR Psec_k119Scf2427565g0000010.1/587-659   PP ****9976.......................
+Psec_k119Scf2425578g0000010.1/7-89              ---------.---------------------
+#=GR Psec_k119Scf2425578g0000010.1/7-89      PP ...............................
+Psec_k119Scf2427384g0000020.1/3-117             RLGKWWEVF.KEKQQREHKENNKV-------
+#=GR Psec_k119Scf2427384g0000020.1/3-117     PP *********.***99988777665.......
+Psec_k119Scf2429023g0000010.1/7-88              ---------.---------------------
+#=GR Psec_k119Scf2429023g0000010.1/7-88      PP ...............................
+Psec_k119Scf2425244g0000020.1/3-75              EVKNFFHTH.LKKHT----------------
+#=GR Psec_k119Scf2425244g0000020.1/3-75      PP *********.**975................
+Psec_k119Scf2427254g0000030.1/20-135            AVKNRFTTL.CKKRAKHEALAKENS------
+#=GR Psec_k119Scf2427254g0000030.1/20-135    PP *********.***998877666555......
+Psec_k119Scf2412787g0000010.1/5-60              ---------.---------------------
+#=GR Psec_k119Scf2412787g0000010.1/5-60      PP ...............................
+Psec_k119Scf2412787g0000010.1/23-80             ---------.---------------------
+#=GR Psec_k119Scf2412787g0000010.1/23-80     PP ...............................
+Psec_k119Scf2412787g0000010.1/101-143           ---------.---------------------
+#=GR Psec_k119Scf2412787g0000010.1/101-143   PP ...............................
+Psec_k119Scf2380651g0000010.1/3-82              ---------.---------------------
+#=GR Psec_k119Scf2380651g0000010.1/3-82      PP ...............................
+Psec_k119Scf2429346g0000010.1/106-181           EIKNLWNTH.LKKRLFSMGIDPHTHEPS---
+#=GR Psec_k119Scf2429346g0000010.1/106-181   PP *********.*************99865...
+Psec_k119Scf2426976g0000010.1/2-46              ---------.---------------------
+#=GR Psec_k119Scf2426976g0000010.1/2-46      PP ...............................
+Psec_k119Scf2426976g0000010.1/71-108            DVKNHWNTK.LKKKLLAKNANPTS-------
+#=GR Psec_k119Scf2426976g0000010.1/71-108    PP *********.*****988777654.......
+Psec_k119Scf2426435g0000030.1/5-83              EIEKNWNTR.SST------------------
+#=GR Psec_k119Scf2426435g0000030.1/5-83      PP ********9.875..................
+Psec_k119Scf2415240g0000010.1/5-86              ---------.---------------------
+#=GR Psec_k119Scf2415240g0000010.1/5-86      PP ...............................
+Psec_k119Scf2401438g0000010.1/1-51              EVKNHWHTS.LKKRSTQEESTSSTGS-----
+#=GR Psec_k119Scf2401438g0000010.1/1-51      PP *********.****998888777665.....
+Psec_k119Scf2432015g0000010.1/5-110             QCLERYEKL.---------------------
+#=GR Psec_k119Scf2432015g0000010.1/5-110     PP 776666655......................
+Psec_k119Scf2390225g0000010.1/142-186           EIERFWIMR.HS-------------------
+#=GR Psec_k119Scf2390225g0000010.1/142-186   PP ******877.66...................
+Psec_k119Scf2432688g0000010.1/14-49             DVKNYWNTK.LKKKLLEAAATN---------
+#=GR Psec_k119Scf2432688g0000010.1/14-49     PP *********.****99776554.........
+Psec_k119Scf2419174g0000030.1/10-47             EIKNYWNSW.IKKKLKKPSKPSTNT------
+#=GR Psec_k119Scf2419174g0000030.1/10-47     PP *********.****98665544444......
+Psec_k119Scf2414524g0000010.1/2-40              EIKNYWNTH.LIKKLKSAGIEPKVNKSFS--
+#=GR Psec_k119Scf2414524g0000010.1/2-40      PP *********.***********99998876..
+Psec_k119Scf2401858g0000010.1/131-175           HVKDTWRR-.---------------------
+#=GR Psec_k119Scf2401858g0000010.1/131-175   PP 9*****86.......................
+Psec_k119Scf2401858g0000010.1/180-265           ---------.---------------------
+#=GR Psec_k119Scf2401858g0000010.1/180-265   PP ...............................
+Psec_k119Scf2388673g0000020.1/1-36              EIKNHWHSY.LKKRVAKIAENEAKSQ-----
+#=GR Psec_k119Scf2388673g0000020.1/1-36      PP *********.****998777766655.....
+Psec_k119Scf2387420g0000010.1/19-64             DVMAHYDAL.---------------------
+#=GR Psec_k119Scf2387420g0000010.1/19-64     PP **9999875......................
+Psec_k119Scf2387420g0000010.1/108-153           ---------.---------------------
+#=GR Psec_k119Scf2387420g0000010.1/108-153   PP ...............................
+Psec_k119Scf2430892g0000010.1/31-56             EVKNHYELL.---------------------
+#=GR Psec_k119Scf2430892g0000010.1/31-56     PP *****9865......................
+Psec_k119Scf2430892g0000010.1/111-155           ---------.---------------------
+#=GR Psec_k119Scf2430892g0000010.1/111-155   PP ...............................
+Psec_k119Scf2408935g0000030.1/19-70             DVMNQYKEL.V--------------------
+#=GR Psec_k119Scf2408935g0000030.1/19-70     PP ****99876.5....................
+Psec_k119Scf2408935g0000030.1/109-154           ---------.---------------------
+#=GR Psec_k119Scf2408935g0000030.1/109-154   PP ...............................
+Psec_k119Scf2426129g0000010.1/376-419           HVKDTWRR-.---------------------
+#=GR Psec_k119Scf2426129g0000010.1/376-419   PP 9*****86.......................
+Psec_k119Scf2426129g0000010.1/424-510           ---------.---------------------
+#=GR Psec_k119Scf2426129g0000010.1/424-510   PP ...............................
+Psec_k119Scf2373847g0000050.1/18-50             QIISHYDD-.---------------------
+#=GR Psec_k119Scf2373847g0000050.1/18-50     PP **999875.......................
+Psec_k119Scf2373847g0000050.1/82-126            ---------.---------------------
+#=GR Psec_k119Scf2373847g0000050.1/82-126    PP ...............................
+Psec_k119Scf2417796g0000010.1/355-400           HVGNAWQRI.K--------------------
+#=GR Psec_k119Scf2417796g0000010.1/355-400   PP 9*****875.4....................
+Psec_k119Scf2417796g0000010.1/579-629           HVRDAWRRIkLARKK----------------
+#=GR Psec_k119Scf2417796g0000010.1/579-629   PP ******975133333................
+Psec_k119Scf2376839g0000010.1/20-64             DVM------.---------------------
+#=GR Psec_k119Scf2376839g0000010.1/20-64     PP 775............................
+Psec_k119Scf2376839g0000010.1/109-154           ---------.---------------------
+#=GR Psec_k119Scf2376839g0000010.1/109-154   PP ...............................
+Psec_k119Scf2428511g0000010.1/20-56             EVKQHYAVL.VE-------------------
+#=GR Psec_k119Scf2428511g0000010.1/20-56     PP *****9877.65...................
+Psec_k119Scf2428511g0000010.1/168-200           EVKHHYEIL.---------------------
+#=GR Psec_k119Scf2428511g0000010.1/168-200   PP *****9865......................
+Psec_k119Scf2427160g0000010.1/32-78             DVIKQYRE-.---------------------
+#=GR Psec_k119Scf2427160g0000010.1/32-78     PP *9887765.......................
+Psec_k119Scf2427160g0000010.1/128-172           ---------.---------------------
+#=GR Psec_k119Scf2427160g0000010.1/128-172   PP ...............................
+Psec_k119Scf2409905g0000020.1/30-74             DVIKQYRE-.---------------------
+#=GR Psec_k119Scf2409905g0000020.1/30-74     PP *9887765.......................
+Psec_k119Scf2409905g0000020.1/137-179           ---------.---------------------
+#=GR Psec_k119Scf2409905g0000020.1/137-179   PP ...............................
+Psec_k119Scf2418022g0000030.1/11-55             EIIHHYEL-.---------------------
+#=GR Psec_k119Scf2418022g0000030.1/11-55     PP **999875.......................
+Psec_k119Scf2418022g0000030.1/91-132            ---------.---------------------
+#=GR Psec_k119Scf2418022g0000030.1/91-132    PP ...............................
+Psec_k119Scf2386576g0000010.1/18-68             DVIKQY---.---------------------
+#=GR Psec_k119Scf2386576g0000010.1/18-68     PP 876555.........................
+Psec_k119Scf2386576g0000010.1/124-167           ---------.---------------------
+#=GR Psec_k119Scf2386576g0000010.1/124-167   PP ...............................
+Psec_k119Scf2367085g0000010.1/21-69             DVMKQYK--.---------------------
+#=GR Psec_k119Scf2367085g0000010.1/21-69     PP 9977765........................
+Psec_k119Scf2367085g0000010.1/112-155           ---------.---------------------
+#=GR Psec_k119Scf2367085g0000010.1/112-155   PP ...............................
+Psec_k119Scf2416305g0000030.1/60-94             ELKQHYQML.---------------------
+#=GR Psec_k119Scf2416305g0000030.1/60-94     PP *****9875......................
+Psec_k119Scf2416305g0000030.1/133-193           ---------.---------------------
+#=GR Psec_k119Scf2416305g0000030.1/133-193   PP ...............................
+Psec_k119Scf2413122g0000010.1/33-56             EVKHHYDL-.---------------------
+#=GR Psec_k119Scf2413122g0000010.1/33-56     PP ****9975.......................
+Psec_k119Scf2413122g0000010.1/116-158           ---------.---------------------
+#=GR Psec_k119Scf2413122g0000010.1/116-158   PP ...............................
+Psec_k119Scf2387181g0000020.1/444-489           HVKDTWRR-.---------------------
+#=GR Psec_k119Scf2387181g0000020.1/444-489   PP 9*****86.......................
+Psec_k119Scf2387181g0000020.1/494-580           ---------.---------------------
+#=GR Psec_k119Scf2387181g0000020.1/494-580   PP ...............................
+Psec_k119Scf2401575g0000010.1/6-47              ELKRHYQI-.---------------------
+#=GR Psec_k119Scf2401575g0000010.1/6-47      PP ****9976.......................
+Psec_k119Scf2401575g0000010.1/115-161           ---------.---------------------
+#=GR Psec_k119Scf2401575g0000010.1/115-161   PP ...............................
+Psec_k119Scf2401858g0000020.1/878-929           HVKDTWRRL.KLTNR----------------
+#=GR Psec_k119Scf2401858g0000020.1/878-929   PP ******975.54333................
+Psec_k119Scf2401858g0000020.1/928-1014          ---------.---------------------
+#=GR Psec_k119Scf2401858g0000020.1/928-1014  PP ...............................
+Psec_k119Scf2420638g0000010.1/1-31              EVKNYWSSH.LKQKLRNMGIDPMTY------
+#=GR Psec_k119Scf2420638g0000010.1/1-31      PP *********.**********99876......
+Psec_k119Scf2387522g0000050.1/1-26              EIKNYWRTR.VQKHAKQLKCDVN--------
+#=GR Psec_k119Scf2387522g0000050.1/1-26      PP *********.**99988777665........
+Psec_k119Scf2436669g0000020.1/199-247           ---------.---------------------
+#=GR Psec_k119Scf2436669g0000020.1/199-247   PP ...............................
+Psec_k119Scf2433517g0000040.1/193-239           ---------.---------------------
+#=GR Psec_k119Scf2433517g0000040.1/193-239   PP ...............................
+Psec_k119Scf2435654g0000010.1/4-36              ---------.---------------------
+#=GR Psec_k119Scf2435654g0000010.1/4-36      PP ...............................
+Psec_k119Scf2431997g0000190.1/5-33              ---------.---------------------
+#=GR Psec_k119Scf2431997g0000190.1/5-33      PP ...............................
+Psec_k119Scf2402092g0000010.1/11-60             EVKRHYEKL.VQ-------------------
+#=GR Psec_k119Scf2402092g0000010.1/11-60     PP ******988.77...................
+Psec_k119Scf2386832g0000010.1/5-36              ---------.---------------------
+#=GR Psec_k119Scf2386832g0000010.1/5-36      PP ...............................
+Psec_k119Scf2431520g0000010.1/235-282           ---------.---------------------
+#=GR Psec_k119Scf2431520g0000010.1/235-282   PP ...............................
+Psec_k119Scf2378163g0000010.1/5-36              ---------.---------------------
+#=GR Psec_k119Scf2378163g0000010.1/5-36      PP ...............................
+Psec_k119Scf2370354g0000010.1/5-39              ---------.---------------------
+#=GR Psec_k119Scf2370354g0000010.1/5-39      PP ...............................
+Psec_k119Scf2397707g0000010.1/131-164           ---------.---------------------
+#=GR Psec_k119Scf2397707g0000010.1/131-164   PP ...............................
+Psec_k119Scf2433415g0000010.1/5-36              ---------.---------------------
+#=GR Psec_k119Scf2433415g0000010.1/5-36      PP ...............................
+Psec_k119Scf2426442g0000010.1/6-27              ---------.---------------------
+#=GR Psec_k119Scf2426442g0000010.1/6-27      PP ...............................
+Psec_k119Scf2422970g0000040.1/54-110            QIRSHAQKF.FAKVARDSGID----------
+#=GR Psec_k119Scf2422970g0000040.1/54-110    PP **9998888.88877766665..........
+Psec_k119Scf2380840g0000010.1/24-68             QIRSHAQK-.---------------------
+#=GR Psec_k119Scf2380840g0000010.1/24-68     PP 99987655.......................
+Psec_k119Scf2415888g0000010.1/54-92             EVKQHYEIL.IE-------------------
+#=GR Psec_k119Scf2415888g0000010.1/54-92     PP *****9876.65...................
+Psec_k119Scf2424670g0000010.1/495-549           ---------.---------------------
+#=GR Psec_k119Scf2424670g0000010.1/495-549   PP ...............................
+Psec_k119Scf2426145g0000010.1/16-61             QVKHHYQLL.V--------------------
+#=GR Psec_k119Scf2426145g0000010.1/16-61     PP *****9865.5....................
+Psec_k119Scf2436549g0000050.1/22-54             ---------.---------------------
+#=GR Psec_k119Scf2436549g0000050.1/22-54     PP ...............................
+Psec_k119Scf2418193g0000020.1/50-100            QIRSHAQKF.FAKVA----------------
+#=GR Psec_k119Scf2418193g0000020.1/50-100    PP **9987777.76655................
+Psec_k119Scf2434279g0000010.1/1096-1134         ---------.---------------------
+#=GR Psec_k119Scf2434279g0000010.1/1096-1134 PP ...............................
+#=GC PP_cons                                    *******9*.***99988888777777665.
+#=GC RF                                         xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx
+//
