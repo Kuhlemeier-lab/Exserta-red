@@ -1,2 +1,2 @@
 # Exserta-red
-Data repo for exserta red manuscript
+Supplementary data and scripts repo for exserta red manuscript
