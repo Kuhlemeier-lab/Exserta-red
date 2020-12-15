@@ -1,0 +1,140 @@
+LOCUS       P._hybrida_Mitchell_DPL         262 aa            linear   UNA 15-DEC-2020
+DEFINITION  R2R3 MYB anthocyanin regulator [Petunia x hybrida].
+ACCESSION   ADW94950
+KEYWORDS    .
+SOURCE      Petunia x hybrida
+  ORGANISM  Petunia x hybrida
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Petunioideae; Petunia.
+FEATURES             Location/Qualifiers
+     CDS             1..262
+                     /gene="DPL"
+                     /coded_by="HQ116169.1:85..873"
+                     /label="DPL CDS"
+     Protein         1..262
+                     /product="R2R3 MYB anthocyanin regulator"
+                     /label="R2R3 MYB anthocyanin regulator Protein"
+     source          1..262
+                     /organism="Petunia x hybrida"
+                     /cultivar="Mitchell"
+                     /db_xref="taxon:4102"
+                     /note="Petunia axillaris x [P. axillaris x P. hybrida]"
+                     /label="source Petunia x hybrida"
+     Region          14..63
+                     /region_name="SANT"
+                     /note="SANT SWI3, ADA2, N-CoR and TFIIIB'' DNA-binding
+                     domains; smart00717"
+                     /db_xref="CDD:197842"
+                     /label="SANT"
+     Region          14..61
+                     /region_name="Myb_DNA-binding"
+                     /note="Myb-like DNA-binding domain; pfam00249"
+                     /db_xref="CDD:278669"
+                     /label="Myb DNA-binding"
+     Region          67..114
+                     /region_name="SANT"
+                     /note="SANT SWI3, ADA2, N-CoR and TFIIIB'' DNA-binding
+                     domains; smart00717"
+                     /db_xref="CDD:197842"
+                     /label="SANT"
+     Region          67..112
+                     /region_name="Myb_DNA-binding"
+                     /note="Myb-like DNA-binding domain; pfam00249"
+                     /db_xref="CDD:278669"
+                     /label="Myb DNA-binding"
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfap
+      121 ppqqherkct keirtmakna iirpqprnls klaknnvsnh stkhkdeysk qkmfiekptt
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypiq
+      241 etgdmgwsdf cidsdpwell lq
+//
+LOCUS       P._hybrida_R27_DPL         262 aa            linear   UNA 15-DEC-2020
+DEFINITION  P. hybrida R27 DPL.
+ACCESSION   geneious|urn:local:.:1e-crval0x:1
+VERSION     geneious|urn:local:.:1e-crval0x:1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..87
+                     /Original_Bases
+                     /label
+                     /note="Geneious type: Editing History Insertion"
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfas
+      121 ppqqherkct keirtmakna iirpqprnls klaknnvsnh stihkdeysk qkmfiekptm
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmgwsdf cidsdpwell lq
+//
+LOCUS       P._inflata_DPL           261 aa            linear   UNA 15-DEC-2020
+DEFINITION  P. inflata DPL.
+ACCESSION   geneious|urn:local:.:1e-crval0x:2
+VERSION     geneious|urn:local:.:1e-crval0x:2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf speevdlilr lhkllgnrws liagrlpgrt andvknywnt qllrrsnfap
+      121 pqqhqrkctk aikimaknvi irpqprnlsk laknnvsnys tihkdehskq kmfiekptaa
+      181 evvsrdnnve wwtnllldnc ngfekaapes tsavkniesl lneellstsi nggtnypmqe
+      241 tgdmgwsdfs idsdlwelll q
+//
+LOCUS       P._axillaris_DPL         262 aa            linear   UNA 15-DEC-2020
+DEFINITION  P. axillaris DPL.
+ACCESSION   geneious|urn:local:.:1e-crval0x:3
+VERSION     geneious|urn:local:.:1e-crval0x:3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfas
+      121 ppqqherkct keirtmakna iirpqprnls klaknnvsnh stihkdeysk qkmfiekptm
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmgwsdf cidsdpwell lq
+//
+LOCUS       P._secreta_DPL           262 aa            linear   UNA 15-DEC-2020
+DEFINITION  P. secreta DPL.
+ACCESSION   geneious|urn:local:.:1e-crval0x:4
+VERSION     geneious|urn:local:.:1e-crval0x:4
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfap
+      121 ppqqherkct kairtmakna iirpqprnls klaknnvsny stihkdeysk qkmfiekptt
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmglsdf sidsdlwell lq
+//
+LOCUS       P._exserta_DPL           262 aa            linear   UNA 15-DEC-2020
+DEFINITION  P. exserta DPL.
+ACCESSION   geneious|urn:local:.:1e-crval0x:5
+VERSION     geneious|urn:local:.:1e-crval0x:5
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc            163
+                     /created_by="User"
+                     /label
+ORIGIN      
+        1 mntsvftssg vlrkgawaee edillrkcie kygegkwhqv pvraglnrcr kscrlrwlny
+       61 lrphikrgdf cpeevdliqr lhkllgnrws liagrlpgrt andvknywnt hllrrsnfap
+      121 ppqqherkct keirtmakna iirpqprnls klaknnvsnh stkhkdeysk qkmfiekptt
+      181 aevvsrdnnv ewwtnllldn cngfekaape ssstfknies llneellsas inggtnypmq
+      241 etgdmgwsdf cidsdpwell lq
+//
