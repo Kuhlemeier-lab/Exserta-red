@@ -1,5 +1,9 @@
-#BEFORE RUNNING THIS SCRIPT on computer
-#I installed python3 using brew
+###### THIS IS AN INTERACTIVE SCRIPT I RUN ON LINUX WITH PYTHON3 #####
+#### THIS SCRIPT WAS MODIFIED FROM AN ORIGINAL SCRIPT WRITTEN BY M. MOSER, PLEASE SEE https://doi.org/10.1016/j.cub.2018.10.019 ####
+# JUPYTER NOTEBOOK OPTIONAL #
+
+#BEFORE RUNNING THIS SCRIPT
+#you will need your counts files and your genome annotation file (gff) and python3
 #then followed the instructions here to make sure that the jupyter notebook could run ipython with a python3 kernel
 #https://ipython.readthedocs.io/en/latest/install/kernel_install.html
 	#python3 -m pip install ipykernel
@@ -33,9 +37,6 @@ from scipy.stats.mstats import chisquare
 
 
 ## Synchronize the ASE.counts.short files:
-#ASErep1 = "/Users/andreaberardi/Documents/ASE/axsec10col.ASE.counts.short"
-#ASErep2 = "/Users/andreaberardi/Documents/ASE/axsec2col.ASE.counts.short"
-#ASErep3 = "/Users/andreaberardi/Documents/ASE/axsec5col.ASE.counts.short"
 ASErep1 = "axex1.strict.counts.short"
 ASErep2 = "axex2.strict.counts.short"
 ASErep3 = "axex3.strict.counts.short"
@@ -74,7 +75,7 @@ print(len(allpos))
 
 out = []
 
-#making changes to t1 - t3... how?
+
 
 e = 0
 for i in allpos: 
@@ -138,14 +139,14 @@ with open("peaxi162AQ_PeaxHIC303.cds.swapphase.sorted.AB.fixedtabs.gff") as gff:
 gene_df = pd.DataFrame(gene_list, columns=['gene', 'sequence', 'first', 'last'])
 print(gene_df.shape)
 print(gene_df.head(10))
-print(gene_df.loc[gene_df["sequence"]=="Peax302Scf85298"])
+print(gene_df.loc[gene_df["sequence"]=="Peax302Scf85298"]) #Enter a scaffold here to test
 
 
 %%time
 
 #write to output
 
-#what does positions look like?
+#what do positions look like?
 c = 0
 k = 0
 with open('F1s.strict.counts.short', 'w') as outf: 
@@ -169,6 +170,4 @@ with open('F1s.strict.counts.short', 'w') as outf:
 print(c)
 
 
-#optimize for runtime!!!
-
-#afterwards, sort with "$bedtools sort -i ...v3162.counts" to not mix up SNPs when treated in R
+#afterwards, sort with "$bedtools sort -i yourcountsfile.counts" to not mix up SNPs when treated in R
