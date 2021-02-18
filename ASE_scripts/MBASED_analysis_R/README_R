@@ -1,0 +1,8 @@
+README
+Generalized R script to calculate ASE with data and list of gene names/IDs.
+Scripts are modified from Esfeld, Berardi, Moser et al. 2018. Originally written by M. Moser, modified by AB.
+  See https://github.com/Kuhlemeier-lab/Pseudogenization_and_resurrection_CB for original scripts and further examples.
+  
+Data file: F1s.strict.counts.short.sorted
+List of flavonoid genes: 
+Analysis file: ASE_forpub.R
