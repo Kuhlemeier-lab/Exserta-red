@@ -1,0 +1,17 @@
+README
+
+ASE - allele-specific expression scripts. These were developed by M. Moser for Esfeld
+
+Please start with your coordinate-sorted bamfiles. You need two parental species and F1 hybrids.
+Here we mapped P. exserta parental species bamfiles to the P. axillaris reference genome to create variant files.
+Then we took the biallelic SNPs, filtered out variants that were shared with P. axillaris or for which P. axillaris was variable itself.
+Then, we call variants in the F1s. We count and sort using Python.
+Last, we use MBASED in R.
+
+Use the scripts in the order:
+1
+2
+3
+4
+5 python
+6 R script MBASED
