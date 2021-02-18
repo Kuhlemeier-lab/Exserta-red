@@ -9,9 +9,9 @@ Then, we call variants in the F1s. We count and sort using Python.
 Last, we use MBASED in R.
 
 Use the scripts in the order:
-1
-2
-3
-4
-5 python
-6 R script MBASED
+1 ASE_step1 (linux)
+2 ASE_step2 (linux)
+3 ASE_step3 (linux)
+4 ASE_step4 (linux)
+5 ASE_count_to_MBASEDinput_ab_axexs303.py (python script)
+6 R script MBASED to count the F1s.strict.counts.short.sorted file. You will also need your annotation file gff.
