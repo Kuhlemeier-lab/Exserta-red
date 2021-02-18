@@ -14,4 +14,6 @@ Use the scripts in the order:
 3 ASE_step3 (linux)
 4 ASE_step4 (linux)
 5 ASE_count_to_MBASEDinput_ab_axexs303.py (python script)
-6 R script MBASED to count the F1s.strict.counts.short.sorted file. You will also need your annotation file gff.
+6 R script MBASED to count the F1s.strict.counts.short.sorted file. R script and data files in folder MBASED_analysis_R
+
+contact A. Berardi for questions: andrea.berardi (at) ips.unibe.ch
