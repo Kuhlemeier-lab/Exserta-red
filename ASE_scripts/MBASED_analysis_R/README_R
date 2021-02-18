@@ -4,5 +4,7 @@ Scripts are modified from Esfeld, Berardi, Moser et al. 2018. Originally written
   See https://github.com/Kuhlemeier-lab/Pseudogenization_and_resurrection_CB for original scripts and further examples.
   
 Data file: F1s.strict.counts.short.sorted
-List of flavonoid genes: 
-Analysis file: ASE_forpub.R
+List of flavonoid genes: petunia_flavonoid_pathway_gene_names_and_ids.txt
+Analysis file: AX_EXS_st4_ASE_ax303_forpub.R
+
+contact A. Berardi for questions: andrea.berardi (at) ips.unibe.ch
