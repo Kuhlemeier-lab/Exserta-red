@@ -1,1 +1,4 @@
-Data for this RILs population is available upon request, contact cris.kuhlemeier@ips.unibe.ch
+Further data for this RILs population is available upon request, contact cris.kuhlemeier@ips.unibe.ch
+
+Data file provided for R/QTL analysis: axex_RILs_map_forpub.csv
+R script for QTL analysis: RILS_mapgen_and_qtl_analysis_TPC_version.R

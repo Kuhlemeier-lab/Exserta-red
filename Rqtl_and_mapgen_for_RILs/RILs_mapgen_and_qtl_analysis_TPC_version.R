@@ -1,10 +1,11 @@
+#### Code by AEB ####
+#start at Line 136 for QTL analysis, data for this provided
+
 ##### genetic map generation for RILs pop ####
 library(qtl)
 
-#re-making the genetic map
-#read in cross
 #The genotypes of this mapping population can only be released upon direct request
-#please email cris.kuhlemeier@ips.unibe.ch
+#please email cris.kuhlemeier@ips.unibe.ch for data requests
 
 mapthis <- read.cross("csv", "~/RILs/maps/", "Peax.mathieu.perf.out.Andrea.physmap.csv", estimate.map = F, crosstype = "riself")
 
@@ -137,7 +138,7 @@ setwd("~/RILs/")
 library(qtl)
 
 #LOAD THE DATA (Data available upon request, please contact cris.kuhlemeier@ips.unibe.ch)
-DATA <- read.cross ("csv","~/RILs/", "andrea_RILs_map_justchromosomes_forpub.csv", crosstype = "riself")
+DATA <- read.cross ("csv","~/RILs/", "axex_RILs_map_forpub.csv", crosstype = "riself")
 
 DATA <- convert2riself(DATA)
 # the default for a cross is backcross or intercross
