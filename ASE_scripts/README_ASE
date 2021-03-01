@@ -1,6 +1,6 @@
 README
 
-ASE - allele-specific expression scripts. These were developed by M. Moser for Esfeld
+ASE - allele-specific expression scripts. These were developed by M. Moser for Esfeld, Berardi, Moser et al. 2018 https://doi.org/10.1016/j.cub.2018.10.019 and modified for this manuscript by A. Berardi.
 
 Please start with your coordinate-sorted bamfiles. You need two parental species and F1 hybrids.
 Here we mapped P. exserta parental species bamfiles to the P. axillaris reference genome to create variant files.
